@@ -1,9 +1,3 @@
-## CSPB 4502
-
------
-
-https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
-
 -----
 
 # TITLE: Spotify Data Mining Project
