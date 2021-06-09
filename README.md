@@ -6,7 +6,7 @@ Team Members:
 - Sam Springer
 - Ryan Power
 - Jenna Dean
-- Sean Mccormick
+- Sean McCormick
 
 -----
 
