@@ -355,8 +355,8 @@ def plotter():
 # ````````````````````````````````
 
 client, sp = None, None
-cid = '9cab75c094f941978bff0389a9d5dfa4'        # Insert cid here
-secret = '20b6077267ae4241af1756d4544b5069'     # Insert secret here
+cid = ''        # Insert cid here
+secret = ''     # Insert secret here
 
 artist_name = 'Journey'
 artist_stats = artist(artist_name)
