@@ -9,43 +9,8 @@ from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori
 import spotipy
 import Spotify_Class
+import Spotify_Def
 from spotipy.oauth2 import SpotifyClientCredentials
-
-# ----------------------------------------------------------------#
-# Create Token, Retrieve Spotify Artist
-# ----------------------------------------------------------------#
-
-artist_name = 'The Weeknd'
-artist_stats = Spotify_Class.artist(artist_name)
-client = SpotifyClientCredentials(client_id = artist_stats.cid, client_secret = artist_stats.secret)
-sp = spotipy.Spotify(client_credentials_manager = client)
-artist_stats.Get_Artist()
-
-# ----------------------------------------------------------------#
-# Retrieve recommended songs based off artist
-# ----------------------------------------------------------------#
-
-def Song_Generator(artist_ID):
-    song_list = []
-    artist_name, song_name, popularity, track_number, uri = [], [], [], [], []
-    songs = sp.recommendations(seed_artists = [artist_ID])
-    recommended_songs = songs['tracks']
-    for k in range(0, len(recommended_songs)):
-        rec_song = Spotify_Class.song()
-        rec_song.artist_name = songs['tracks'][k]['album']['artists'][0]['name']
-        artist_name.append(songs['tracks'][k]['album']['artists'][0]['name'])
-        rec_song.song_url = songs['tracks'][k]['external_urls']['spotify']
-        rec_song.song_id = songs['tracks'][k]['id']
-        rec_song.song_name = songs['tracks'][k]['name']
-        song_name.append(songs['tracks'][k]['name'])
-        rec_song.song_popularity = songs['tracks'][k]['popularity']
-        popularity.append(songs['tracks'][k]['popularity'])
-        rec_song.track_number = songs['tracks'][k]['track_number']
-        track_number.append(songs['tracks'][k]['track_number'])
-        rec_song.song_uri = songs['tracks'][k]['uri']
-        uri.append(songs['tracks'][k]['uri'])
-        song_list.append(rec_song)
-    return song_list, artist_name, song_name, popularity, track_number, uri
 
 # ----------------------------------------------------------------#
 # Retrieve Audio Analysis of Single
@@ -74,84 +39,70 @@ def Song_Features(single):
     return track_stats
 
 # ----------------------------------------------------------------#
-# Spotify API Collect List of Song Recommendations
+# Spotify API Artist Top Tracks
 # ----------------------------------------------------------------#
 
-def song_recommendations(profile):
-    loop = 1
-    rec_compilation, df_rec_compilation = [], []
-    artist_data, song_name_data, popularity_data, track_numbers_data, uris_data = [], [], [], [], []
-    for k in range(0, loop):
-        song_list, artist_names, song_names, popularity, track_numbers, uris = Song_Generator(profile.id)
-        rec_compilation.append(song_list)
-        artist_data.append(artist_names)
-        song_name_data.append(song_names)
-        popularity_data.append(popularity)
-        track_numbers_data.append(track_numbers)
-        uris_data.append(uris)
-        df_recommendations = pd.DataFrame({'Artist':artist_names, 'Song':song_names, 'Popularity':popularity, 'Track Number':track_numbers, 'URI':uris})
-        df_rec_compilation.append(df_recommendations)
-    return rec_compilation, df_rec_compilation
-
-class_rec, df_rec = song_recommendations(artist_stats)
+def popular_songs(profile):
+    top_tracks_basket = []
+    track_duration, track_explicit, track_is_local, track_name, track_popularity = [], [], [], [], []
+    all_top_tracks = sp.artist_top_tracks(profile.uri)
+    top_tracks = all_top_tracks['tracks']
+    if len(top_tracks) > 0:
+        for k in range(0, len(top_tracks)):
+            track = Spotify_Class.top_track()
+            track.disc_number = top_tracks[k]['disc_number']
+            track.duration_ms = top_tracks[k]['duration_ms']
+            track_duration.append(top_tracks[k]['duration_ms'])
+            track.explicit = top_tracks[k]['explicit']
+            track_explicit.append(top_tracks[k]['explicit'])
+            track.external_urls = top_tracks[k]['external_urls']
+            track.href = top_tracks[k]['href']
+            track.is_local = top_tracks[k]['is_local']
+            track_is_local.append(top_tracks[k]['is_local'])
+            track.is_playable = top_tracks[k]['is_playable']
+            track.name = top_tracks[k]['name']
+            track_name.append(top_tracks[k]['name'])
+            track.popularity = top_tracks[k]['popularity']
+            track_popularity.append(top_tracks[k]['popularity'])
+            track.track_number = top_tracks[k]['track_number']
+            track.uri = top_tracks[k]['uri']
+            top_tracks_basket.append(track)
+        acousticness, danceability, energy, instrumentalness, key, liveness, loudness, mode, speechiness, tempo, time_signature, valence, duration_ms  = [], [], [], [], [], [], [], [], [], [], [], [], []
+        for k in range(0, len(top_tracks_basket)):
+            top_track_acoustics = Song_Features(top_tracks_basket[k].uri)
+            acousticness.append(top_track_acoustics.acousticness)
+            danceability.append(top_track_acoustics.danceability)
+            energy.append(top_track_acoustics.energy)
+            instrumentalness.append(top_track_acoustics.instrumentalness)
+            key.append(top_track_acoustics.key)
+            liveness.append(top_track_acoustics.liveness)
+            loudness.append(top_track_acoustics.loudness)
+            mode.append(top_track_acoustics.mode)
+            speechiness.append(top_track_acoustics.speechiness)
+            tempo.append(top_track_acoustics.tempo)
+            time_signature.append(top_track_acoustics.time_signature)
+            valence.append(top_track_acoustics.valence)
+            duration_ms.append(top_track_acoustics.duration_ms)
+        df = pd.DataFrame({'Song':track_name, 'Popularity':track_popularity, 'Duration':track_duration, 'Explicit':track_explicit, 'Local':track_is_local, 'Acousticness':acousticness, 'Danceability':danceability, 'Energy':energy, 'Instrumentalness':instrumentalness, 'Key':key, 'Liveness':liveness, 'Loudness':loudness, 'Mode':mode, 'Speechiness':speechiness, 'Tempo':tempo, 'Time_Signature':time_signature, 'Valence':valence, 'Duration_ms':duration_ms})  
+        return df
 
 # ----------------------------------------------------------------#
-# Spotify API Capture and Tabulate Song Acoustics
+# Create Token, Retrieve Spotify Artist, Capture Top 10
 # ----------------------------------------------------------------#
 
-def song_acoustics(rec_class_list):
-    acoustics_class_basket, acoustics_df_basket = [], []
-    acoustics_complete, artists, songs = [], [], []
-    acousticness, danceability, energy, instrumentalness, key, liveness, loudness, mode, speechiness, tempo, time_signature, valence, duration_ms  = [], [], [], [], [], [], [], [], [], [], [], [], []
-    for j in range(0, len(rec_class_list)):
-        single_rec_class = rec_class_list[j]
-        for k in range(0, len(single_rec_class)):
-            single = single_rec_class[k]
-            artist = single.artist_name
-            song = single.song_name
-            uri = single.song_uri
-            single_acoustics = Song_Features(uri)
-            acoustics_complete.append(single_acoustics)
-            artists.append(artist)
-            songs.append(song)
-            acousticness.append(single_acoustics.acousticness)
-            danceability.append(single_acoustics.danceability)
-            energy.append(single_acoustics.energy)
-            instrumentalness.append(single_acoustics.instrumentalness)
-            key.append(single_acoustics.key)
-            liveness.append(single_acoustics.liveness)
-            loudness.append(single_acoustics.loudness)
-            mode.append(single_acoustics.mode)
-            speechiness.append(single_acoustics.speechiness)
-            tempo.append(single_acoustics.tempo)
-            time_signature.append(single_acoustics.time_signature)
-            valence.append(single_acoustics.valence)
-            duration_ms.append(single_acoustics.duration_ms)
-        df = pd.DataFrame({'Artist':artists, 'Song':songs, 'Acousticness':acousticness, 'Danceability':danceability, 'Energy':energy, 'Instrumentalness':instrumentalness, 'Key':key, 'Liveness':liveness, 'Loudness':loudness, 'Mode':mode, 'Speechiness':speechiness, 'Tempo':tempo, 'Time_Signature':time_signature, 'Valence':valence, 'Duration_ms':duration_ms})
-        acoustics_class_basket.append(acoustics_complete)
-        acoustics_df_basket.append(df)
-        artists.clear()
-        songs.clear()
-        acousticness.clear()
-        danceability.clear()
-        energy.clear()
-        instrumentalness.clear()
-        key.clear()
-        liveness.clear()
-        loudness.clear()
-        mode.clear()
-        speechiness.clear()
-        tempo.clear()
-        time_signature.clear()
-        valence.clear()
-        duration_ms.clear()
-    return acoustics_class_basket, acoustics_df_basket
+artist_name = 'Metallica'
+artist_stats = Spotify_Class.artist(artist_name)
+client = SpotifyClientCredentials(client_id = artist_stats.cid, client_secret = artist_stats.secret)
+sp = spotipy.Spotify(client_credentials_manager = client)
+artist_stats.Get_Artist()
+df_top10 = popular_songs(artist_stats)
 
-test1, test2 = song_acoustics(class_rec)
-print(test2[0])
-# print(test2[0],'\n\n',test2[1])
-
-
-
-
-
+Spotify_Def.new_line()
+print('Artist Name:     ' + artist_stats.spotify_name)
+print('Spotify URI:     ' + artist_stats.uri)
+print('Followers:       ' + str(artist_stats.followers))
+print('Genre List:      ' + str(artist_stats.genres))
+print('Popularity:      ' + str(artist_stats.popularity))
+Spotify_Def.new_line()
+print(df_top10)
+Spotify_Def.new_line()
