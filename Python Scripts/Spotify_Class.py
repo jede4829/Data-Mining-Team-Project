@@ -22,8 +22,8 @@ class artist:
         self.popularity = 0
         self.href = ''
         self.images = ''
-        self.cid = ''                       # Client ID
-        self.secret = ''                    # Secret
+        self.cid = '9cab75c094f941978bff0389a9d5dfa4'                       # Client ID
+        self.secret = '20b6077267ae4241af1756d4544b5069'                    # Secret
 
     def Artist_Profile(self, tp_art):
         self.external_urls = tp_art['external_urls']
@@ -83,3 +83,23 @@ class track_features:
         self.track_href = ''
         self.uri = ''
         self.valence = ''
+
+# ----------------------------------------------------------------#
+# Top Track Class
+# ----------------------------------------------------------------#
+
+class top_track:
+    def __init__(self):
+        self.disc_number = 0
+        self.duration_ms = 0
+        self.explicit = ''
+        self.external_urls = ''
+        self.href = ''
+        self.is_local = ''
+        self.is_playable = ''
+        self.name = ''
+        self.popularity = 0
+        self.track_number = ''
+        self.uri = ''
+
+
