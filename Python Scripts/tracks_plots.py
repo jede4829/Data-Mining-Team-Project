@@ -11,6 +11,8 @@ from random import randint
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import apriori
 
+#uses tracks.csv from kaggle. File is too large for github
+
 def regr_stats(df):
     #performs multiple linear regression
     #returns r-squared and adj r-squared
