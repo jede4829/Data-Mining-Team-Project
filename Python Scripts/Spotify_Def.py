@@ -4,6 +4,8 @@
 # ----------------------------------------------------------------#
 
 import json
+import pandas as pd
+import xlsxwriter
 
 # ----------------------------------------------------------------#
 # Class Printer
@@ -35,3 +37,25 @@ def print_json(object):
 
 def new_line():
     print('\n')
+
+# ----------------------------------------------------------------#
+# Export Dataframe to Microsoft Excel
+# ----------------------------------------------------------------#
+
+def export_file(df_conv, filename, extension):
+    outputFile = filename + '.' + extension
+    writer = pd.ExcelWriter(outputFile, engine = 'xlsxwriter')
+    df_conv.to_excel(writer, 'Top 10')
+    workbook = writer.book
+    worksheet = writer.sheets["Top 10"]
+    worksheet.set_column('A:Z', 18)
+    writer.save()
+
+# ----------------------------------------------------------------#
+# Read CSV File into DataFrame
+# ----------------------------------------------------------------#
+
+def read_file(csv_file):
+    return pd.read_csv(csv_file)
+
+
