@@ -236,28 +236,28 @@ def genres_apriori(dataset):
     
 def main():
     #prep dataframe
-    df = read_file("tracks.csv")
-    dfa = read_file("data_by_artist_o.csv")
-    df = clean_dates(df)
-    df = fix_order(df)
-    df = clean_data(df)
-    headings = get_headings(df)[4:]
-    dfa = dfa.loc[dfa['popularity']>= 20]
-    dfa = dfa.loc[dfa['genres'] != '[]']
-    dfa = clean_genres(dfa)
-    genres_apriori(dfa['genres'])
+    #df = read_file("tracks.csv")
+    #dfa = read_file("data_by_artist_o.csv")
+    #df = clean_dates(df)
+    #df = fix_order(df)
+    #df = clean_data(df)
+    #headings = get_headings(df)[4:]
+    #dfa = dfa.loc[dfa['popularity']>= 20]
+    #dfa = dfa.loc[dfa['genres'] != '[]']
+    #dfa = clean_genres(dfa)
+    #genres_apriori(dfa['genres'])
     #sample usage of above functions for plotting, etc
-    get_cc_decade(headings, df)
-    plot_scatter(df, 'release_date','popularity')
-    plot_pop_decade(df)
-    plot_reg_decade(df,'loudness')
-    plot_box_decade(df,'explicit')
-    df2 = sample_size(df, 1000) #reduce dataframe to 1000 randomly selected rows
-    lin_reg(df2, 'release_date')
-    lin_reg(df2, 'energy')
-    boxplot(df2, 'explicit')
-    boxplot(df2, 'loudness')
-    
+    #get_cc_decade(headings, df)
+    #plot_scatter(df, 'release_date','popularity')
+    #plot_pop_decade(df)
+    #plot_reg_decade(df,'loudness')
+    #plot_box_decade(df,'explicit')
+    #df2 = sample_size(df, 1000) #reduce dataframe to 1000 randomly selected rows
+    #lin_reg(df2, 'release_date')
+    #lin_reg(df2, 'energy')
+    #boxplot(df2, 'explicit')
+    #boxplot(df2, 'loudness')
+    return
     
 main()
 
