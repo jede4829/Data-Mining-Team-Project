@@ -1,15 +1,4 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn import linear_model
-from sklearn.linear_model import LinearRegression  
-import seaborn as sns 
-from sklearn.model_selection import train_test_split 
-from sklearn import metrics
-import random
-from random import randint
-from mlxtend.preprocessing import TransactionEncoder
-from mlxtend.frequent_patterns import apriori
+from tracks_header import *
 
 #uses tracks.csv from kaggle. File is too large for github
 
@@ -28,54 +17,6 @@ def regr_stats(df):
     r_squared = 1 - (float(SS_Residual))/SS_Total
     adjusted_r_squared = 1 - (1-r_squared)*(len(dep_var)-1)/(len(dep_var)-ind_vars.shape[1]-1)
     return r_squared, adjusted_r_squared
-
-def correlation(attribute1, attribute2, file):
-    #calculates correlation coefficient
-    attr1 = file[attribute1]
-    attr2 = file[attribute2]
-    try:
-        correlation = attr1.corr(attr2)
-        return correlation
-    except:
-        return
-
-def sample_size(df, size):
-    return df.sample(n=size)
-
-def clean_data(df):
-    #eliminating 0 popularity and erroneous data
-    df = df.loc[df['release_date']!=1900]
-    df = df.loc[df['popularity']>0]
-    return df
-
-def fix_order(df):
-    #moving characteristics to end
-    df = df[[col for col in df if col not in ['popularity', 'duration_ms', 'explicit']] 
-       + ['popularity', 'duration_ms', 'explicit']]
-    return df
-    
-def clean_dates(df):
-    #converting date to year only
-    df['release_date'] = df['release_date'].str.replace('-','').str[0:4]
-    df['release_date'] = pd.to_numeric(df['release_date'])
-    return df
-
-def clean_genres(df):
-    #tracks csv does not contain genres, only artists csv
-    #to access a single row's list of genres:
-    #lst = df['genres'].loc[28676:28676][28676]
-    df['genres'] = df['genres'].str.replace("'","").str.replace(', ',',')
-    df['genres'] = df['genres'].str.strip('[]').str.split(",")
-    
-    return df
-    
-def read_file(fileName):
-    file = pd.read_csv(fileName)
-    return file
-
-def get_headings(file):
-    headings = list(file.columns)
-    return headings
 
 def get_all_cc(headings, file, output=True):
     #prints correlation coefficient of every heading with popularity
@@ -108,9 +49,7 @@ def get_cc_decade(headings, df):
             if j < 4:
                 print(k + ": " + str(v))
                 j += 1
-        print()
-        
-        
+        print()    
 
 def plot_scatter(df, attr1, attr2):
     #scatter plot of two attributes
@@ -225,42 +164,38 @@ def boxplot(df, attribute):
     plt.show()
 
 def genres_apriori(dataset):
-    print(dataset)
     te = TransactionEncoder()
     te_ary = te.fit(dataset).transform(dataset)
     df = pd.DataFrame(te_ary, columns=te.columns_)
-    print(df)
     df.to_csv('out.csv')
-    itemsets = apriori(df, min_support=0.01,use_colnames=True)
+    itemsets = apriori(df, min_support=0.1,use_colnames=True)
+    
     print(itemsets)
     
 def main():
     #prep dataframe
-    #df = read_file("tracks.csv")
-    #dfa = read_file("data_by_artist_o.csv")
-    #df = clean_dates(df)
-    #df = fix_order(df)
-    #df = clean_data(df)
-    #headings = get_headings(df)[4:]
-    #dfa = dfa.loc[dfa['popularity']>= 20]
-    #dfa = dfa.loc[dfa['genres'] != '[]']
-    #dfa = clean_genres(dfa)
-    #genres_apriori(dfa['genres'])
+    df = read_file("tracks.csv")
+    dfa = read_file("data_by_artist_o.csv")
+    df = clean_dates(df)
+    df = fix_order(df)
+    df = clean_data(df)
+    headings = get_headings(df)[4:]
+    dfa = dfa.loc[dfa['popularity']>= 50]
+    dfa = dfa.loc[dfa['count']>= 30]
+    dfa = dfa.loc[dfa['genres'] != '[]']
+    dfa = clean_genres(dfa)
+    genres_apriori(dfa['genres'])
     #sample usage of above functions for plotting, etc
-    #get_cc_decade(headings, df)
-    #plot_scatter(df, 'release_date','popularity')
-    #plot_pop_decade(df)
-    #plot_reg_decade(df,'loudness')
-    #plot_box_decade(df,'explicit')
-    #df2 = sample_size(df, 1000) #reduce dataframe to 1000 randomly selected rows
-    #lin_reg(df2, 'release_date')
-    #lin_reg(df2, 'energy')
-    #boxplot(df2, 'explicit')
-    #boxplot(df2, 'loudness')
+    get_cc_decade(headings, df)
+    plot_scatter(df, 'release_date','popularity')
+    plot_pop_decade(df)
+    plot_reg_decade(df,'loudness')
+    plot_box_decade(df,'explicit')
+    df2 = sample_size(df, 1000) #reduce dataframe to 1000 randomly selected rows
+    lin_reg(df2, 'release_date')
+    lin_reg(df2, 'energy')
+    boxplot(df2, 'explicit')
+    boxplot(df2, 'loudness')
     return
     
 main()
-
-    
-
-
