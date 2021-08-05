@@ -1,14 +1,10 @@
-from tracks_plots import *
-import sklearn
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import MinMaxScaler
-
+from tracks_header import *
 
 def rm_strcol(df):
     df = df[[col for col in df if col not in ['id', 'name', 'artists', 'id_artists']]]
     return df
 
-def kmeans(df, attr):
+def kmeans(df):
     mat = df.values
     km = sklearn.cluster.KMeans(n_clusters=9)
     km.fit(mat)
@@ -37,26 +33,7 @@ def bar_plots(df, attr):
     fig.suptitle('Cluster averages')
     plt.show()
 
-def normalize(df, attrs):
-    norm = MinMaxScaler()
-    dataset = norm.fit_transform(df[attrs]) 
-    df[attrs] = dataset
-    return df
-
-def main():
-    to_normalize = ['release_date','time_signature','tempo', 'key', 'duration_ms',
-                    'loudness', 'popularity']
-    attrs = ['popularity', 'release_date', 'danceability', 'energy', 'key',
-             'loudness', 'mode','speechiness', 'acousticness', 'instrumentalness',
-             'liveness','valence', 'tempo', 'time_signature','duration_ms', 'explicit']
-    df = read_file("tracks.csv")
-    df = clean_dates(df)
-    df = clean_data(df)
-    df = sample_size(df, 5000)
-    df = rm_strcol(df)
-    df = normalize(df, to_normalize)
-    df = kmeans(df, 'release_date')
-    df_cluster = pd.DataFrame(np.array([i for i in range(9)]), columns=['cluster'])
+def get_averages(df, df_cluster):
     df_list = [[] for i in range(9)]
     for x in range(9):
         dfc = df.loc[df['cluster'] == x]
@@ -64,8 +41,18 @@ def main():
             df_list[x].append(dfc[attrs[i]].mean())
     df_avg = pd.DataFrame(np.array(df_list), columns=attrs)
     df_avg['cluster'] = df_cluster['cluster']
-    print(df_avg)
+    return df_avg
+
+def main():
+    df = read_file("tracks.csv")
+    df = clean_dates(df)
+    df = clean_data(df)
+    df = sample_size(df, 5000)
+    df = rm_strcol(df)
+    df = normalize(df, to_normalize)
+    df = kmeans(df)
+    df_cluster = pd.DataFrame(np.array([i for i in range(9)]), columns=['cluster'])
+    df_avg = get_averages(df, df_cluster)
     bar_plots(df_avg, attrs)
-    
     
 main()
