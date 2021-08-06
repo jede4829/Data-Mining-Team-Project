@@ -1,0 +1,113 @@
+﻿artist,artist Genre,song,popularity,Hit?,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Wants and Needs (feat. Lil Baby),88,1,192956,1,0.578,0.449,1,-6.349,1,0.286,0.0618,0.00000217,0.119,0.1,136.006,4
+Little Richard,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",Keep A-Knockin',46,0,138266,0,0.318,0.923,8,-8.723,1,0.099,0.0198,0.00000267,0.0686,0.96,170.803,4
+Little Richard,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",Slippin’ And Slidin’ (Peepin’ And Hidin’),41,0,161786,0,0.583,0.778,0,-6.121,1,0.0556,0.707,0.000604,0.1,0.964,175.834,4
+Sam Cooke,"['adult standards', 'brill building pop', 'classic soul', 'rock-and-roll', 'soul']",Cupid,48,0,158013,0,0.485,0.433,7,-10.503,1,0.0342,0.476,0,0.0861,0.825,120.471,4
+Prince,"['funk', 'funk rock', 'minneapolis sound', 'motown', 'synth funk']",Hot Summer,14,0,212946,0,0.83,0.548,0,-11.132,1,0.0503,0.0363,0.0000683,0.184,0.98,127.508,4
+Elton John,"['glam rock', 'mellow gold', 'piano rock']",Goodbye Yellow Brick Road - Remastered 2014,72,1,192826,0,0.559,0.473,5,-7.712,1,0.0279,0.446,0.00141,0.154,0.397,121.227,4
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Circles,87,1,215280,0,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,4
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Save Your Tears (with Ariana Grande) (Remix),94,1,191013,0,0.65,0.825,0,-4.645,1,0.0325,0.0215,0.0000244,0.0936,0.593,118.091,4
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",The Real Slim Shady,84,1,284200,1,0.949,0.661,5,-4.244,0,0.0572,0.0302,0,0.0454,0.76,104.504,4
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Holy (feat. Chance The Rapper),72,1,212093,0,0.67,0.693,6,-8.34,1,0.35,0.2,0,0.0909,0.388,87.017,4
+Taylor Swift,"['pop', 'post-teen pop']",I Don’t Wanna Live Forever (Fifty Shades Darker),77,1,247160,0,0.731,0.445,0,-8.418,1,0.0533,0.0586,0.0000196,0.14,0.106,117.97,4
+Kanye West,"['chicago rap', 'rap']",All Mine,76,1,145506,1,0.925,0.31,11,-6.531,0,0.291,0.123,0,0.0931,0.291,121.927,4
+Billie Eilish,"['electropop', 'pop']",NDA,14,0,195776,1,0.765,0.373,8,-9.915,1,0.0713,0.329,0.541,0.112,0.59,85.015,4
+Billie Eilish,"['electropop', 'pop']",Lost Cause,13,0,212496,1,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,4
+Billie Eilish,"['electropop', 'pop']",bad guy,85,1,194087,0,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4
+Billie Eilish,"['electropop', 'pop']",Your Power,39,0,245896,0,0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,4
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Levitating (feat. DaBaby),90,1,203064,0,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,0.915,102.977,4
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Leave The Door Open,93,1,242096,0,0.586,0.616,5,-7.964,1,0.0324,0.182,0,0.0927,0.719,148.088,4
+Queen,"['classic rock', 'glam rock', 'rock']",Somebody To Love - Remastered 2011,69,1,296493,0,0.497,0.693,8,-7.024,1,0.0565,0.19,0,0.215,0.358,111.539,3
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Closer,84,1,244960,0,0.748,0.524,8,-5.599,1,0.0338,0.414,0,0.111,0.661,95.01,4
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Californication,80,1,329733,0,0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,4
+Michael Jackson,"['pop', 'r&b', 'soul']",Billie Jean,83,1,293826,0,0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0158,0.0359,0.847,117.046,4
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Run,88,1,169010,0,0.682,0.72,11,-8.173,0,0.0381,0.326,0,0.148,0.673,117.003,4
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",See You Again (feat. Charlie Puth),81,1,229525,0,0.689,0.481,10,-7.503,1,0.0815,0.369,0.00000103,0.0649,0.283,80.025,4
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Fade To Black (Remastered),62,1,417226,0,0.256,0.929,7,-6.667,1,0.113,0.00311,0.201,0.11,0.278,113.47,4
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",The Middle,81,1,184732,0,0.753,0.657,7,-3.061,1,0.0449,0.171,0,0.112,0.437,107.01,4
+P!nk,"['dance pop', 'pop', 'post-teen pop']","Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",69,1,215413,0,0.632,0.702,7,-5.92,1,0.148,0.0114,0,0.108,0.523,162.958,4
+Johnny Cash,"['arkansas country', 'outlaw country']",Girl from the North Country,65,1,220400,0,0.607,0.142,7,-23.455,1,0.0382,0.843,0.000197,0.121,0.305,118.867,4
+Patsy Cline,"['adult standards', 'nashville sound']",Walkin' After Midnight,56,1,154666,0,0.757,0.196,0,-15.395,1,0.0386,0.809,0,0.14,0.813,90.305,4
+Patsy Cline,"['adult standards', 'nashville sound']",Leavin' On Your Mind - Single Version,48,0,147026,0,0.493,0.0719,7,-19.293,1,0.0317,0.932,0.00000204,0.607,0.385,104.018,3
+Dolly Parton,"['classic country pop', 'country', 'country dawn']",Jolene,68,1,161533,0,0.674,0.537,1,-10.971,0,0.0363,0.566,0,0.131,0.809,110.578,4
+Dolly Parton,"['classic country pop', 'country', 'country dawn']",God Only Knows,46,0,213653,0,0.651,0.561,11,-5.624,0,0.0506,0.274,0,0.143,0.469,143.959,4
+The Carter Family,"['appalachian folk', 'bluegrass', 'country gospel', 'folk', 'old-time', 'traditional country', 'traditional folk', 'vocal harmony group']",Can the Circle Be Unbroken,41,0,187000,0,0.557,0.32,8,-8.874,1,0.0372,0.975,0,0.11,0.648,98.959,4
+The Carter Family,"['appalachian folk', 'bluegrass', 'country gospel', 'folk', 'old-time', 'traditional country', 'traditional folk', 'vocal harmony group']",Bury Me Under the Weeping Willow,25,0,179480,0,0.466,0.208,11,-14.879,1,0.0309,0.936,0,0.0893,0.636,111.137,4
+George Jones,"['country', 'country rock', 'honky tonk']",Finally Friday,57,1,164693,0,0.656,0.728,7,-12.39,1,0.0277,0.0214,0.000107,0.242,0.919,134.431,4
+Loretta Lynn,"['country', 'country rock', 'nashville sound']",You Ain't Woman Enough,50,1,135160,0,0.744,0.455,8,-7.543,1,0.0366,0.634,0,0.0526,0.905,75.281,4
+Jimmie Rodgers,"['appalachian folk', 'country rock', 'folk', 'old-time', 'traditional country', 'traditional folk', 'western swing', 'yodeling']",In the Jailhouse Now,33,0,198693,0,0.76,0.264,0,-11.503,1,0.0334,0.991,0.00000111,0.159,0.688,81.934,4
+Jimmie Rodgers,"['appalachian folk', 'country rock', 'folk', 'old-time', 'traditional country', 'traditional folk', 'western swing', 'yodeling']",Waiting for a Train,31,0,164546,0,0.537,0.272,7,-10.569,1,0.0448,0.994,0.0000478,0.109,0.567,114.369,4
+Merle Haggard,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",The Fightin' Side Of Me - Re-Recorded In Stereo,45,0,173160,0,0.744,0.385,4,-15.534,1,0.0459,0.438,0,0.24,0.751,95.524,4
+Merle Haggard,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",That's the Way Love Goes,51,1,181426,0,0.81,0.268,3,-16.733,1,0.0291,0.549,0.00886,0.0943,0.625,99.686,4
+Dwight Yoakam,"['bakersfield sound', 'country', 'country rock']",Purple Rain,49,0,282960,0,0.512,0.568,10,-5.164,1,0.0299,0.719,0.00188,0.0843,0.766,148.002,4
+Trisha Yearwood,"['contemporary country', 'country', 'country dawn', 'country road', 'country rock']",I'll Carry You Home,43,0,216417,0,0.344,0.25,11,-11.327,1,0.0286,0.846,0.00000371,0.133,0.146,133.057,3
+Alan Jackson,"['contemporary country', 'country', 'country road']",It's Five O'Clock Somewhere,65,1,230266,0,0.713,0.768,2,-6.702,1,0.0363,0.22,0,0.177,0.878,125.203,4
+Tanya Tucker,"['classic country pop', 'country', 'country dawn', 'country rock', 'outlaw country']",What's Your Mama's Name Child,43,0,182493,0,0.585,0.42,5,-8.817,1,0.0531,0.743,0.0000062,0.276,0.512,80.136,4
+TOMORROW X TOGETHER,"['k-pop', 'k-pop boy group']",Anti-Romantic,81,1,215188,0,0.641,0.489,0,-8.668,0,0.11,0.0509,0,0.071,0.206,142.977,4
+TOMORROW X TOGETHER,"['k-pop', 'k-pop boy group']",Frost,69,1,194771,0,0.776,0.746,5,-5.528,0,0.0532,0.00551,0,0.382,0.581,96.004,4
+Charlie Rich,"['arkansas country', 'country', 'country rock', 'nashville sound']",Behind Closed Doors,53,1,174666,0,0.492,0.329,2,-11.788,1,0.0274,0.961,0.199,0.0955,0.589,85.196,4
+Charlie Rich,"['arkansas country', 'country', 'country rock', 'nashville sound']",Have A Heart,43,0,190680,0,0.268,0.345,0,-12.255,1,0.0279,0.799,0.00569,0.106,0.358,163.271,4
+Charlie Rich,"['arkansas country', 'country', 'country rock', 'nashville sound']",Mohair Sam,33,0,126373,0,0.803,0.634,10,-9.316,1,0.0344,0.743,0.0000144,0.089,0.936,116.738,4
+Slim Whitman,"['cowboy western', 'yodeling']",When I Grow Too Old To Dream,26,0,156040,0,0.569,0.166,4,-15.597,1,0.0309,0.874,0.0000591,0.288,0.327,87.973,3
+Jim Reeves,"['adult standards', 'brill building pop', 'nashville sound']",He'll Have to Go,33,0,138373,0,0.567,0.168,1,-16.451,1,0.038,0.85,0.00106,0.109,0.198,81.331,3
+The Oak Ridge Boys,"['classic country pop', 'country', 'country rock']",Leaving Louisiana In The Broad Daylight,53,1,179533,0,0.618,0.597,5,-14.412,1,0.0373,0.228,0,0.149,0.764,95.663,4
+Martina McBride,"['contemporary country', 'country', 'country dawn', 'country road']",Independence Day,63,1,204626,0,0.712,0.63,9,-6.202,1,0.0299,0.257,0.0000665,0.0999,0.768,118.378,4
+Porter Wagoner,"['country gospel', 'nashville sound']",The Cold Hard Facts of Life,42,0,192946,0,0.516,0.438,0,-11.834,1,0.0321,0.851,0,0.403,0.42,132.519,4
+June Carter Cash,[],Jackson,64,1,165826,0,0.741,0.615,0,-8.072,1,0.0358,0.519,0.000344,0.408,0.799,128.496,4
+Tim McGraw,"['contemporary country', 'country', 'country road']",Just To See You Smile,66,1,215173,0,0.492,0.823,6,-8.526,1,0.0297,0.127,0,0.0523,0.702,94.342,4
+Mary Chapin Carpenter,"['country', 'country rock', 'folk', 'folk rock', 'lilith', 'mellow gold']",Passionate Kisses,43,0,201906,0,0.625,0.819,2,-6.142,1,0.0361,0.589,0,0.201,0.733,139.642,4
+Jean Shepard,"['bakersfield sound', 'oklahoma country']",A Dear John Letter,30,0,157000,0,0.647,0.236,0,-14.245,1,0.0308,0.556,0.0000261,0.0764,0.639,117.289,4
+Jean Shepard,"['bakersfield sound', 'oklahoma country']",A Satisfied Mind,20,0,148893,0,0.543,0.268,10,-9.246,1,0.0314,0.798,0,0.106,0.459,140.804,3
+Toby Keith,"['contemporary country', 'country', 'country road', 'oklahoma country']",Should've Been A Cowboy,70,1,208413,0,0.585,0.793,7,-3.713,1,0.0322,0.351,0,0.3,0.732,133.839,4
+Patsy Montana,"['arkansas country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Deep In The Heart Of Texas,3,0,155000,0,0.696,0.364,0,-8.84,1,0.0865,0.969,0.0691,0.176,0.808,148.895,4
+Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",The Fighter,62,1,184040,0,0.681,0.845,11,-5.147,0,0.0525,0.0304,0,0.197,0.761,132.023,4
+Kenny Chesney,"['contemporary country', 'country', 'country road']",She Thinks My Tractor's Sexy,64,1,248066,0,0.689,0.886,10,-7.066,0,0.0382,0.0664,0,0.278,0.906,122.07,4
+Dottie West,"['classic country pop', 'nashville sound']",All I Ever Need Is You,39,0,190000,0,0.472,0.697,9,-11.083,1,0.0523,0.0754,0.0000185,0.0361,0.81,184.885,4
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",In My Life - Remastered 2009,72,1,146333,0,0.688,0.435,9,-11.359,1,0.0323,0.449,0,0.113,0.435,103.239,4
+Elvis Presley,"['rock-and-roll', 'rockabilly']",Hound Dog,67,1,136026,0,0.494,0.756,0,-8.492,1,0.0499,0.733,0.00505,0.76,0.949,86.895,4
+James Brown,"['funk', 'motown', 'soul']",Papa's Got A Brand New Bag,48,0,128173,0,0.738,0.541,4,-9.508,1,0.09,0.292,0.0000115,0.0861,0.925,127.942,4
+James Brown,"['funk', 'motown', 'soul']","Living in America - From ""Rocky IV"" Soundtrack",38,0,282240,0,0.751,0.756,0,-10.363,1,0.0361,0.0013,0.00368,0.053,0.775,113.909,4
+James Brown,"['funk', 'motown', 'soul']",Try Me,43,0,151626,0,0.673,0.243,0,-13.868,1,0.0306,0.911,0,0.286,0.644,101.531,3
+Stevie Wonder,"['funk', 'motown', 'quiet storm', 'soul']",Superstition,72,1,266133,0,0.611,0.578,1,-14.171,1,0.0676,0.0598,0.0219,0.0983,0.884,100.625,4
+Led Zeppelin,"['album rock', 'classic rock', 'hard rock', 'rock']",Whole Lotta Love - 1990 Remaster,76,1,333893,0,0.412,0.902,9,-11.6,1,0.405,0.0484,0.131,0.405,0.422,89.74,4
+Ray Charles,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul', 'soul blues', 'vocal jazz']","What'd I Say, Pt. 1 & 2",63,1,307053,0,0.54,0.681,4,-5.44,1,0.0508,0.808,0,0.162,0.794,88.385,4
+Bon Jovi,"['glam metal', 'hard rock', 'rock']",Bad Medicine,68,1,316706,0,0.555,0.973,9,-3.804,1,0.035,0.048,0,0.0853,0.805,118.642,4
+Fats Domino,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues', 'piano blues', 'rock-and-roll', 'rockabilly', 'soul']",Blue Monday,44,0,143666,0,0.388,0.832,11,-9.718,1,0.0385,0.592,0,0.135,0.91,151.298,3
+Madonna,"['dance pop', 'pop']",Like a Prayer,71,1,342680,0,0.624,0.842,5,-5.285,1,0.0376,0.264,0.0000211,0.181,0.257,111.037,4
+Little Richard,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",Lucille,54,1,143733,0,0.684,0.858,6,-9.165,1,0.046,0.336,0.000429,0.18,0.943,145.049,4
+Run–D.M.C.,"['east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']",My Adidas,47,0,167880,0,0.83,0.907,1,-8.508,1,0.2,0.000867,0,0.358,0.757,95.263,4
+Run–D.M.C.,"['east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']",King of Rock,46,0,314146,0,0.825,0.857,2,-3.389,0,0.0448,0.00907,0,0.0461,0.791,98.204,4
+Nirvana,"['alternative rock', 'grunge', 'permanent wave', 'rock']",About A Girl,70,1,166640,0,0.409,0.932,11,-4.538,0,0.0339,0.0000187,0.0000016,0.31,0.591,131.761,4
+The Everly Brothers,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'soul', 'sunshine pop']",Wake up Little Susie,61,1,123520,0,0.709,0.62,2,-9.382,1,0.034,0.318,0,0.0426,0.936,93.723,4
+Bill Haley & His Comets,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']","See You Later, Alligator",53,1,166840,0,0.663,0.758,10,-10.07,0,0.0571,0.272,0,0.319,0.814,157.198,4
+Bill Haley & His Comets,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",Rock-A-Beatin' Boogie,34,0,139626,0,0.504,0.978,10,-6.482,0,0.115,0.462,0.00089,0.14,0.75,182.189,4
+Smokey Robinson & The Miracles,"['brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",You've Really Got A Hold On Me - Alternate Stereo Mix,54,1,192133,0,0.64,0.381,9,-13.265,0,0.03,0.131,0,0.17,0.677,118.229,3
+Smokey Robinson & The Miracles,"['brill building pop', 'classic soul', 'funk', 'motown', 'quiet storm', 'rock-and-roll', 'soul', 'southern soul']",A Fork In The Road,36,0,205240,0,0.44,0.418,0,-12.568,1,0.0252,0.695,0,0.204,0.446,89.286,4
+R.E.M.,"['alternative rock', 'athens indie', 'classic rock', 'permanent wave', 'pop rock', 'rock']",Drive,62,1,271333,0,0.467,0.432,7,-11.753,1,0.0283,0.175,0.001,0.226,0.238,142.642,4
+Bo Diddley,"['blues', 'blues rock', 'chicago blues', 'classic rock', 'electric blues', 'funk', 'rock-and-roll', 'rockabilly', 'soul', 'traditional blues']",Who Do You Love,46,0,147373,0,0.64,0.729,1,-13.494,1,0.0453,0.862,0,0.111,0.683,113.19,4
+Bo Diddley,"['blues', 'blues rock', 'chicago blues', 'classic rock', 'electric blues', 'funk', 'rock-and-roll', 'rockabilly', 'soul', 'traditional blues']",Hit Or Miss,39,0,223760,0,0.705,0.618,7,-7.352,1,0.0682,0.326,0.00119,0.102,0.785,100.311,4
+The Byrds,"['art rock', 'beatlesque', 'blues rock', 'brill building pop', 'classic rock', 'classic uk pop', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock']",Wasn't Born to Follow,49,0,123840,0,0.48,0.435,7,-8.851,1,0.0359,0.233,0.0000775,0.204,0.538,93.352,4
+Van Halen,"['album rock', 'classic rock', 'hard rock', 'metal', 'rock']",Why Can't This Be Love,64,1,227693,0,0.531,0.626,0,-13.371,1,0.0452,0.0606,0,0.0767,0.746,88.236,4
+The Drifters,"['adult standards', 'brill building pop', 'bubblegum pop', 'mellow gold', 'motown', 'rock-and-roll', 'rockabilly', 'soul']",Save The Last Dance For Me - Mono,48,0,157262,0,0.51,0.619,4,-8.552,1,0.0368,0.657,0,0.241,0.873,142.179,4
+Roy Orbison,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'soft rock']",Crying,59,1,166466,0,0.35,0.293,2,-9.502,1,0.0258,0.758,0.00000821,0.104,0.162,96.685,4
+George Clinton & Parliament Funkadelic,[],Flashlight / Get Low,9,0,634106,0,0.513,0.907,7,-4.667,0,0.242,0.232,0.00348,0.381,0.38,97.022,4
+Simon & Garfunkel,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock']",Bridge Over Troubled Water,70,1,293120,0,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,4
+The Impressions,"['brill building pop', 'chicago soul', 'classic soul', 'funk', 'motown', 'quiet storm', 'rhythm and blues', 'soul']",For Your Precious Love,46,0,165626,0,0.372,0.311,1,-8.124,1,0.0263,0.664,0.00000115,0.19,0.186,90.686,4
+The Impressions,"['brill building pop', 'chicago soul', 'classic soul', 'funk', 'motown', 'quiet storm', 'rhythm and blues', 'soul']",We're A Winner,37,0,145306,0,0.546,0.781,7,-10.495,1,0.05,0.398,0.000571,0.346,0.809,100.307,4
+Jerry Lee Lewis,"['adult standards', 'brill building pop', 'piano rock', 'rock-and-roll', 'rockabilly']",Middle Age Crazy,40,0,236253,0,0.514,0.326,2,-12.99,1,0.0294,0.861,0.000091,0.179,0.52,143.062,3
+Eagles,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Take It Easy - 2013 Remaster,77,1,211577,0,0.575,0.67,7,-10.39,1,0.0318,0.343,0.00000495,0.129,0.74,139.191,4
+Aerosmith,"['album rock', 'classic rock', 'hard rock', 'rock']","I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",73,1,299760,0,0.39,0.649,2,-5.163,1,0.0345,0.172,0,0.216,0.144,121.16,4
+The Platters,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll', 'rockabilly', 'soul', 'vocal jazz']",Harbor Lights,47,0,194866,0,0.26,0.29,5,-13.38,1,0.0293,0.913,0.000649,0.153,0.303,78.797,4
+The Clovers,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",Devil or Angel,37,0,146933,0,0.668,0.239,5,-13.181,1,0.0332,0.871,0,0.299,0.719,106.937,4
+Judas Priest,"['album rock', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'power metal', 'rock']",Angel,55,1,264200,0,0.532,0.441,11,-7.86,0,0.0243,0.014,0,0.11,0.204,83.998,4
+Def Leppard,"['album rock', 'hard rock', 'nwobhm', 'rock']",Hysteria,68,1,354636,0,0.659,0.846,7,-5.508,1,0.0274,0.0318,0.0144,0.203,0.659,107.01,4
+Def Leppard,"['album rock', 'hard rock', 'nwobhm', 'rock']",When Love And Hate Collide,47,0,257680,0,0.477,0.564,4,-8.582,1,0.028,0.0111,0,0.221,0.292,67.965,4
+The Shirelles,"['adult standards', 'brill building pop', 'classic girl group', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'soul']",Soldier Boy,36,0,161746,0,0.546,0.21,10,-14.006,1,0.0272,0.85,0.000015,0.348,0.511,97.716,4
+Ozzy Osbourne,"['album rock', 'birmingham metal', 'hard rock', 'metal', 'rock']",Bark at the Moon,64,1,257120,0,0.303,0.961,9,-5.333,0,0.243,0.00253,0.000062,0.132,0.305,146.591,4
+Elvis Costello,"['art rock', 'folk', 'folk rock', 'mellow gold', 'new wave pop', 'permanent wave', 'power pop', 'pub rock', 'rock', 'roots rock', 'singer-songwriter']",Waiting For The End Of The World,39,0,202893,0,0.742,0.669,0,-9.394,1,0.101,0.0806,0.0000173,0.129,0.84,114.196,4
+"Crosby, Stills, Nash & Young","['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'supergroup']",Helpless,55,1,217133,0,0.538,0.258,2,-13.603,1,0.0309,0.86,0.00599,0.134,0.376,114.151,4
+Big Joe Turner,"['blues', 'boogie-woogie', 'jump blues', 'rhythm and blues', 'rock-and-roll', 'rockabilly', 'traditional blues']","S.K. Blues, Pt. 1",32,0,181306,0,0.619,0.268,10,-9.96,1,0.0772,0.987,0.00193,0.306,0.61,87.213,4
+Johnny Otis,"['jazz blues', 'jump blues', 'rhythm and blues', 'rock-and-roll']",Sadie,16,0,162840,0,0.673,0.364,7,-11.106,1,0.0544,0.955,0.522,0.0732,0.851,82.04,4
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Laugh Now Cry Later (feat. Lil Durk),84,1,261492,1,0.761,0.518,0,-8.871,1,0.134,0.244,0.0000347,0.107,0.522,133.976,4
+Ed Sheeran,"['pop', 'uk pop']",Bad Habits,97,1,231041,0,0.808,0.897,11,-3.712,0,0.0348,0.0469,0.0000314,0.364,0.591,126.026,4
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",Save Your Tears (with Ariana Grande) (Remix),94,1,191013,0,0.65,0.825,0,-4.645,1,0.0325,0.0215,0.0000244,0.0936,0.593,118.091,4
