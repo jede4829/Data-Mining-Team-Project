@@ -1,0 +1,1001 @@
+﻿Artist,Artist Genre,Song,Popularity,Hit?,Duration,Explicit,Acousticness,Danceability,Energy,Instrumentalness,Key,Liveness,Loudness,Mode,Speechiness,Tempo,Time_Signature,Valence
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Wants and Needs (feat. Lil Baby),88,1,192956,1,0.0618,0.578,0.449,0.00000217,1,0.119,-6.349,1,0.286,136.006,4,0.1
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Laugh Now Cry Later (feat. Lil Durk),84,1,261492,1,0.244,0.761,0.518,0.0000347,0,0.107,-8.871,1,0.134,133.976,4,0.522
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",One Dance,84,1,173986,0,0.00776,0.792,0.625,0.0018,1,0.329,-5.609,1,0.0536,103.967,4,0.37
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",God's Plan,82,1,198973,1,0.0332,0.754,0.449,0.0000829,7,0.552,-9.211,1,0.109,77.169,4,0.357
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",What’s Next,81,1,178153,1,0.0136,0.781,0.594,0,0,0.162,-6.959,0,0.0485,129.895,4,0.0628
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Passionfruit,81,1,298940,1,0.256,0.809,0.463,0.085,11,0.109,-11.377,1,0.0396,111.98,4,0.364
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Life Is Good (feat. Drake),81,1,237735,1,0.0706,0.676,0.609,0,2,0.152,-5.831,0,0.481,142.037,4,0.508
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",POPSTAR (feat. Drake),69,1,200221,1,0.0558,0.803,0.565,0,5,0.141,-4.711,0,0.235,163.085,4,0.474
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Chicago Freestyle (feat. Giveon),79,1,220487,1,0.629,0.735,0.449,0,10,0.113,-7.507,1,0.347,122.947,4,0.0397
+Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",Over The Top (feat. Drake),79,1,153406,1,0.0493,0.833,0.498,0,10,0.119,-5.196,0,0.117,139.928,4,0.259
+Ed Sheeran,"['pop', 'uk pop']",Bad Habits,97,1,231041,0,0.0469,0.808,0.897,0.0000314,11,0.364,-3.712,0,0.0348,126.026,4,0.591
+Ed Sheeran,"['pop', 'uk pop']",Perfect,86,1,263400,0,0.163,0.599,0.448,0,8,0.106,-6.312,1,0.0232,95.05,3,0.168
+Ed Sheeran,"['pop', 'uk pop']",Shape of You,85,1,233712,0,0.581,0.825,0.652,0,1,0.0931,-3.183,0,0.0802,95.977,4,0.931
+Ed Sheeran,"['pop', 'uk pop']",Photograph,65,1,258986,0,0.607,0.614,0.379,0.000464,4,0.0986,-10.48,1,0.0476,107.989,4,0.201
+Ed Sheeran,"['pop', 'uk pop']",Thinking out Loud,65,1,281560,0,0.474,0.781,0.445,0,2,0.184,-6.061,1,0.0295,78.998,4,0.591
+Ed Sheeran,"['pop', 'uk pop']",Afterglow,82,1,185486,0,0.698,0.641,0.324,0,11,0.328,-5.851,1,0.0299,110.184,4,0.273
+Ed Sheeran,"['pop', 'uk pop']",I Don't Care (with Justin Bieber),75,1,219946,0,0.0902,0.798,0.676,0,6,0.0894,-5.041,1,0.0442,101.956,4,0.843
+Ed Sheeran,"['pop', 'uk pop']",Happier,81,1,207520,0,0.536,0.522,0.385,0,0,0.135,-7.355,1,0.0288,89.792,4,0.236
+Ed Sheeran,"['pop', 'uk pop']",Beautiful People (feat. Khalid),75,1,197866,0,0.124,0.64,0.647,0,5,0.0801,-8.114,0,0.186,92.979,4,0.546
+Ed Sheeran,"['pop', 'uk pop']",Galway Girl,78,1,170826,0,0.0735,0.624,0.876,0,9,0.327,-3.374,1,0.1,99.943,4,0.781
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",Save Your Tears (with Ariana Grande) (Remix),94,1,191013,0,0.0215,0.65,0.825,0.0000244,0,0.0936,-4.645,1,0.0325,118.091,4,0.593
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",positions,86,1,172324,1,0.468,0.737,0.802,0,0,0.0931,-4.771,1,0.0878,144.015,4,0.682
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",34+35,85,1,173710,1,0.237,0.83,0.585,0,0,0.248,-6.476,1,0.094,109.978,4,0.485
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",7 rings,84,1,178626,1,0.592,0.778,0.317,0,1,0.0881,-10.732,0,0.334,140.048,4,0.327
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",Stuck with U (with Justin Bieber),83,1,228482,0,0.223,0.597,0.45,0,8,0.382,-6.658,1,0.0418,178.765,3,0.537
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']","thank u, next",82,1,207320,1,0.229,0.717,0.653,0,1,0.101,-5.634,1,0.0658,106.966,4,0.412
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",motive (with Doja Cat),80,1,167989,1,0.0681,0.789,0.742,0,10,0.166,-5.664,0,0.0652,116.965,4,0.661
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",Rain On Me (with Ariana Grande),78,1,182200,0,0.021,0.672,0.855,0,9,0.323,-3.764,1,0.0397,123.056,4,0.646
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",pov,79,1,201882,0,0.36,0.487,0.534,0,0,0.1,-5.664,0,0.0555,131.798,4,0.173
+Ariana Grande,"['dance pop', 'pop', 'post-teen pop']",God is a woman,79,1,197546,1,0.0233,0.602,0.658,0.00006,1,0.237,-5.934,1,0.0558,145.031,4,0.268
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Motley Crew,90,1,184213,1,0.0904,0.797,0.631,0.00000371,3,0.0998,-3.818,0,0.0786,129.915,4,0.288
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Circles,87,1,215280,0,0.192,0.695,0.762,0.00244,0,0.0863,-3.497,1,0.0395,120.042,4,0.553
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",rockstar (feat. 21 Savage),83,1,218146,1,0.124,0.585,0.52,0.0000701,5,0.131,-6.136,0,0.0712,159.801,4,0.129
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Sunflower - Spider-Man: Into the Spider-Verse,80,1,157560,0,0.533,0.755,0.522,0,2,0.0685,-4.368,1,0.0575,89.96,4,0.925
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Congratulations,82,1,220293,1,0.215,0.63,0.804,0,6,0.253,-4.183,1,0.0363,123.146,4,0.492
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Better Now,81,1,231266,1,0.331,0.68,0.578,0,10,0.135,-5.804,1,0.04,145.038,4,0.341
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Wow.,80,1,149546,1,0.136,0.829,0.539,0.00000178,11,0.103,-7.359,0,0.208,99.96,4,0.388
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",I Fall Apart,80,1,223346,1,0.0689,0.556,0.538,0,8,0.196,-5.408,0,0.0382,143.95,4,0.291
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Psycho (feat. Ty Dolla $ign),79,1,221440,1,0.546,0.75,0.56,0,8,0.111,-8.094,1,0.105,140.06,4,0.459
+Post Malone,"['dfw rap', 'melodic rap', 'rap']",Goodbyes (feat. Young Thug),78,1,174853,1,0.456,0.548,0.653,0,5,0.103,-3.875,1,0.081,150.068,4,0.163
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Save Your Tears (with Ariana Grande) (Remix),94,1,191013,0,0.0215,0.65,0.825,0.0000244,0,0.0936,-4.645,1,0.0325,118.091,4,0.593
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Blinding Lights,92,1,200040,0,0.00146,0.514,0.73,0.0000954,1,0.0897,-5.934,1,0.0598,171.005,4,0.334
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",You Right,89,1,186173,1,0.0164,0.828,0.621,0.00233,8,0.0845,-6.414,1,0.0565,128.986,4,0.436
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Save Your Tears,89,1,215626,1,0.0212,0.68,0.826,0.0000124,0,0.543,-5.487,1,0.0309,118.051,4,0.644
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",The Hills,84,1,242253,1,0.0671,0.585,0.564,0,0,0.135,-7.063,0,0.0515,113.003,4,0.137
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Starboy,83,1,230453,1,0.141,0.679,0.587,0.00000635,7,0.137,-7.015,1,0.276,186.003,4,0.486
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",In Your Eyes,82,1,237520,1,0.00285,0.667,0.719,0.000081,7,0.0736,-5.371,0,0.0346,100.021,4,0.717
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",I Feel It Coming,67,1,269186,0,0.426,0.773,0.819,0,0,0.0679,-5.946,0,0.118,92.99,4,0.585
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Call Out My Name,80,1,228373,0,0.17,0.461,0.593,0,1,0.307,-4.954,1,0.0356,134.17,3,0.175
+The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",Can't Feel My Face,80,1,213520,0,0.113,0.705,0.769,0,9,0.105,-5.526,0,0.0425,107.949,4,0.583
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",Yonaguni,97,1,206710,1,0.276,0.644,0.648,0,1,0.135,-4.601,1,0.118,179.951,4,0.44
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",AM Remix,93,1,261334,1,0.114,0.743,0.655,0,6,0.0764,-5.015,0,0.159,172.031,4,0.785
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",Volando - Remix,90,1,273474,1,0.207,0.659,0.688,0,6,0.113,-4.649,1,0.0673,153.979,4,0.632
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",LA NOCHE DE ANOCHE,87,1,203200,0,0.0303,0.856,0.618,0,7,0.0866,-4.892,1,0.286,81.993,4,0.391
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",DÁKITI,86,1,205090,1,0.401,0.731,0.573,0.0000522,4,0.113,-10.059,0,0.0544,109.928,4,0.145
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",De Museo,83,1,209770,0,0.237,0.592,0.494,0,4,0.13,-10.618,0,0.0747,132.037,4,0.231
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",UN DIA (ONE DAY) (Feat. Tainy),83,1,232253,0,0.00536,0.571,0.693,0,6,0.173,-8.234,0,0.0545,168.169,4,0.393
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",TE MUDASTE,83,1,130013,1,0.234,0.811,0.637,0.000572,10,0.118,-4.835,0,0.0591,92.025,4,0.471
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",LA CANCIÓN,83,1,242573,0,0.152,0.754,0.646,0.0000185,7,0.108,-5.795,1,0.317,176.089,4,0.429
+Bad Bunny,"['latin', 'reggaeton', 'trap latino']",A Tu Merced,81,1,175918,0,0.169,0.86,0.791,0.000106,0,0.106,-4.784,1,0.0568,92.023,4,0.887
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",The Real Slim Shady,84,1,284200,1,0.0302,0.949,0.661,0,5,0.0454,-4.244,0,0.0572,104.504,4,0.76
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",'Till I Collapse,83,1,297786,1,0.0622,0.548,0.847,0,1,0.0816,-3.237,1,0.186,171.447,4,0.1
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Godzilla (feat. Juice WRLD),83,1,210800,1,0.145,0.808,0.745,0,10,0.292,-5.26,0,0.342,165.995,4,0.829
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Without Me,83,1,290320,1,0.00286,0.908,0.669,0,7,0.237,-2.827,1,0.0738,112.238,4,0.662
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Love The Way You Lie,81,1,263373,1,0.241,0.749,0.925,0,10,0.52,-5.034,1,0.227,86.989,4,0.641
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Stan,79,1,404106,1,0.0371,0.78,0.768,0.00000234,6,0.518,-4.325,0,0.238,80.063,4,0.507
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Not Afraid,78,1,248133,1,0.529,0.855,0.954,0,0,0.205,-1.19,0,0.264,114.635,5,0.668
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Venom - Music From The Motion Picture,77,1,269554,1,0.0193,0.749,0.794,0,0,0.543,-5.063,1,0.064,135.959,4,0.46
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Killer (feat. Jack Harlow & Cordae) - Remix,76,1,236665,1,0.0525,0.924,0.73,0,11,0.113,-6.125,0,0.274,99.01,4,0.848
+Eminem,"['detroit hip hop', 'hip hop', 'rap']",Rap God,76,1,363521,1,0.397,0.708,0.843,0,7,0.799,-2.66,1,0.314,148.14,4,0.625
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",STAY (with Justin Bieber),78,1,141805,1,0.0383,0.591,0.764,0,1,0.103,-5.484,1,0.0483,169.928,4,0.478
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Peaches (feat. Daniel Caesar & Giveon),95,1,198081,1,0.321,0.677,0.696,0,0,0.42,-6.181,1,0.119,90.03,4,0.464
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Stuck with U (with Justin Bieber),83,1,228482,0,0.223,0.597,0.45,0,8,0.382,-6.658,1,0.0418,178.765,3,0.537
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Hold On,81,1,170813,0,0.0104,0.658,0.634,0,1,0.12,-6.068,0,0.0431,140.002,4,0.302
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']","10,000 Hours (with Justin Bieber)",83,1,167693,0,0.153,0.654,0.63,0,10,0.111,-4.644,1,0.0259,89.991,4,0.43
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Holy (feat. Chance The Rapper),72,1,212093,0,0.2,0.67,0.693,0,6,0.0909,-8.34,1,0.35,87.017,4,0.388
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Love Yourself,81,1,233720,0,0.835,0.609,0.378,0,4,0.28,-9.828,1,0.438,100.418,4,0.515
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Anyone,75,1,190779,0,0.185,0.685,0.521,0.00000359,2,0.111,-8.285,1,0.0345,115.885,4,0.578
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",I Don't Care (with Justin Bieber),75,1,219946,0,0.0902,0.798,0.676,0,6,0.0894,-5.041,1,0.0442,101.956,4,0.843
+Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']",Lonely (with benny blanco),71,1,149189,1,0.9,0.619,0.241,0,11,0.116,-7.102,0,0.046,79.461,4,0.0719
+Taylor Swift,"['pop', 'post-teen pop']",Blank Space,72,1,231826,0,0.085,0.752,0.678,0.00000164,5,0.13,-5.421,1,0.0646,96.009,4,0.583
+Taylor Swift,"['pop', 'post-teen pop']",willow,74,1,214706,0,0.835,0.392,0.579,0.00179,7,0.145,-9.195,1,0.164,80.961,4,0.549
+Taylor Swift,"['pop', 'post-teen pop']",You Need To Calm Down,78,1,171360,0,0.00929,0.771,0.671,0,2,0.0637,-5.617,1,0.0553,85.026,4,0.714
+Taylor Swift,"['pop', 'post-teen pop']",cardigan,78,1,239560,0,0.537,0.613,0.581,0.000345,0,0.25,-8.588,0,0.0424,130.033,4,0.551
+Taylor Swift,"['pop', 'post-teen pop']",Shake It Off,71,1,219200,0,0.0561,0.648,0.785,0,7,0.148,-5.414,1,0.165,160.02,4,0.943
+Taylor Swift,"['pop', 'post-teen pop']",I Don’t Wanna Live Forever (Fifty Shades Darker),77,1,247160,0,0.0586,0.731,0.445,0.0000196,0,0.14,-8.418,1,0.0533,117.97,4,0.106
+Taylor Swift,"['pop', 'post-teen pop']",exile (feat. Bon Iver),77,1,285634,0,0.778,0.298,0.38,0.0000562,6,0.11,-8.426,1,0.0287,75.602,4,0.152
+Taylor Swift,"['pop', 'post-teen pop']",I Knew You Were Trouble.,77,1,219720,0,0.00454,0.622,0.469,0.00000225,3,0.0335,-6.798,0,0.0363,77.019,4,0.679
+Taylor Swift,"['pop', 'post-teen pop']",ME! (feat. Brendon Urie of Panic! At The Disco),77,1,193000,0,0.033,0.61,0.83,0,0,0.118,-4.105,1,0.0571,182.162,4,0.728
+Taylor Swift,"['pop', 'post-teen pop']",Lover,76,1,221306,0,0.492,0.359,0.543,0.0000158,7,0.118,-7.582,1,0.0919,68.534,4,0.453
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",Qué Más Pues?,95,1,217773,0,0.0261,0.891,0.819,0.000354,8,0.173,-3.964,1,0.106,101.968,4,0.768
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",AM Remix,93,1,261334,1,0.114,0.743,0.655,0,6,0.0764,-5.015,0,0.159,172.031,4,0.785
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",Poblado - Remix,89,1,393280,0,0.102,0.813,0.809,0.00000137,3,0.377,-5.382,0,0.0846,93.005,4,0.646
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",In Da Getto,84,1,131065,0,0.025,0.915,0.72,0.0000142,8,0.0942,-3.126,1,0.0459,126.986,4,0.631
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",UN DIA (ONE DAY) (Feat. Tainy),83,1,232253,0,0.00536,0.571,0.693,0,6,0.173,-8.234,0,0.0545,168.169,4,0.393
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",LA CANCIÓN,83,1,242573,0,0.152,0.754,0.646,0.0000185,7,0.108,-5.795,1,0.317,176.089,4,0.429
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",Una Locura,82,1,230693,0,0.139,0.714,0.761,0.00035,5,0.241,-4.596,0,0.0427,168.022,4,0.906
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",Relación - Remix,81,1,247308,0,0.0337,0.793,0.771,0.00000151,5,0.284,-3.417,1,0.0959,171.943,4,0.835
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",I Like It,80,1,253390,1,0.099,0.816,0.726,0,5,0.372,-3.998,0,0.129,136.048,4,0.65
+J Balvin,"['latin', 'reggaeton', 'reggaeton colombiano']",Otra Noche Sin Ti,80,1,228920,0,0.0751,0.503,0.548,0.000234,0,0.145,-7.564,0,0.164,94.036,4,0.441
+BTS,"['k-pop', 'k-pop boy group']",Butter,96,1,164441,0,0.00323,0.759,0.459,0,8,0.0906,-5.187,1,0.0948,109.997,4,0.695
+BTS,"['k-pop', 'k-pop boy group']",Permission to Dance,72,1,187585,0,0.00544,0.702,0.741,0,9,0.337,-5.33,1,0.0427,124.925,4,0.646
+BTS,"['k-pop', 'k-pop boy group']",Dynamite,89,1,199053,0,0.0112,0.746,0.765,0,6,0.0936,-4.41,0,0.0993,114.044,4,0.737
+BTS,"['k-pop', 'k-pop boy group']",Life Goes On,84,1,207481,0,0.00691,0.566,0.716,0,1,0.37,-5.733,1,0.0424,81.068,4,0.45
+BTS,"['k-pop', 'k-pop boy group']",Film out,82,1,214620,0,0.296,0.499,0.709,0,10,0.331,-6.404,1,0.134,164.032,4,0.314
+BTS,"['k-pop', 'k-pop boy group']",Boy With Luv (feat. Halsey),82,1,229773,0,0.0923,0.645,0.862,0,11,0.192,-4.757,0,0.0965,119.991,4,0.798
+BTS,"['k-pop', 'k-pop boy group']",Filter,79,1,180220,0,0.0222,0.781,0.762,0,10,0.121,-5.188,0,0.0626,110.042,4,0.86
+BTS,"['k-pop', 'k-pop boy group']",Euphoria,79,1,228615,0,0.394,0.637,0.799,0,2,0.0921,-4.519,1,0.0338,104.995,4,0.562
+BTS,"['k-pop', 'k-pop boy group']",Telepathy,78,1,202313,0,0.00782,0.787,0.669,0,5,0.123,-4.333,0,0.0428,104.994,4,0.57
+BTS,"['k-pop', 'k-pop boy group']",Blue & Grey,78,1,254950,0,0.42,0.547,0.605,0,8,0.125,-6.755,1,0.0415,121.953,4,0.364
+Kanye West,"['chicago rap', 'rap']",Stronger,81,1,311866,1,0.00564,0.617,0.717,0,10,0.408,-7.858,0,0.153,103.992,4,0.49
+Kanye West,"['chicago rap', 'rap']",Ni**as In Paris,80,1,219333,1,0.127,0.789,0.858,0,1,0.349,-5.542,1,0.311,140.022,4,0.775
+Kanye West,"['chicago rap', 'rap']",Heartless,79,1,211000,0,0.0515,0.79,0.647,0,10,0.248,-5.983,0,0.136,87.999,4,0.654
+Kanye West,"['chicago rap', 'rap']",Bound 2,79,1,229146,1,0.145,0.367,0.665,0,1,0.113,-2.821,1,0.0465,148.913,4,0.31
+Kanye West,"['chicago rap', 'rap']",Flashing Lights,79,1,237506,1,0.0381,0.639,0.628,0,6,0.386,-7.578,0,0.0399,90.482,4,0.43
+Kanye West,"['chicago rap', 'rap']",POWER,78,1,292093,1,0.0161,0.542,0.914,0,0,0.744,-4.747,0,0.113,153.993,4,0.576
+Kanye West,"['chicago rap', 'rap']",FourFiveSeconds,77,1,188238,0,0.875,0.582,0.272,0,2,0.13,-5.662,1,0.0501,205.846,4,0.354
+Kanye West,"['chicago rap', 'rap']",Gold Digger,77,1,207626,1,0.0195,0.629,0.696,0,1,0.0554,-5.572,0,0.348,93.034,4,0.623
+Kanye West,"['chicago rap', 'rap']",Father Stretch My Hands Pt. 1,77,1,135920,1,0.118,0.724,0.573,0,7,0.538,-4.113,1,0.0549,113.088,4,0.438
+Kanye West,"['chicago rap', 'rap']",All Mine,76,1,145506,1,0.123,0.925,0.31,0,11,0.0931,-6.531,0,0.291,121.927,4,0.291
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Travesuras - Remix,82,1,324426,1,0.0513,0.739,0.788,0,1,0.282,-5.198,1,0.0731,175.996,4,0.473
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Una Locura,82,1,230693,0,0.139,0.714,0.761,0.00035,5,0.241,-4.596,0,0.0427,168.022,4,0.906
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Del Mar,79,1,214506,1,0.0224,0.759,0.636,0.000143,6,0.166,-5.585,1,0.0369,109.976,4,0.536
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Tiempo,78,1,171813,0,0.25,0.778,0.752,0.00386,1,0.0866,-4.976,0,0.149,180.017,4,0.791
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",77,1,212500,1,0.157,0.842,0.801,0.00000482,8,0.0642,-4.167,0,0.228,95.881,4,0.617
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Adicto (with Anuel AA & Ozuna),75,1,270740,0,0.017,0.734,0.836,0.0000164,10,0.179,-4.803,0,0.0735,80.002,4,0.623
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Diles,75,1,286040,1,0.108,0.813,0.56,0,2,0.268,-5.904,0,0.0618,118.033,4,0.287
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Despeinada,75,1,224186,0,0.186,0.734,0.775,0.000542,8,0.123,-3.855,1,0.0614,166.039,4,0.72
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Este Loko,75,1,200214,0,0.00809,0.689,0.768,0.000864,4,0.103,-4.697,0,0.096,171.93,4,0.591
+Ozuna,"['latin', 'puerto rican pop', 'reggaeton', 'trap latino']",Caramelo,68,1,217240,0,0.0529,0.735,0.791,0.000146,6,0.145,-4.462,1,0.0679,168.087,4,0.697
+Khalid,['pop'],lovely (with Khalid),86,1,200185,0,0.934,0.351,0.296,0,4,0.095,-10.109,0,0.0333,115.284,4,0.12
+Khalid,['pop'],Otra Noche Sin Ti,80,1,228920,0,0.0751,0.503,0.548,0.000234,0,0.145,-7.564,0,0.164,94.036,4,0.441
+Khalid,['pop'],working,80,1,210219,0,0.282,0.783,0.435,0,7,0.0833,-7.78,1,0.0588,106.974,4,0.512
+Khalid,['pop'],Young Dumb & Broke,80,1,202546,0,0.199,0.799,0.539,0.0000166,1,0.165,-6.351,1,0.0421,136.948,4,0.394
+Khalid,['pop'],Silence,79,1,180822,0,0.256,0.52,0.761,0.00000496,4,0.17,-3.093,1,0.0853,141.971,4,0.286
+Khalid,['pop'],Beautiful People (feat. Khalid),75,1,197866,0,0.124,0.64,0.647,0,5,0.0801,-8.114,0,0.186,92.979,4,0.546
+Khalid,['pop'],Be Like That - feat. Swae Lee & Khalid,79,1,191406,0,0.0469,0.727,0.626,0.0000258,7,0.126,-8.415,1,0.0726,86.97,4,0.322
+Khalid,['pop'],Location,78,1,219080,0,0.33,0.736,0.449,0.000162,1,0.0898,-11.462,0,0.425,80.126,4,0.326
+Khalid,['pop'],8TEEN,77,1,228600,0,0.225,0.83,0.585,0.00209,1,0.0576,-5.802,1,0.0366,105.03,4,0.642
+Khalid,['pop'],New Normal,77,1,198765,0,0.0807,0.39,0.534,0,0,0.184,-9.575,1,0.0709,92.047,4,0.244
+XXXTENTACION,"['emo rap', 'miami hip hop']",Jocelyn Flores,84,1,119133,1,0.469,0.872,0.391,0.00000413,0,0.297,-9.144,0,0.242,134.021,4,0.437
+XXXTENTACION,"['emo rap', 'miami hip hop']",SAD!,84,1,166605,1,0.258,0.74,0.613,0.00372,8,0.123,-4.88,1,0.145,75.023,4,0.473
+XXXTENTACION,"['emo rap', 'miami hip hop']",Hope,83,1,110886,1,0.661,0.592,0.457,0.000331,9,0.146,-6.081,0,0.0603,146.04,4,0.225
+XXXTENTACION,"['emo rap', 'miami hip hop']",Moonlight,83,1,135090,1,0.556,0.921,0.537,0.00404,9,0.102,-5.723,0,0.0804,128.009,4,0.711
+XXXTENTACION,"['emo rap', 'miami hip hop']",Everybody Dies In Their Nightmares,82,1,95466,1,0.847,0.734,0.57,0.0000214,7,0.112,-7.066,0,0.133,129.953,4,0.689
+XXXTENTACION,"['emo rap', 'miami hip hop']",Fuck Love (feat. Trippie Redd),81,1,146520,1,0.0172,0.797,0.533,0.000152,0,0.103,-9.74,0,0.0412,131.036,4,0.329
+XXXTENTACION,"['emo rap', 'miami hip hop']",changes,80,1,121886,0,0.883,0.669,0.308,0,11,0.0984,-10.068,1,0.029,64.934,4,0.52
+XXXTENTACION,"['emo rap', 'miami hip hop']",Look At Me!,80,1,126345,1,0.259,0.763,0.726,0,1,0.0976,-6.405,1,0.282,139.059,4,0.349
+XXXTENTACION,"['emo rap', 'miami hip hop']",Falling Down - Bonus Track,80,1,196400,1,0.0175,0.669,0.574,0.00294,4,0.146,-6.442,0,0.0286,120.013,4,0.273
+XXXTENTACION,"['emo rap', 'miami hip hop']",the remedy for a broken heart (why am I so in love),80,1,160184,1,0.779,0.699,0.304,0.000993,1,0.137,-11.192,1,0.0993,119.705,4,0.271
+Billie Eilish,"['electropop', 'pop']",NDA,14,0,195776,1,0.329,0.765,0.373,0.541,8,0.112,-9.915,1,0.0713,85.015,4,0.59
+Billie Eilish,"['electropop', 'pop']",lovely (with Khalid),86,1,200185,0,0.934,0.351,0.296,0,4,0.095,-10.109,0,0.0333,115.284,4,0.12
+Billie Eilish,"['electropop', 'pop']",Lost Cause,13,0,212496,1,0.705,0.671,0.336,0.00751,10,0.0577,-8.494,0,0.241,75.051,4,0.518
+Billie Eilish,"['electropop', 'pop']",bad guy,85,1,194087,0,0.328,0.701,0.425,0.13,7,0.1,-10.965,1,0.375,135.128,4,0.562
+Billie Eilish,"['electropop', 'pop']",Your Power,39,0,245896,0,0.932,0.632,0.284,0.000476,9,0.233,-14.025,0,0.0801,129.642,4,0.208
+Billie Eilish,"['electropop', 'pop']",Therefore I Am,83,1,174321,0,0.218,0.889,0.34,0.13,11,0.055,-7.773,0,0.0697,94.009,4,0.716
+Billie Eilish,"['electropop', 'pop']",everything i wanted,82,1,245425,0,0.902,0.704,0.225,0.657,6,0.106,-14.454,0,0.0994,120.006,4,0.243
+Billie Eilish,"['electropop', 'pop']",when the party's over,82,1,196077,0,0.978,0.367,0.111,0.0000397,4,0.0897,-14.084,1,0.0972,82.642,4,0.198
+Billie Eilish,"['electropop', 'pop']",i love you,79,1,291796,0,0.952,0.421,0.131,0.00453,0,0.109,-18.435,1,0.0382,137.446,4,0.12
+Billie Eilish,"['electropop', 'pop']",ocean eyes,64,1,200560,0,0.819,0.475,0.37,0.0577,4,0.0841,-7.725,0,0.0361,144.828,4,0.157
+Coldplay,"['permanent wave', 'pop']",Yellow,85,1,266773,0,0.00239,0.429,0.661,0.000121,11,0.234,-7.227,1,0.0281,173.372,4,0.285
+Coldplay,"['permanent wave', 'pop']",Higher Power,83,1,211294,0,0.00711,0.507,0.828,0.0000244,10,0.261,-6.023,1,0.0449,178.032,4,0.489
+Coldplay,"['permanent wave', 'pop']",Something Just Like This,82,1,247160,0,0.0498,0.617,0.635,0.0000144,11,0.164,-6.769,0,0.0317,103.019,4,0.446
+Coldplay,"['permanent wave', 'pop']",The Scientist,82,1,309600,0,0.731,0.557,0.442,0.0000146,5,0.11,-7.224,1,0.0243,146.277,4,0.213
+Coldplay,"['permanent wave', 'pop']",Fix You,80,1,295533,0,0.164,0.209,0.417,0.00196,3,0.113,-8.74,1,0.0338,138.178,4,0.124
+Coldplay,"['permanent wave', 'pop']",Hymn for the Weekend,80,1,258266,0,0.211,0.491,0.693,0.00000692,0,0.325,-6.487,0,0.0377,90.027,4,0.412
+Coldplay,"['permanent wave', 'pop']",Paradise,79,1,278719,0,0.0509,0.449,0.585,0.0000875,5,0.0833,-6.761,1,0.0268,139.631,4,0.212
+Coldplay,"['permanent wave', 'pop']",Viva La Vida,79,1,242373,0,0.0954,0.486,0.617,0.00000323,5,0.109,-7.115,0,0.0287,138.015,4,0.417
+Coldplay,"['permanent wave', 'pop']",A Sky Full of Stars,77,1,267866,0,0.00617,0.545,0.675,0.00197,6,0.209,-6.474,1,0.0279,124.97,4,0.162
+Coldplay,"['permanent wave', 'pop']",Clocks,76,1,307879,0,0.599,0.577,0.749,0.0115,5,0.183,-7.215,0,0.0279,130.97,4,0.255
+Juice WRLD,"['chicago rap', 'melodic rap']",Lucid Dreams,85,1,239835,1,0.349,0.511,0.566,0,6,0.34,-7.23,0,0.2,83.903,4,0.218
+Juice WRLD,"['chicago rap', 'melodic rap']",Wishing Well,83,1,194621,1,0.00336,0.65,0.613,0,9,0.267,-6.13,0,0.128,149.972,4,0.0804
+Juice WRLD,"['chicago rap', 'melodic rap']",Robbery,83,1,240050,1,0.328,0.685,0.692,0,2,0.153,-5.122,1,0.0457,159.966,5,0.578
+Juice WRLD,"['chicago rap', 'melodic rap']",All Girls Are The Same,83,1,165819,1,0.0769,0.671,0.529,0.000335,0,0.0856,-7.226,1,0.307,161.989,4,0.203
+Juice WRLD,"['chicago rap', 'melodic rap']",Come & Go (with Marshmello),82,1,205484,1,0.0172,0.625,0.814,0,0,0.158,-5.181,1,0.0657,144.991,4,0.535
+Juice WRLD,"['chicago rap', 'melodic rap']",Bandit (with YoungBoy Never Broke Again),81,1,189322,1,0.0687,0.474,0.631,0,5,0.132,-5.884,0,0.343,180.051,4,0.425
+Juice WRLD,"['chicago rap', 'melodic rap']",Righteous,78,1,242180,1,0.0417,0.706,0.625,0,0,0.129,-7.426,1,0.0314,142.948,4,0.225
+Juice WRLD,"['chicago rap', 'melodic rap']",Hate The Other Side (with Marshmello & The Kid Laroi),78,1,160212,1,0.291,0.701,0.65,0,6,0.112,-6.313,1,0.104,90.003,4,0.647
+Juice WRLD,"['chicago rap', 'melodic rap']",GO (feat. Juice WRLD),78,1,181688,1,0.157,0.487,0.74,0,6,0.612,-4.973,1,0.0944,73.779,4,0.522
+Juice WRLD,"['chicago rap', 'melodic rap']",Armed And Dangerous,78,1,169999,1,0.186,0.736,0.67,0,10,0.114,-6.702,1,0.311,130.032,4,0.845
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Umbrella,66,1,275986,0,0.00864,0.583,0.829,0,1,0.0426,-4.603,1,0.134,174.028,4,0.575
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Love On The Brain,79,1,224000,1,0.0717,0.509,0.637,0.0000108,4,0.0789,-4.83,0,0.0471,172.006,3,0.378
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Pon de Replay,78,1,246960,0,0.000155,0.779,0.64,0.00077,7,0.101,-8.415,1,0.159,99.019,4,0.498
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Needed Me,78,1,191600,1,0.11,0.671,0.314,0,5,0.0825,-8.091,0,0.244,110.898,4,0.296
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",FourFiveSeconds,77,1,188238,0,0.875,0.582,0.272,0,2,0.13,-5.662,1,0.0501,205.846,4,0.354
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Don't Stop The Music,64,1,267080,0,0.0336,0.835,0.669,0.0000692,6,0.0535,-5.582,0,0.0643,122.668,4,0.542
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Disturbia,76,1,238626,0,0.0863,0.707,0.813,0,11,0.168,-4.515,0,0.0571,124.921,4,0.722
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Work,76,1,219320,1,0.0752,0.725,0.534,0,11,0.0919,-6.238,1,0.0946,91.974,4,0.558
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Diamonds,67,1,225146,0,0.00125,0.564,0.71,0,11,0.109,-4.92,0,0.0461,91.972,4,0.393
+Rihanna,"['barbadian pop', 'dance pop', 'pop', 'post-teen pop', 'urban contemporary']",Stay - Album Version (Edited),65,1,240706,0,0.945,0.621,0.31,0.0000612,9,0.117,-10.164,0,0.0283,111.893,4,0.125
+Travis Scott,"['rap', 'slap house']",Goosebumps - Remix,88,1,162802,1,0.418,0.841,0.593,0,1,0.124,-7.846,1,0.0379,124.917,4,0.808
+Travis Scott,"['rap', 'slap house']",goosebumps,85,1,243836,1,0.0847,0.841,0.728,0,7,0.149,-3.37,1,0.0484,130.049,4,0.43
+Travis Scott,"['rap', 'slap house']",HIGHEST IN THE ROOM,84,1,175720,1,0.0546,0.598,0.427,0.00000583,7,0.21,-8.764,0,0.0317,76.469,4,0.0605
+Travis Scott,"['rap', 'slap house']",SICKO MODE,84,1,312820,1,0.00513,0.834,0.73,0,8,0.124,-3.714,1,0.222,155.008,4,0.446
+Travis Scott,"['rap', 'slap house']",OUT WEST (feat. Young Thug),82,1,157712,1,0.0104,0.802,0.591,0,8,0.196,-4.895,1,0.225,139.864,4,0.309
+Travis Scott,"['rap', 'slap house']",Hats Off (feat. Travis Scott),81,1,257428,1,0.138,0.596,0.65,0,9,0.14,-5.167,1,0.337,133.997,4,0.188
+Travis Scott,"['rap', 'slap house']",THE SCOTTS,80,1,165977,1,0.233,0.716,0.537,0,0,0.157,-7.648,0,0.0514,129.979,4,0.28
+Travis Scott,"['rap', 'slap house']",BUTTERFLY EFFECT,78,1,190557,0,0.0531,0.763,0.628,0,11,0.114,-5.85,1,0.05,140.958,4,0.193
+Travis Scott,"['rap', 'slap house']",5% TINT,78,1,196138,1,0.173,0.712,0.481,0,4,0.241,-5.415,0,0.0487,140,4,0.062
+Travis Scott,"['rap', 'slap house']",GATTI,76,1,181144,1,0.135,0.594,0.676,0,2,0.163,-5.808,1,0.344,143.477,4,0.472
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Believer,86,1,204346,0,0.0622,0.776,0.78,0,10,0.081,-4.374,0,0.128,124.949,4,0.666
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Follow You,85,1,175643,0,0.00209,0.542,0.732,0.0000792,9,0.496,-5.956,1,0.0521,124.912,4,0.489
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Wrecked,83,1,244004,0,0.148,0.626,0.56,0.0000151,0,0.109,-5.82,0,0.0288,93.989,4,0.229
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Thunder,83,1,187146,0,0.00671,0.605,0.822,0.134,0,0.147,-4.833,1,0.0438,167.997,4,0.288
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Natural,80,1,189466,0,0.217,0.704,0.611,0,2,0.0812,-6.112,1,0.0409,100,4,0.22
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Demons,72,1,175200,0,0.19,0.505,0.71,0.00025,3,0.329,-3.015,1,0.0321,89.938,4,0.428
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Whatever It Takes,79,1,201240,0,0.0362,0.672,0.655,0,10,0.117,-5.021,0,0.0311,134.945,4,0.556
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Bad Liar,79,1,260773,0,0.0722,0.383,0.637,0,3,0.368,-6.993,1,0.0703,177.913,4,0.0827
+Imagine Dragons,"['modern rock', 'pop', 'rock']",Radioactive,72,1,186813,0,0.106,0.448,0.784,0.000108,9,0.668,-3.686,1,0.0627,136.245,4,0.236
+Imagine Dragons,"['modern rock', 'pop', 'rock']","Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",76,1,243490,1,0.255,0.502,0.786,0,9,0.65,-4.378,0,0.317,169.021,4,0.739
+Maroon 5,"['pop', 'pop rock']",Beautiful Mistakes (feat. Megan Thee Stallion),88,1,227395,0,0.0377,0.713,0.676,0,10,0.154,-5.483,1,0.027,99.048,4,0.721
+Maroon 5,"['pop', 'pop rock']",Memories,85,1,189486,0,0.841,0.775,0.327,0,11,0.0821,-7.241,1,0.0557,91.05,4,0.595
+Maroon 5,"['pop', 'pop rock']",Payphone,74,1,231386,1,0.0136,0.739,0.756,0,4,0.37,-4.828,1,0.0394,110.028,4,0.523
+Maroon 5,"['pop', 'pop rock']",Sugar,80,1,235493,1,0.0591,0.748,0.788,0,1,0.0863,-7.055,1,0.0334,120.076,4,0.884
+Maroon 5,"['pop', 'pop rock']",Lost,80,1,172597,0,0.223,0.766,0.706,0.00028,7,0.064,-6.553,0,0.16,142.989,4,0.766
+Maroon 5,"['pop', 'pop rock']",Maps,79,1,189960,0,0.0205,0.742,0.713,0,1,0.059,-5.522,0,0.0303,120.032,4,0.879
+Maroon 5,"['pop', 'pop rock']",Animals,78,1,231013,0,0.000185,0.279,0.742,0,4,0.593,-6.46,0,0.0898,189.868,4,0.328
+Maroon 5,"['pop', 'pop rock']",Lifestyle (feat. Adam Levine),78,1,153865,1,0.0209,0.749,0.674,0,10,0.169,-5.128,0,0.0366,123.055,4,0.711
+Maroon 5,"['pop', 'pop rock']",This Love,77,1,206200,0,0.0525,0.712,0.862,0,5,0.093,-4.612,0,0.0378,95.051,4,0.809
+Maroon 5,"['pop', 'pop rock']",She Will Be Loved - Radio Mix,77,1,259453,0,0.228,0.651,0.663,0,0,0.0994,-5.569,0,0.0281,102,4,0.465
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Levitating (feat. DaBaby),90,1,203064,0,0.00883,0.702,0.825,0,6,0.0674,-3.787,0,0.0601,102.977,4,0.915
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Levitating,85,1,203807,0,0.0561,0.695,0.884,0,6,0.213,-2.278,0,0.0753,103.014,4,0.914
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",We're Good,84,1,165506,0,0.0319,0.722,0.588,0,6,0.183,-5.932,1,0.0544,134.01,4,0.59
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",UN DIA (ONE DAY) (Feat. Tainy),83,1,232253,0,0.00536,0.571,0.693,0,6,0.173,-8.234,0,0.0545,168.169,4,0.393
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Don't Start Now,82,1,183290,0,0.0123,0.793,0.793,0,11,0.0951,-4.521,0,0.083,123.95,4,0.679
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",One Kiss (with Dua Lipa),81,1,214846,0,0.037,0.791,0.862,0.0000219,9,0.0814,-3.24,0,0.11,123.994,4,0.592
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Break My Heart,80,1,221820,0,0.167,0.73,0.729,0.00000139,4,0.349,-3.434,0,0.0884,113.011,4,0.467
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",New Rules,79,1,209320,0,0.00261,0.762,0.7,0.0000156,9,0.153,-6.021,0,0.0694,116.073,4,0.608
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",Prisoner (feat. Dua Lipa),77,1,169333,0,0.0103,0.781,0.67,0,3,0.0761,-3.912,0,0.0452,127.99,4,0.595
+Dua Lipa,"['dance pop', 'pop', 'uk pop']",IDGAF,78,1,217946,1,0.0403,0.836,0.544,0,7,0.0824,-5.975,1,0.0943,97.028,4,0.51
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Señorita,79,1,190799,0,0.0392,0.759,0.548,0,9,0.0828,-6.049,0,0.029,116.967,4,0.749
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",There's Nothing Holdin' Me Back,81,1,199440,0,0.38,0.866,0.813,0,11,0.0779,-4.063,0,0.0554,121.998,4,0.969
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Treat You Better,81,1,187973,0,0.106,0.444,0.819,0,10,0.107,-4.078,0,0.341,82.695,4,0.747
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",KESI - Remix,81,1,176575,0,0.127,0.871,0.815,0.00000618,4,0.094,-4.439,1,0.0477,122.959,4,0.823
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Monster (Shawn Mendes & Justin Bieber),73,1,178994,0,0.0593,0.64,0.392,0,2,0.0839,-7.246,0,0.0574,145.838,4,0.502
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Wonder,74,1,172692,0,0.136,0.442,0.631,0.0000229,1,0.133,-5.096,0,0.05,139.774,4,0.129
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Mercy,78,1,208733,0,0.125,0.555,0.662,0,11,0.111,-4.952,0,0.0827,148.128,4,0.356
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",Stitches,72,1,206880,0,0.0151,0.752,0.754,0,1,0.0486,-6.684,1,0.0615,149.789,4,0.755
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",If I Can't Have You,72,1,191466,0,0.487,0.691,0.823,0,2,0.134,-4.197,1,0.0623,123.935,4,0.87
+Shawn Mendes,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",In My Blood,75,1,211360,0,0.0573,0.622,0.712,0,5,0.13,-7.321,1,0.066,140.025,4,0.487
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",By Your Side (feat. Tom Grennan),86,1,189671,0,0.0514,0.733,0.96,0.00199,7,0.287,-3.597,1,0.0295,124.01,4,0.811
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",Summer,83,1,222533,0,0.0211,0.596,0.856,0.0178,4,0.141,-3.556,0,0.0346,127.949,4,0.743
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",One Kiss (with Dua Lipa),81,1,214846,0,0.037,0.791,0.862,0.0000219,9,0.0814,-3.24,0,0.11,123.994,4,0.592
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",This Is What You Came For (feat. Rihanna),81,1,222160,0,0.199,0.631,0.927,0.119,9,0.148,-2.787,0,0.0332,123.962,4,0.465
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",Feel So Close - Radio Edit,80,1,206413,0,0.000972,0.707,0.924,0.00703,7,0.204,-2.842,1,0.031,127.937,4,0.919
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",Outside (feat. Ellie Goulding),78,1,227266,0,0.213,0.646,0.823,0,2,0.322,-4.123,0,0.0394,128.035,4,0.418
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",How Deep Is Your Love,78,1,212640,0,0.0392,0.738,0.868,0.00169,11,0.388,-4.373,0,0.0731,122.003,4,0.336
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",Promises (with Sam Smith),77,1,213309,0,0.0119,0.781,0.768,0.00000491,11,0.325,-5.991,1,0.0394,123.07,4,0.486
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",Blame (feat. John Newman),76,1,212960,0,0.0287,0.414,0.857,0.00574,0,0.343,-4.078,0,0.0808,128.024,4,0.348
+Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",My Way,75,1,219159,0,0.093,0.818,0.913,0.0000369,4,0.161,-3.06,0,0.0426,119.986,4,0.536
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",Yeah! (feat. Lil Jon & Ludacris),81,1,250373,0,0.0183,0.894,0.791,0,2,0.0388,-4.699,1,0.112,105.018,4,0.583
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",DJ Got Us Fallin' In Love (feat. Pitbull),79,1,220800,0,0.0338,0.663,0.861,0,7,0.082,-3.398,0,0.109,119.963,4,0.654
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",My Boo,77,1,223440,0,0.257,0.662,0.507,0,5,0.0465,-8.238,1,0.118,86.412,4,0.676
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']","Peaches (Remix) feat. Ludacris, Usher & Snoop Dogg",73,1,229472,1,0.399,0.64,0.69,0,0,0.463,-6.489,1,0.235,89.906,4,0.59
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",I Don't Mind (feat. Juicy J),72,1,251989,1,0.205,0.87,0.464,0,4,0.0902,-8.337,1,0.178,112.974,4,0.457
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",OMG (feat. will.i.am),72,1,269493,0,0.198,0.781,0.745,0.0000114,4,0.36,-5.81,0,0.0332,129.998,4,0.326
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",Come Thru (with Usher),71,1,181013,1,0.159,0.679,0.728,0,5,0.107,-3.092,0,0.154,152.001,4,0.46
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",U Remind Me,71,1,266893,0,0.194,0.657,0.629,0,6,0.254,-4.938,1,0.0782,93.985,4,0.726
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",Too Much (feat. Usher),71,1,165704,0,0.00415,0.712,0.891,0,6,0.258,-2.76,0,0.0401,126.012,4,0.735
+Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']",U Got It Bad,69,1,247840,0,0.0227,0.816,0.5,0.00000153,1,0.0733,-4.551,1,0.03,124.037,4,0.649
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Relación - Remix,81,1,247308,0,0.0337,0.793,0.771,0.00000151,5,0.284,-3.417,1,0.0959,171.943,4,0.835
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",La Santa,79,1,206420,1,0.0326,0.744,0.868,0,1,0.0822,-4.524,1,0.047,93.037,4,0.586
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",PROBLEMA,79,1,184506,1,0.0613,0.773,0.8,0.00403,10,0.0327,-3.17,0,0.0987,89.988,4,0.842
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Despacito,79,1,229360,0,0.198,0.655,0.797,0,2,0.067,-4.787,1,0.153,177.928,4,0.839
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Con Calma,79,1,193226,0,0.11,0.737,0.86,0.00000194,8,0.0574,-2.652,0,0.0593,93.989,4,0.656
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",SÚBELE EL VOLUMEN,78,1,223366,1,0.0219,0.83,0.623,0,6,0.0812,-4.056,1,0.0801,101.036,4,0.614
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",China,68,1,301714,0,0.0846,0.786,0.808,0.000289,7,0.0822,-3.702,1,0.0881,105.029,4,0.608
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Gasolina,77,1,192600,0,0.332,0.857,0.801,0.0000012,0,0.0789,-6.499,1,0.0618,96.009,4,0.753
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Soltera - Remix,68,1,266086,0,0.361,0.795,0.783,0,5,0.437,-4.271,1,0.0432,92.01,4,0.799
+Daddy Yankee,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",De Vuelta Pa' La Vuelta,73,1,231593,0,0.434,0.665,0.94,0,5,0.0914,-3.606,1,0.0553,93.725,4,0.752
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Stay With Me,81,1,172723,0,0.588,0.418,0.42,0.0000639,0,0.11,-6.444,1,0.0414,84.094,4,0.184
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",I'm Not The Only One,80,1,239316,0,0.529,0.677,0.485,0.0000204,5,0.0766,-5.795,1,0.0361,82.001,4,0.493
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Too Good At Goodbyes,72,1,201000,0,0.64,0.681,0.372,0,5,0.169,-8.237,1,0.0432,91.873,4,0.476
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Dancing With A Stranger (with Normani),68,1,171029,0,0.447,0.741,0.52,0.00000197,8,0.222,-7.513,1,0.0656,102.998,4,0.347
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Diamonds,73,1,213869,0,0.161,0.637,0.666,0,10,0.108,-6.773,0,0.0494,104.02,4,0.529
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Promises (with Sam Smith),77,1,213309,0,0.0119,0.781,0.768,0.00000491,11,0.325,-5.991,1,0.0394,123.07,4,0.486
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",How Do You Sleep?,67,1,202204,0,0.154,0.561,0.685,0,1,0.077,-4.891,0,0.0835,165.944,4,0.363
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Lay Me Down,73,1,219535,0,0.919,0.468,0.19,0,4,0.107,-11.138,1,0.0373,125.319,4,0.326
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Fire On Fire,73,1,246735,0,0.476,0.584,0.408,0,1,0.18,-7.356,0,0.0461,115.129,4,0.333
+Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",To Die For,61,1,193795,0,0.832,0.461,0.362,0.00000285,0,0.098,-7.87,1,0.0762,171.604,4,0.309
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Leave The Door Open,93,1,242096,0,0.182,0.586,0.616,0,5,0.0927,-7.964,1,0.0324,148.088,4,0.719
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Talking to the Moon,83,1,217866,0,0.512,0.523,0.606,0,1,0.106,-4.754,0,0.0301,145.837,4,0.065
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Locked out of Heaven,82,1,233478,0,0.049,0.726,0.698,0,5,0.309,-4.165,1,0.0431,143.994,4,0.867
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",When I Was Your Man,82,1,213826,0,0.932,0.612,0.28,0,0,0.088,-8.648,1,0.0434,72.795,4,0.387
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",That's What I Like,82,1,206693,0,0.013,0.853,0.56,0,1,0.0944,-4.961,1,0.0406,134.066,4,0.86
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Just the Way You Are,80,1,220733,0,0.0151,0.637,0.843,0,5,0.0876,-5.413,1,0.0432,109.012,4,0.434
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",24K Magic,77,1,225983,0,0.034,0.818,0.803,0,1,0.153,-4.282,1,0.0797,106.97,4,0.632
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Treasure,77,1,178560,1,0.0412,0.874,0.692,0.0000724,5,0.324,-5.28,0,0.0431,116.017,4,0.937
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",It Will Rain,69,1,257720,0,0.337,0.576,0.835,0,2,0.082,-6.826,1,0.0486,150.017,4,0.476
+Bruno Mars,"['dance pop', 'pop', 'post-teen pop']",Grenade,75,1,223253,0,0.146,0.706,0.558,0,2,0.118,-7.237,0,0.0593,110.443,4,0.227
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Closer,84,1,244960,0,0.414,0.748,0.524,0,8,0.111,-5.599,1,0.0338,95.01,4,0.661
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Something Just Like This,82,1,247160,0,0.0498,0.617,0.635,0.0000144,11,0.164,-6.769,0,0.0317,103.019,4,0.446
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Don't Let Me Down,79,1,208373,0,0.157,0.532,0.869,0.00508,11,0.136,-5.094,1,0.172,159.803,4,0.422
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Takeaway,77,1,209880,0,0.126,0.528,0.511,0,3,0.101,-8.144,1,0.0324,100.1,4,0.351
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Call You Mine,75,1,217640,0,0.204,0.585,0.696,0,4,0.344,-5.6,0,0.0307,104.01,4,0.522
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Roses,75,1,226738,0,0.0435,0.713,0.802,0.00377,4,0.309,-7.055,1,0.0561,100.001,4,0.343
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",This Feeling,74,1,197946,0,0.0558,0.575,0.571,0,1,0.0912,-7.906,1,0.0439,105.049,4,0.449
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Who Do You Love,73,1,226733,1,0.0101,0.51,0.846,0,3,0.208,-4.595,1,0.0461,139.927,4,0.475
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Paris,69,1,221506,0,0.0215,0.653,0.658,0.00000166,2,0.0939,-6.428,1,0.0304,99.99,4,0.219
+The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",Sick Boy,69,1,193200,0,0.109,0.663,0.577,0,11,0.12,-7.518,0,0.0531,89.996,4,0.454
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",HUMBLE.,81,1,177000,1,0.000282,0.908,0.621,0.0000539,1,0.0958,-6.638,0,0.102,150.011,4,0.421
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",All The Stars (with SZA),79,1,232186,1,0.0605,0.698,0.633,0.000194,8,0.0926,-4.946,1,0.0597,96.924,4,0.552
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",LOVE. FEAT. ZACARI.,78,1,213400,1,0.264,0.8,0.585,0,10,0.153,-7.343,1,0.0924,126.058,4,0.779
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",DNA.,77,1,185946,1,0.00454,0.638,0.523,0,1,0.0842,-6.664,1,0.357,139.913,4,0.422
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Money Trees,75,1,386906,1,0.0703,0.716,0.531,0,7,0.224,-7.355,1,0.122,71.994,4,0.344
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Swimming Pools (Drank),73,1,247800,1,0.00627,0.577,0.447,0.00022,8,0.0899,-5.892,1,0.277,74.236,4,0.189
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",King Kunta,73,1,234693,1,0.00589,0.884,0.657,0,6,0.154,-4.569,0,0.0977,107.059,4,0.489
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Alright,73,1,219333,1,0.0742,0.796,0.766,0,7,0.0827,-5.974,1,0.238,110.034,4,0.558
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",HUMBLE. - SKRILLEX REMIX,72,1,156800,1,0.00794,0.901,0.934,0.0000768,11,0.194,-2.345,1,0.273,150.037,4,0.868
+Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",LOYALTY. FEAT. RIHANNA.,71,1,227360,1,0.0265,0.658,0.535,0,9,0.2,-8.983,0,0.0573,110.684,4,0.419
+Queen,"['classic rock', 'glam rock', 'rock']",Another One Bites The Dust - Remastered 2011,74,1,214653,0,0.112,0.933,0.528,0.329,5,0.163,-6.472,0,0.162,109.975,4,0.756
+Queen,"['classic rock', 'glam rock', 'rock']",Bohemian Rhapsody - Remastered 2011,74,1,354320,0,0.288,0.392,0.402,0,0,0.243,-9.961,0,0.0536,143.883,4,0.228
+Queen,"['classic rock', 'glam rock', 'rock']",Don't Stop Me Now - Remastered 2011,74,1,209413,0,0.0472,0.563,0.865,0.000191,5,0.77,-5.277,1,0.16,156.271,4,0.601
+Queen,"['classic rock', 'glam rock', 'rock']",Under Pressure - Remastered 2011,72,1,248440,0,0.422,0.671,0.711,0,2,0.104,-7.813,1,0.0478,113.809,4,0.466
+Queen,"['classic rock', 'glam rock', 'rock']",We Will Rock You - Remastered 2011,70,1,122066,0,0.679,0.693,0.497,0,2,0.258,-7.316,1,0.119,81.308,4,0.473
+Queen,"['classic rock', 'glam rock', 'rock']",I Want To Break Free - Remastered 2011,63,1,258013,0,0.0853,0.795,0.433,0.000284,4,0.0762,-8.927,1,0.0324,108.947,4,0.6
+Queen,"['classic rock', 'glam rock', 'rock']",Crazy Little Thing Called Love - Remastered 2011,67,1,163373,0,0.714,0.599,0.762,0.00000443,0,0.35,-6.887,1,0.0423,76.961,4,0.715
+Queen,"['classic rock', 'glam rock', 'rock']",We Are The Champions - Remastered 2011,64,1,179200,0,0.378,0.268,0.459,0,7,0.119,-6.948,0,0.0346,64.223,4,0.172
+Queen,"['classic rock', 'glam rock', 'rock']",Radio Ga Ga - Remastered 2011,63,1,348226,0,0.179,0.744,0.502,0.000172,5,0.19,-7.705,1,0.0359,112.345,4,0.655
+Queen,"['classic rock', 'glam rock', 'rock']",Somebody To Love - Remastered 2011,69,1,296493,0,0.19,0.497,0.693,0,8,0.215,-7.024,1,0.0565,111.539,3,0.358
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Crazy In Love (feat. Jay-Z),76,1,236133,0,0.00249,0.646,0.77,0,2,0.0715,-6.596,0,0.226,99.165,4,0.681
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Halo,64,1,261640,0,0.272,0.508,0.72,0,11,0.0563,-5.908,0,0.0628,79.983,4,0.472
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Love On Top,74,1,267413,0,0.0849,0.652,0.748,0,0,0.604,-5.242,1,0.0887,94.1,4,0.652
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Savage Remix (feat. Beyoncé),66,1,242000,1,0.0159,0.753,0.745,0,10,0.127,-4.776,0,0.334,169.02,4,0.635
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Formation,73,1,206080,1,0.00532,0.896,0.621,0,5,0.196,-6.857,0,0.237,121.966,4,0.818
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Perfect Duet (Ed Sheeran & Beyoncé),73,1,259550,0,0.779,0.587,0.299,0,8,0.123,-7.365,1,0.0263,94.992,3,0.356
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Run the World (Girls),72,1,236093,0,0.00496,0.733,0.899,0.0000472,0,0.372,-4.237,1,0.143,127.086,4,0.76
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",11-Jul,70,1,213506,0,0.0128,0.747,0.705,0,9,0.126,-5.137,0,0.126,136.024,4,0.56
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Irreplaceable,61,1,227666,0,0.0286,0.576,0.697,0.00000115,10,0.167,-4.192,1,0.326,175.906,4,0.501
+Beyoncé,"['dance pop', 'pop', 'post-teen pop', 'r&b']",Best Thing I Never Had,70,1,253746,0,0.143,0.545,0.649,0.0000157,6,0.0894,-4.062,1,0.0324,99.099,4,0.297
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Life Is Good (feat. Drake),74,1,237918,1,0.067,0.795,0.574,0,2,0.15,-6.903,0,0.487,142.053,4,0.537
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Mask Off,81,1,204600,1,0.0102,0.833,0.434,0.0219,2,0.165,-8.795,1,0.431,150.062,4,0.281
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Drankin N Smokin,78,1,213520,1,0.0421,0.752,0.658,0,0,0.0927,-6.297,1,0.342,151.951,4,0.387
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Number 2 (feat. Future & 21 Savage),74,1,173986,1,0.0287,0.727,0.637,0.000013,1,0.0928,-5.433,1,0.187,159.848,4,0.421
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Company (feat. Future),74,1,213080,1,0.447,0.831,0.727,0,8,0.111,-3.657,0,0.169,125.068,4,0.703
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Low Life (feat. The Weeknd),73,1,313546,1,0.337,0.722,0.331,0.282,8,0.146,-7.789,1,0.0726,143.961,4,0.102
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Fine China,73,1,141586,1,0.0484,0.656,0.542,0,7,0.126,-7.358,1,0.323,166.111,4,0.551
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Jumpman,72,1,205879,1,0.0559,0.852,0.553,0,1,0.332,-7.286,1,0.187,142.079,4,0.656
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']","King's Dead (with Kendrick Lamar, Future & James Blake)",71,1,229670,1,0.000813,0.645,0.705,0,1,0.128,-5.008,1,0.299,137.133,4,0.376
+Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Nobody Special (with Future),70,1,169500,1,0.00507,0.843,0.538,0,2,0.133,-5.928,1,0.47,160.088,4,0.169
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Go Crazy,81,1,176960,1,0.316,0.755,0.578,0,0,0.25,-8.932,0,0.145,94.148,4,0.581
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",No Guidance (feat. Drake),80,1,260640,1,0.123,0.696,0.454,0,1,0.155,-6.756,0,0.153,92.928,4,0.136
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Come Through (feat. Chris Brown),66,1,214093,1,0.588,0.612,0.423,0,5,0.117,-8.062,0,0.0508,135.841,5,0.18
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Forever,74,1,278573,0,0.0368,0.672,0.82,0.000188,11,0.184,-4.456,1,0.0459,120.005,4,0.438
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']","Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",73,1,296011,0,0.0145,0.816,0.513,0.000102,1,0.14,-8.363,1,0.244,96.981,4,0.17
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Loyal (feat. Lil Wayne & Tyga),73,1,264946,1,0.0168,0.841,0.522,0.00000137,10,0.188,-5.963,0,0.049,99.059,4,0.616
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Freaky Friday (feat. Chris Brown),72,1,216631,1,0.147,0.755,0.599,0,8,0.109,-5.042,1,0.224,133.123,4,0.755
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Look At Me Now (feat. Lil' Wayne & Busta Rhymes),71,1,222586,1,0.0339,0.767,0.677,0.00000551,11,0.144,-6.128,0,0.184,146.155,4,0.538
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Ayo,71,1,225226,1,0.0399,0.823,0.563,0,6,0.0851,-5.095,1,0.0443,98.031,4,0.682
+Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",Five More Hours - Deorro x Chris Brown,71,1,211975,0,0.0288,0.699,0.883,0,5,0.817,-3.226,0,0.219,127.961,4,0.499
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Dusk Till Dawn - Radio Edit,79,1,239000,0,0.101,0.258,0.437,0.00000127,11,0.106,-6.593,0,0.039,180.043,4,0.0967
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Del Mar,79,1,214506,1,0.0224,0.759,0.636,0.000143,6,0.166,-5.585,1,0.0369,109.976,4,0.536
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Floating Through Space,71,1,177800,0,0.00172,0.575,0.844,0,6,0.114,-4.89,0,0.072,104.914,4,0.277
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Snowman,78,1,165906,0,0.483,0.716,0.512,0,1,0.0928,-6.257,1,0.0331,104.957,3,0.326
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Chandelier,69,1,216120,0,0.0197,0.399,0.787,0.0000607,1,0.0685,-2.88,1,0.0499,117.089,5,0.572
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Let's Love,76,1,200645,0,0.00882,0.662,0.868,0.00244,5,0.584,-4.025,1,0.0341,92.998,4,0.353
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Cheap Thrills,71,1,211666,0,0.0472,0.628,0.698,0.00143,6,0.0907,-5.608,0,0.105,89.976,4,0.732
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']",Unstoppable,75,1,217746,0,0.112,0.468,0.779,0.000373,9,0.101,-4.839,1,0.0779,173.799,4,0.26
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']","Genius (feat. Sia, Diplo, and Labrinth)",74,1,213706,0,0.0799,0.603,0.615,0.0000672,11,0.117,-4.931,0,0.165,158.657,4,0.561
+Sia,"['australian dance', 'australian pop', 'dance pop', 'pop']","Thunderclouds (feat. Sia, Diplo, and Labrinth)",72,1,187026,0,0.0077,0.69,0.714,0.0000723,7,0.191,-5.948,1,0.0338,112.009,4,0.489
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",What Makes You Beautiful,82,1,199986,0,0.009,0.726,0.787,0,4,0.0596,-2.494,1,0.0737,124.99,4,0.888
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Story of My Life,81,1,245493,0,0.225,0.6,0.663,0,3,0.119,-5.802,1,0.0477,121.07,4,0.286
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Night Changes,81,1,226600,0,0.859,0.672,0.52,0,8,0.115,-7.747,1,0.0353,120.001,4,0.37
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Drag Me Down,79,1,192120,0,0.109,0.73,0.703,0,0,0.0657,-5.672,0,0.0369,138.113,4,0.595
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Steal My Girl,78,1,228133,0,0.00433,0.536,0.768,0,10,0.114,-5.948,0,0.0347,77.217,4,0.545
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",18,77,1,248360,0,0.22,0.681,0.582,0,6,0.119,-7.76,0,0.0313,124.038,4,0.221
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",You & I,76,1,237933,0,0.22,0.574,0.329,0,1,0.0986,-6.829,1,0.0274,130.993,4,0.356
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",They Don't Know About Us,76,1,200400,0,0.126,0.514,0.727,0,0,0.0978,-6.131,1,0.0492,147.917,4,0.37
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Best Song Ever,76,1,200106,0,0.0227,0.652,0.877,0,1,0.0789,-2.986,1,0.0465,118.491,4,0.486
+One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Little Things,76,1,219040,0,0.811,0.709,0.22,0,7,0.175,-11.856,1,0.0327,110.076,4,0.53
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Tusa,69,1,201920,0,0.309,0.799,0.701,0.0000736,2,0.0514,-3.272,1,0.282,100.946,4,0.607
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix,79,1,229601,1,0.199,0.893,0.463,0,1,0.318,-5.301,1,0.36,81.026,4,0.591
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Super Bass,78,1,200013,1,0.271,0.723,0.86,0.00000456,11,0.598,-4.357,1,0.203,126.979,4,0.667
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Seeing Green (with Drake & Lil Wayne),77,1,339506,1,0.0853,0.573,0.867,0,5,0.38,-2.876,0,0.168,74.861,4,0.231
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Bang Bang,77,1,199386,0,0.26,0.706,0.786,0,0,0.38,-3.417,0,0.091,150.028,4,0.751
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Starships,73,1,210626,1,0.135,0.747,0.716,0,11,0.251,-2.457,0,0.075,125.008,4,0.751
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Swalla (feat. Nicki Minaj & Ty Dolla $ign),75,1,216408,1,0.075,0.696,0.817,0,1,0.187,-3.862,1,0.109,98.064,4,0.782
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",MotorSport,72,1,303076,1,0.0305,0.904,0.518,0,2,0.325,-5.32,1,0.183,137.996,4,0.188
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Fractions,71,1,181690,1,0.011,0.924,0.523,0,0,0.17,-6.362,1,0.132,131.892,4,0.144
+Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop rap', 'post-teen pop', 'queens hip hop']",Woman Like Me (feat. Nicki Minaj),71,1,229720,1,0.177,0.754,0.854,0,5,0.0808,-3.449,0,0.0608,75.002,4,0.8
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Baila Conmigo (with Rauw Alejandro),85,1,186087,0,0.0215,0.823,0.544,0.00315,5,0.0966,-7.132,1,0.0715,149.903,4,0.664
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Lose You To Love Me,81,1,206458,0,0.556,0.488,0.343,0,4,0.21,-8.985,1,0.0436,102.819,4,0.0978
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Wolves,79,1,197993,0,0.124,0.724,0.804,0,11,0.204,-4.614,0,0.0448,124.987,4,0.306
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']","Taki Taki (with Selena Gomez, Ozuna & Cardi B)",77,1,212500,1,0.157,0.842,0.801,0.00000482,8,0.0642,-4.167,0,0.228,95.881,4,0.617
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",It Ain’t Me (with Selena Gomez),65,1,220780,0,0.119,0.64,0.533,0,0,0.0864,-6.596,1,0.0706,99.968,4,0.515
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Selfish Love (with Selena Gomez),75,1,168648,0,0.0206,0.723,0.646,0.352,5,0.0994,-7.973,0,0.102,110.971,4,0.443
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Back To You - From 13 Reasons Why – Season 2 Soundtrack,73,1,207904,0,0.0945,0.601,0.724,0.00000168,6,0.12,-4.856,1,0.0486,102.061,4,0.508
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Past Life (with Selena Gomez),72,1,186480,0,0.104,0.612,0.539,0,3,0.18,-5.071,1,0.0488,79.948,4,0.294
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",Ice Cream (with Selena Gomez),71,1,177813,0,0.0317,0.79,0.701,0.0000806,9,0.0311,-4.81,1,0.365,159.972,4,0.91
+Selena Gomez,"['dance pop', 'pop', 'post-teen pop']",De Una Vez,70,1,155956,0,0.152,0.659,0.479,0.0025,11,0.268,-6.79,0,0.2,163.882,4,0.0395
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Closer,84,1,244960,0,0.414,0.748,0.524,0,8,0.111,-5.599,1,0.0338,95.01,4,0.661
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Boy With Luv (feat. Halsey),82,1,229773,0,0.0923,0.645,0.862,0,11,0.192,-4.757,0,0.0965,119.991,4,0.798
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Be Kind (with Halsey),81,1,172761,0,0.00776,0.63,0.633,0,4,0.0541,-7.088,1,0.0457,93.995,4,0.452
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Without Me,77,1,201660,1,0.297,0.752,0.488,0.00000911,6,0.0936,-7.05,1,0.0705,136.041,4,0.533
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",forget me too (feat. Halsey),78,1,171620,1,0.000417,0.654,0.875,0.0086,1,0.194,-4.845,1,0.0744,99.975,4,0.522
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Eastside (with Halsey & Khalid),72,1,170769,0,0.549,0.632,0.686,0,6,0.2,-7.665,0,0.243,89.949,4,0.329
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",You should be sad,76,1,205473,1,0.143,0.591,0.585,0,2,0.109,-6.35,1,0.0277,110.94,4,0.324
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Sorry,75,1,220540,0,0.913,0.513,0.25,0,5,0.117,-9.376,0,0.0367,74.103,4,0.351
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Life's A Mess (feat. Halsey),75,1,202193,1,0.337,0.63,0.446,0,1,0.166,-8.9,1,0.0351,143.078,4,0.177
+Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",Him & I (with Halsey),74,1,268866,1,0.0534,0.589,0.731,0,2,0.308,-6.343,1,0.0868,87.908,4,0.191
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Shallow,83,1,215733,0,0.371,0.572,0.385,0,7,0.231,-6.362,1,0.0308,95.799,4,0.323
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Bad Romance,81,1,294573,1,0.00314,0.696,0.921,0.0000524,0,0.0842,-3.755,1,0.0363,119.001,4,0.714
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Rain On Me (with Ariana Grande),78,1,182200,0,0.021,0.672,0.855,0,9,0.323,-3.764,1,0.0397,123.056,4,0.646
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Always Remember Us This Way,77,1,210200,0,0.299,0.553,0.502,0,0,0.764,-5.972,1,0.0409,129.976,4,0.296
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Poker Face,73,1,237200,0,0.118,0.851,0.806,0.00000164,4,0.121,-4.62,1,0.0787,118.999,4,0.787
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Million Reasons,75,1,205280,0,0.494,0.666,0.423,0,0,0.106,-8.012,1,0.043,129.89,4,0.154
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Just Dance,71,1,241933,0,0.0264,0.822,0.739,0.0000426,1,0.181,-4.541,0,0.0311,118.992,4,0.745
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Born This Way,69,1,260253,0,0.00327,0.587,0.828,0,11,0.331,-5.108,1,0.161,123.907,4,0.494
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Stupid Love,74,1,193533,0,0.00173,0.68,0.825,0.000122,8,0.27,-4.296,1,0.0702,117.987,4,0.784
+Lady Gaga,"['dance pop', 'pop', 'post-teen pop']",Applause,71,1,212333,0,0.0265,0.669,0.78,0.00000163,7,0.143,-4.287,0,0.053,139.945,4,0.738
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",No Role Modelz,84,1,292986,1,0.301,0.692,0.521,0,10,0.0565,-8.465,0,0.33,100.45,4,0.463
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",m y . l i f e (with 21 Savage & Morray),83,1,218801,1,0.0622,0.597,0.587,0,7,0.214,-7.026,0,0.137,140.021,4,0.0753
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",p r i d e . i s . t h e . d e v i l (with Lil Baby),83,1,218210,1,0.104,0.861,0.656,0,4,0.0986,-7.867,0,0.425,88.967,4,0.331
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",a m a r i,80,1,148421,1,0.127,0.725,0.713,0,4,0.617,-6.173,0,0.187,65.988,4,0.207
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",MIDDLE CHILD,79,1,213593,1,0.149,0.837,0.364,0,8,0.271,-11.713,1,0.276,123.984,4,0.463
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Work Out,79,1,235320,1,0.0531,0.831,0.427,0,2,0.307,-6.903,1,0.106,93.004,4,0.216
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Wet Dreamz,78,1,239320,1,0.0751,0.517,0.705,0,6,0.128,-8.205,0,0.364,175.906,4,0.584
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",i n t e r l u d e,78,1,133021,1,0.0617,0.77,0.574,0,1,0.104,-5.525,1,0.106,98.962,3,0.104
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",The Jackie (with J. Cole & Lil Tjay),77,1,204434,1,0.333,0.784,0.474,0,8,0.278,-6.139,1,0.0524,128.012,4,0.64
+J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",9 5 . s o u t h,76,1,196946,1,0.271,0.713,0.793,0,2,0.727,-5.277,1,0.397,71.724,4,0.203
+Twenty One Pilots,"['modern rock', 'rock']",Stressed Out,83,1,202333,0,0.0462,0.734,0.637,0.0000229,4,0.0602,-5.677,0,0.141,169.977,4,0.648
+Twenty One Pilots,"['modern rock', 'rock']",Ride,81,1,214506,0,0.00835,0.645,0.713,0,6,0.113,-5.355,1,0.0393,74.989,4,0.566
+Twenty One Pilots,"['modern rock', 'rock']",Heathens,80,1,195920,0,0.0841,0.732,0.396,0.0000358,4,0.105,-9.348,0,0.0286,90.024,4,0.548
+Twenty One Pilots,"['modern rock', 'rock']",Shy Away,78,1,175044,0,0.000818,0.588,0.856,0.0739,9,0.238,-5.242,0,0.0316,96.966,4,0.635
+Twenty One Pilots,"['modern rock', 'rock']",Saturday,76,1,172232,0,0.00396,0.687,0.89,0.000939,8,0.0436,-5.99,1,0.0344,113.06,4,0.854
+Twenty One Pilots,"['modern rock', 'rock']",Chlorine,75,1,324466,0,0.0735,0.609,0.674,0.06,10,0.345,-7.388,0,0.0548,90.009,4,0.315
+Twenty One Pilots,"['modern rock', 'rock']",Choker,73,1,223065,0,0.306,0.7,0.664,0.0000189,7,0.249,-8.211,1,0.0394,142.009,4,0.585
+Twenty One Pilots,"['modern rock', 'rock']",Tear in My Heart,73,1,188493,0,0.0189,0.655,0.632,0,2,0.0722,-4.802,1,0.0489,120.113,4,0.447
+Twenty One Pilots,"['modern rock', 'rock']",Level of Concern,72,1,220051,0,0.32,0.754,0.583,0.00015,4,0.144,-7.34,0,0.0432,122.012,4,0.77
+Twenty One Pilots,"['modern rock', 'rock']",The Outside,71,1,216758,0,0.0505,0.785,0.623,0.125,11,0.0539,-6.923,1,0.0403,100.991,4,0.711
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Fiel - Remix,89,1,349546,1,0.398,0.839,0.711,0.00000202,6,0.118,-4.733,0,0.0473,97.99,4,0.573
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Reloj,77,1,231594,1,0.176,0.823,0.537,0.00000375,8,0.124,-2.627,1,0.211,175.965,4,0.608
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",China,68,1,301714,0,0.0846,0.786,0.808,0.000289,7,0.0822,-3.702,1,0.0881,105.029,4,0.608
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",LOCATION,71,1,263013,1,0.0487,0.771,0.765,0,1,0.313,-3.887,0,0.0508,115.984,4,0.66
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Hasta Que Dios Diga,76,1,246000,1,0.464,0.691,0.765,0.00000329,8,0.203,-4.727,1,0.111,174.021,4,0.855
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",La Jeepeta - Remix,69,1,345240,1,0.297,0.814,0.714,0.00000489,4,0.091,-4.65,0,0.207,176.013,4,0.789
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Adicto (with Anuel AA & Ozuna),75,1,270740,0,0.017,0.734,0.836,0.0000164,10,0.179,-4.803,0,0.0735,80.002,4,0.623
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Ella Quiere Beber - Remix,75,1,219357,0,0.265,0.75,0.665,0,8,0.0515,-3.083,1,0.124,95.239,4,0.697
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Otro Trago - Remix,74,1,287773,1,0.0711,0.725,0.79,0.00000114,0,0.0602,-2.331,1,0.197,175.988,4,0.763
+Anuel AA,"['latin', 'reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino']",Antes,73,1,206586,0,0.046,0.817,0.737,0.0000157,6,0.092,-5.453,0,0.102,93.985,4,0.67
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Here Comes The Sun - Remastered 2009,82,1,185733,0,0.0339,0.557,0.54,0.00248,9,0.179,-10.484,1,0.0347,129.171,4,0.394
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Come Together - Remastered 2009,78,1,259946,0,0.0302,0.533,0.376,0.248,9,0.0926,-11.913,0,0.0393,165.007,4,0.187
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Let It Be - Remastered 2009,77,1,243026,0,0.631,0.443,0.403,0,0,0.111,-8.339,1,0.0322,143.462,4,0.41
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Yesterday - Remastered 2009,75,1,125666,0,0.879,0.332,0.179,0,5,0.0886,-11.83,1,0.0326,96.529,4,0.315
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Hey Jude - Remastered 2015,74,1,425653,0,0.0112,0.386,0.607,0.0000138,10,0.088,-7.7,1,0.0261,147.207,4,0.532
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Twist And Shout - Remastered 2009,73,1,155226,0,0.641,0.482,0.849,0.00000774,2,0.0414,-9.198,1,0.0452,124.631,4,0.937
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Blackbird - Remastered 2009,73,1,138386,0,0.754,0.686,0.127,0.0000141,7,0.0573,-14.361,1,0.0342,93.699,4,0.372
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",In My Life - Remastered 2009,72,1,146333,0,0.449,0.688,0.435,0,9,0.113,-11.359,1,0.0323,103.239,4,0.435
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",I Want To Hold Your Hand - Remastered 2015,71,1,145746,0,0.386,0.49,0.715,0,7,0.311,-5.549,1,0.0476,130.726,4,0.866
+The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Help! - Remastered 2009,71,1,139560,0,0.188,0.534,0.725,0,6,0.0994,-7.576,0,0.0332,95.003,4,0.763
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Higher Love,69,1,228267,0,0.0151,0.693,0.678,0.00000571,8,0.101,-7.159,1,0.0324,103.952,4,0.404
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Firestone,77,1,271640,0,0.393,0.704,0.634,0.0000317,11,0.0952,-7.374,0,0.0428,113.927,4,0.411
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",It Ain’t Me (with Selena Gomez),65,1,220780,0,0.119,0.64,0.533,0,0,0.0864,-6.596,1,0.0706,99.968,4,0.515
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Lose Somebody,75,1,199549,0,0.344,0.58,0.586,0,1,0.0755,-6.883,1,0.0357,147.988,4,0.507
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Gone Are The Days (feat. James Gillespie),75,1,196677,0,0.355,0.528,0.453,0.00000106,4,0.104,-9.398,1,0.0396,119.761,4,0.281
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",What's Love Got to Do with It,75,1,208156,0,0.275,0.75,0.664,0,8,0.0632,-5.908,0,0.154,105.023,4,0.617
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Stole the Show,74,1,223186,0,0.271,0.64,0.635,0,8,0.319,-7.565,0,0.226,100.034,4,0.475
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Freedom,63,1,198635,0,0.127,0.512,0.635,0,7,0.0866,-6.591,1,0.114,111.596,4,0.38
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Happy Now,72,1,211362,0,0.374,0.693,0.575,0,9,0.252,-6.998,1,0.0801,117.999,4,0.492
+Kygo,"['edm', 'pop', 'pop dance', 'tropical house']",Hot Stuff,71,1,199007,0,0.019,0.681,0.773,0.00000128,5,0.11,-5.749,1,0.148,119.961,4,0.429
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Aloha,84,1,241659,0,0.532,0.807,0.712,0.0000237,1,0.163,-5.757,1,0.1,100.004,4,0.792
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Sobrio,84,1,201180,0,0.138,0.762,0.77,0,5,0.15,-2.758,1,0.223,177.998,4,0.631
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Hawái,80,1,199112,0,0.185,0.783,0.727,0.0000246,6,0.0626,-3.454,0,0.389,180.067,4,0.558
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Perfecta,80,1,174932,0,0.11,0.762,0.797,0,6,0.412,-2.641,1,0.107,81.994,4,0.787
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Parce (feat. Justin Quiles),78,1,248345,0,0.422,0.691,0.739,0.00000395,5,0.11,-3.09,0,0.229,83.897,4,0.884
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",IMPOSIBLE - REMIX,78,1,221121,0,0.141,0.833,0.66,0,9,0.107,-3.985,0,0.1,83.971,4,0.751
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Amor en Coma,69,1,199881,0,0.369,0.644,0.661,0,1,0.0733,-4.877,0,0.451,180.05,4,0.355
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Hawái - Remix,77,1,200481,0,0.105,0.766,0.788,0.00000581,6,0.142,-3.128,0,0.312,179.984,4,0.609
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",11:00 PM,76,1,175733,0,0.217,0.777,0.712,0,10,0.091,-4.84,1,0.277,95.692,4,0.68
+Maluma,"['latin', 'reggaeton', 'reggaeton colombiano']",Más De La Una,68,1,236731,1,0.518,0.605,0.8,0.000128,10,0.0763,-3.018,1,0.312,92.284,4,0.732
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",The Nights,85,1,176658,0,0.0166,0.527,0.835,0,6,0.249,-5.298,1,0.0433,125.983,4,0.654
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Wake Me Up,84,1,247426,0,0.0038,0.532,0.783,0.0012,2,0.161,-5.697,1,0.0523,124.08,4,0.643
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Waiting For Love,80,1,230613,0,0.31,0.579,0.736,0,6,0.198,-3.863,0,0.0527,127.999,4,0.613
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Without You (feat. Sandro Cavazza),77,1,181672,1,0.00163,0.662,0.858,0,2,0.0456,-4.844,1,0.0428,133.993,4,0.295
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Hey Brother,77,1,255093,0,0.0309,0.545,0.78,0.0000464,7,0.0828,-4.867,0,0.0436,125.014,4,0.458
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Levels - Radio Edit,76,1,199906,0,0.0462,0.584,0.889,0.828,1,0.309,-5.941,0,0.0343,126.04,4,0.464
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",SOS (feat. Aloe Blacc),74,1,157202,0,0.272,0.802,0.645,0,5,0.119,-6.181,0,0.0715,100.001,4,0.376
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Lonely Together (feat. Rita Ora),70,1,181812,0,0.134,0.655,0.666,0.0000212,5,0.0683,-5.309,1,0.0612,102.977,4,0.272
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Heaven,70,1,277261,0,0.0715,0.592,0.873,0.00982,9,0.142,-5.65,1,0.0275,122.011,4,0.516
+Avicii,"['dance pop', 'edm', 'pop', 'pop dance']",Addicted To You,68,1,148386,0,0.0505,0.569,0.785,0.00000112,1,0.086,-4.057,0,0.0457,128.031,4,0.303
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",In the End,83,1,216880,0,0.00958,0.556,0.864,0,3,0.209,-5.87,0,0.0584,105.143,4,0.4
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Numb,81,1,185586,0,0.0046,0.496,0.863,0,9,0.639,-4.153,1,0.0381,110.018,4,0.243
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",What I've Done,76,1,205613,0,0.0141,0.623,0.93,0.00000164,5,0.138,-5.285,1,0.0324,120.119,4,0.287
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Numb / Encore,75,1,205733,1,0.0603,0.687,0.793,0,2,0.582,-4.254,1,0.166,107.045,4,0.751
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",One Step Closer,75,1,157333,0,0.0014,0.492,0.969,0.00000132,9,0.0787,-4.419,1,0.0491,95.136,4,0.538
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",BURN IT DOWN,73,1,230253,0,0.0143,0.585,0.972,0,9,0.0707,-4.45,0,0.0534,110.006,4,0.585
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Bleed It Out,72,1,166373,1,0.114,0.529,0.967,0,1,0.61,-3.647,0,0.0508,140.127,4,0.596
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Crawling,72,1,208960,0,0.0466,0.58,0.702,0.0000032,4,0.536,-5.565,1,0.0337,105.076,4,0.299
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Papercut,72,1,184866,0,0.00022,0.524,0.939,0,9,0.623,-3.994,1,0.113,150.184,4,0.661
+Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",CASTLE OF GLASS,71,1,205400,0,0.0686,0.615,0.911,0.00188,1,0.0908,-3.584,0,0.0278,108,4,0.685
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Leave Before You Love Me (with Jonas Brothers),89,1,154983,0,0.00226,0.721,0.738,0.00000441,7,0.118,-4.77,1,0.0403,119.976,4,0.637
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Happier,82,1,214289,0,0.191,0.687,0.792,0,5,0.167,-2.749,1,0.0452,100.015,4,0.671
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Come & Go (with Marshmello),82,1,205484,1,0.0172,0.625,0.814,0,0,0.158,-5.181,1,0.0657,144.991,4,0.535
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Be Kind (with Halsey),81,1,172761,0,0.00776,0.63,0.633,0,4,0.0541,-7.088,1,0.0457,93.995,4,0.452
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Silence,79,1,180822,0,0.256,0.52,0.761,0.00000496,4,0.17,-3.093,1,0.0853,141.971,4,0.286
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",FRIENDS,79,1,202620,1,0.205,0.626,0.88,0,9,0.128,-2.384,0,0.0504,95.079,4,0.534
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Wolves,79,1,197993,0,0.124,0.724,0.804,0,11,0.204,-4.614,0,0.0448,124.987,4,0.306
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",Hate The Other Side (with Marshmello & The Kid Laroi),78,1,160212,1,0.291,0.701,0.65,0,6,0.112,-6.313,1,0.104,90.003,4,0.647
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",OK Not To Be OK,76,1,159862,0,0.0172,0.743,0.837,0,1,0.0743,-5.025,0,0.0649,103.072,4,0.263
+Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",One Thing Right,75,1,181823,0,0.0644,0.659,0.625,0,4,0.582,-2.253,1,0.045,88.042,4,0.442
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",XO Tour Llif3,82,1,182706,1,0.00264,0.732,0.75,0,11,0.109,-6.366,0,0.231,155.096,4,0.401
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",20 Min,81,1,220586,1,0.109,0.773,0.75,0,8,0.174,-4.009,0,0.117,123.426,4,0.783
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams),81,1,146419,1,0.0195,0.827,0.571,0,11,0.166,-7.949,1,0.366,142.034,4,0.62
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",The Way Life Goes (feat. Oh Wonder),78,1,221746,1,0.617,0.703,0.757,0,1,0.106,-3.612,1,0.05,82.008,4,0.696
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",Drankin N Smokin,78,1,213520,1,0.0421,0.752,0.658,0,0,0.0927,-6.297,1,0.342,151.951,4,0.387
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",Myron,76,1,224954,1,0.055,0.771,0.654,0,8,0.214,-6.976,0,0.298,155.047,4,0.573
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",Money Longer,73,1,198944,1,0.0541,0.795,0.568,0,5,0.108,-7.817,0,0.142,136.173,4,0.478
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",Sanguine Paradise,73,1,243976,1,0.0948,0.729,0.603,0,6,0.113,-6.736,0,0.0666,134.972,4,0.207
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",P2,73,1,234626,1,0.0236,0.775,0.72,0,11,0.114,-5.353,0,0.193,155.086,4,0.49
+Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']",Erase Your Social,73,1,199993,1,0.694,0.705,0.609,0,3,0.234,-5.728,1,0.0729,140.058,4,0.718
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Dark Horse,73,1,215672,0,0.00314,0.647,0.585,0,6,0.165,-6.123,1,0.0512,131.934,4,0.353
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",75,1,223413,1,0.0642,0.893,0.745,0,11,0.0943,-3.105,0,0.0571,101.018,4,0.872
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Last Friday Night (T.G.I.F.),69,1,230733,0,0.00125,0.652,0.812,0.0000301,3,0.667,-3.797,0,0.0409,126.023,4,0.72
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Never Really Over,67,1,223297,0,0.217,0.77,0.881,0,8,0.324,-4.776,1,0.067,99.995,4,0.367
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Electric,75,1,193543,0,0.00302,0.615,0.701,0,0,0.0471,-4.257,1,0.0472,98.073,4,0.251
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Roar,73,1,223546,0,0.00492,0.671,0.771,0.00000728,7,0.354,-4.821,0,0.0316,90.003,4,0.436
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",The One That Got Away,66,1,227333,0,0.000812,0.691,0.795,0.00000102,1,0.156,-4.021,0,0.0355,133.971,4,0.876
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",California Gurls,66,1,234653,0,0.0038,0.788,0.753,0,0,0.18,-3.71,1,0.0536,125.005,4,0.403
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",Firework,67,1,227893,0,0.141,0.638,0.832,0,8,0.113,-5.039,1,0.049,124.071,4,0.648
+Katy Perry,"['dance pop', 'pop', 'post-teen pop']",I Kissed A Girl,69,1,179640,0,0.00223,0.699,0.76,0,5,0.132,-3.173,1,0.0677,129.996,4,0.696
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Don't Go Yet,83,1,164842,0,0.0492,0.666,0.796,0,10,0.0442,-6.967,0,0.103,110.108,4,0.61
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Señorita,79,1,190799,0,0.0392,0.759,0.548,0,9,0.0828,-6.049,0,0.029,116.967,4,0.749
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Havana (feat. Young Thug),80,1,217306,0,0.184,0.765,0.523,0.0000356,2,0.132,-4.333,1,0.03,104.988,4,0.394
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",My Oh My (feat. DaBaby),78,1,170746,0,0.018,0.724,0.491,0.0000129,8,0.0887,-6.024,1,0.0296,105.046,4,0.383
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",South of the Border (feat. Camila Cabello & Cardi B),77,1,204466,0,0.148,0.857,0.621,0,9,0.0865,-6.376,0,0.0825,97.989,4,0.668
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Beautiful (feat. Camila Cabello),74,1,180000,0,0.346,0.638,0.717,0,2,0.105,-4.722,1,0.0337,100.027,4,0.249
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Never Be the Same,72,1,226973,0,0.181,0.637,0.713,0.000637,0,0.137,-4.333,1,0.0747,129.923,4,0.243
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Bad Things (with Camila Cabello),72,1,239293,0,0.214,0.697,0.691,0,2,0.185,-4.757,1,0.146,137.853,4,0.305
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",I Know What You Did Last Summer,70,1,223853,0,0.102,0.687,0.761,0,9,0.147,-4.582,0,0.0876,113.939,4,0.743
+Camila Cabello,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Crying in the Club,69,1,216391,0,0.334,0.334,0.617,0,6,0.163,-5.834,0,0.383,85.227,4,0.603
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Someone Like You,77,1,285240,0,0.893,0.556,0.319,0,9,0.0996,-8.251,1,0.0281,135.187,4,0.294
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Rolling in the Deep,75,1,228093,1,0.138,0.73,0.769,0,8,0.0473,-5.114,1,0.0298,104.948,4,0.507
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",When We Were Young,72,1,290900,0,0.303,0.376,0.595,0,3,0.095,-5.936,1,0.0496,144.361,4,0.265
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Hello,73,1,295502,0,0.33,0.578,0.43,0,5,0.0854,-6.134,0,0.0305,78.991,4,0.288
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Set Fire to the Rain,74,1,242973,0,0.00408,0.603,0.67,0.00000168,2,0.112,-3.882,0,0.0249,107.993,4,0.446
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Make You Feel My Love,71,1,212040,0,0.907,0.317,0.172,0.000383,10,0.105,-10.636,1,0.0326,65.18,3,0.0963
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Skyfall,72,1,286480,0,0.417,0.346,0.552,0,0,0.114,-6.864,0,0.0282,75.881,4,0.0789
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Send My Love (To Your New Lover),71,1,223078,0,0.0355,0.688,0.533,0.00000348,6,0.172,-8.363,0,0.0865,164.069,4,0.567
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",All I Ask,68,1,271800,0,0.889,0.591,0.28,0,4,0.124,-5.494,1,0.0283,141.916,4,0.348
+Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Chasing Pavements,66,1,210506,0,0.291,0.616,0.47,0,5,0.111,-6.092,0,0.0253,80.03,4,0.325
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Take You Dancing,83,1,190306,0,0.0332,0.789,0.711,0,2,0.0876,-4.248,1,0.041,112.985,4,0.753
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Savage Love (Laxed - Siren Beat),82,1,171374,1,0.234,0.767,0.481,0,0,0.269,-8.52,0,0.0803,150.076,4,0.761
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Love Not War (The Tampa Beat),80,1,192921,0,0.105,0.738,0.85,0,8,0.23,-3.049,1,0.0642,98.013,4,0.865
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Jalebi Baby (Tesher x Jason Derulo),80,1,169154,1,0.0289,0.691,0.829,0,0,0.254,-7.179,1,0.0412,93.059,4,0.866
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Lifestyle (feat. Adam Levine),78,1,153865,1,0.0209,0.749,0.674,0,10,0.169,-5.128,0,0.0366,123.055,4,0.711
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Savage Love (Laxed – Siren Beat) [BTS Remix],76,1,184905,1,0.16,0.758,0.598,0,0,0.295,-5.695,0,0.0868,149.836,4,0.658
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Want to Want Me,75,1,207719,0,0.00906,0.775,0.68,0,0,0.109,-5.508,0,0.0629,114.025,4,0.656
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Swalla (feat. Nicki Minaj & Ty Dolla $ign),75,1,216408,1,0.075,0.696,0.817,0,1,0.187,-3.862,1,0.109,98.064,4,0.782
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",It Girl,71,1,192200,0,0.0165,0.668,0.718,0,1,0.104,-4.736,0,0.0605,91.993,4,0.345
+Jason Derulo,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",Whatcha Say,66,1,221253,0,0.0444,0.615,0.711,0,11,0.145,-5.507,1,0.0779,144.036,4,0.711
+Lana Del Rey,"['art pop', 'pop']",Young And Beautiful,77,1,236053,0,0.262,0.324,0.416,0.0000369,11,0.11,-8.92,0,0.0368,113.986,4,0.151
+Lana Del Rey,"['art pop', 'pop']",Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,74,1,214912,0,0.0157,0.572,0.81,0.00000653,1,0.13,-5.791,0,0.0558,126.052,4,0.11
+Lana Del Rey,"['art pop', 'pop']",Brooklyn Baby,74,1,351640,1,0.542,0.404,0.664,0.00402,1,0.11,-6.698,1,0.0407,107.747,4,0.0949
+Lana Del Rey,"['art pop', 'pop']",Doin' Time,73,1,202192,1,0.404,0.641,0.559,0.00402,7,0.0937,-11.132,0,0.0355,144.982,4,0.523
+Lana Del Rey,"['art pop', 'pop']",Chemtrails Over The Country Club,73,1,271176,0,0.877,0.334,0.276,0.000249,4,0.113,-13.125,0,0.0643,201.025,3,0.429
+Lana Del Rey,"['art pop', 'pop']",Summertime Sadness,60,1,264773,0,0.0477,0.566,0.647,0,1,0.121,-6.815,0,0.0335,111.96,4,0.22
+Lana Del Rey,"['art pop', 'pop']",Happiness is a butterfly,70,1,272485,0,0.969,0.467,0.119,0.0000014,2,0.0973,-10.99,1,0.0401,70.499,4,0.156
+Lana Del Rey,"['art pop', 'pop']",Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),70,1,190066,0,0.00237,0.644,0.755,0.00000764,1,0.0859,-5.325,1,0.0448,102.861,4,0.334
+Lana Del Rey,"['art pop', 'pop']",West Coast,69,1,256760,0,0.194,0.527,0.591,0.0194,6,0.0907,-7.664,0,0.0396,123.167,4,0.461
+Lana Del Rey,"['art pop', 'pop']",Cinnamon Girl,68,1,300683,0,0.814,0.294,0.337,0.414,6,0.14,-10.614,0,0.036,91.781,5,0.135
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Heart Attack,78,1,210840,0,0.0738,0.504,0.785,0,8,0.239,-4.802,1,0.104,173.968,4,0.502
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",What Other People Say,77,1,194890,1,0.158,0.652,0.472,0,7,0.121,-8.084,1,0.0399,126.904,4,0.24
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Sorry Not Sorry,77,1,203760,1,0.0242,0.706,0.643,0,11,0.262,-6.929,0,0.234,143.931,4,0.885
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",OK Not To Be OK,76,1,159862,0,0.0172,0.743,0.837,0,1,0.0743,-5.025,0,0.0649,103.072,4,0.263
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Met Him Last Night (feat. Ariana Grande),66,1,204631,1,0.22,0.538,0.512,0,4,0.101,-4.548,0,0.0262,144.978,4,0.12
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Solo (feat. Demi Lovato),70,1,222706,0,0.0357,0.74,0.622,0.0000485,11,0.356,-4.608,0,0.0446,104.966,4,0.556
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Échame La Culpa,72,1,173800,0,0.0391,0.733,0.897,0,0,0.117,-3.652,1,0.0389,96.006,4,0.649
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Stone Cold,72,1,191307,0,0.539,0.419,0.453,0,8,0.0971,-7.685,1,0.0437,140.327,3,0.356
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Confident,72,1,205745,1,0.00188,0.594,0.749,0.000139,3,0.0869,-6.251,1,0.0677,130.064,4,0.344
+Demi Lovato,"['dance pop', 'pop', 'post-teen pop']",Monsters (feat. Demi Lovato and blackbear),71,1,174424,1,0.0137,0.51,0.787,0,0,0.368,-3.712,0,0.0529,162.092,4,0.793
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Pepas,86,1,287120,0,0.00776,0.762,0.766,0.0000698,7,0.128,-3.955,1,0.0343,130.001,4,0.442
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",No Te Enamores - Remix,80,1,289933,1,0.573,0.824,0.837,0.0000166,5,0.271,-4.603,1,0.107,100.021,4,0.58
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",La Tóxica,78,1,180520,0,0.0882,0.659,0.701,0,9,0.0866,-4.107,1,0.164,91.97,4,0.623
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",ME PASE (feat. Farruko),78,1,181571,0,0.274,0.749,0.89,0,6,0.0845,-2.111,0,0.0455,93.973,4,0.724
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']","3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",77,1,366613,0,0.0696,0.833,0.858,0,9,0.239,-3.283,1,0.0794,91.967,4,0.675
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Calma - Remix,59,1,237626,0,0.337,0.826,0.764,0,11,0.161,-4.341,0,0.0522,126.9,4,0.761
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Si Me Dices Que Sí,76,1,211651,0,0.00473,0.578,0.634,0,8,0.132,-5.979,0,0.333,183.89,4,0.216
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Diles,75,1,286040,1,0.108,0.813,0.56,0,2,0.268,-5.904,0,0.0618,118.033,4,0.287
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",On My Way,75,1,193797,0,0.0209,0.509,0.689,0,1,0.301,-4.929,0,0.102,170.087,4,0.297
+Farruko,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Fantasias,75,1,199711,0,0.143,0.879,0.703,0,1,0.0569,-4.219,1,0.0701,94.004,4,0.788
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Californication,80,1,329733,0,0.0021,0.592,0.767,0.00165,9,0.127,-2.788,0,0.027,96.483,4,0.328
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Under the Bridge,80,1,264306,0,0.0576,0.559,0.345,0.000105,4,0.141,-13.496,1,0.0459,84.581,4,0.458
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Can't Stop,79,1,269000,0,0.0179,0.618,0.938,0,9,0.167,-3.442,1,0.0456,91.455,4,0.875
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Snow (Hey Oh),78,1,334666,0,0.116,0.427,0.9,0.0000175,11,0.119,-3.674,1,0.0499,104.655,4,0.599
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Otherside,78,1,255373,0,0.00316,0.458,0.795,0.000202,0,0.0756,-3.265,1,0.0574,123.229,4,0.513
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Scar Tissue,77,1,215906,0,0.0779,0.595,0.717,0.00274,0,0.108,-4.803,1,0.0295,88.969,4,0.547
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Dani California,76,1,282160,0,0.0193,0.556,0.913,0.00000859,0,0.346,-2.36,1,0.0437,96.184,4,0.73
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",By the Way,73,1,216933,0,0.0264,0.451,0.97,0.00355,0,0.102,-4.938,1,0.107,122.444,4,0.198
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Give It Away,73,1,282906,0,0.00244,0.666,0.936,0.086,7,0.153,-9.919,1,0.0476,91.577,4,0.776
+Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave']",Dark Necessities,72,1,302000,0,0.0722,0.7,0.742,0.0199,5,0.11,-6.777,0,0.0716,91.959,4,0.197
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Poblado - Remix,89,1,393280,0,0.102,0.813,0.809,0.00000137,3,0.377,-5.382,0,0.0846,93.005,4,0.646
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']","Nicky Jam: Bzrp Music Sessions, Vol. 41",89,1,158086,1,0.0913,0.627,0.849,0,1,0.145,-3.167,0,0.153,89.907,4,0.818
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Fan de Tus Fotos,80,1,197647,0,0.293,0.728,0.689,0.0000126,7,0.109,-5.718,1,0.0725,170.089,4,0.431
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Polvo,77,1,211130,0,0.0105,0.763,0.621,0.00000294,11,0.106,-6.169,0,0.066,82.042,4,0.582
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",LEYENDAS,76,1,352093,0,0.0607,0.554,0.784,0,1,0.301,-5.459,1,0.113,96.699,4,0.61
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",X,75,1,172854,0,0.0338,0.594,0.749,0.00106,9,0.3,-5.298,0,0.056,179.968,4,0.694
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",El Perdón,74,1,205906,0,0.446,0.628,0.69,0,8,0.112,-5.828,1,0.0511,179.911,4,0.662
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Muévelo,72,1,194892,0,0.415,0.594,0.808,0.0000139,7,0.565,-2.409,1,0.0489,188.09,4,0.919
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",Te Robaré,72,1,201818,0,0.241,0.673,0.752,0.0000451,2,0.0813,-3.572,0,0.0561,175.997,4,0.797
+Nicky Jam,"['latin', 'latin hip hop', 'reggaeton', 'trap latino']",BAD CON NICKY,71,1,202240,1,0.321,0.59,0.729,0,7,0.659,-4.95,0,0.0893,93.094,4,0.712
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Hips Don't Lie (feat. Wyclef Jean),83,1,218093,0,0.284,0.778,0.824,0,10,0.405,-5.892,0,0.0707,100.024,4,0.758
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",GIRL LIKE ME,82,1,222522,1,0.0206,0.965,0.485,0.0237,2,0.0655,-8.784,1,0.191,124.025,4,0.312
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),78,1,202626,0,0.00627,0.766,0.873,0,11,0.0764,-6.381,0,0.143,126.988,4,0.743
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Don't Wait Up,75,1,204043,0,0.344,0.916,0.552,0.000722,3,0.0566,-5.051,0,0.0546,118.981,4,0.349
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Chantaje (feat. Maluma),75,1,195840,0,0.187,0.852,0.773,0.0000305,8,0.159,-2.921,0,0.0776,102.034,4,0.907
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']","Whenever, Wherever",74,1,196160,0,0.237,0.794,0.832,0.0000114,1,0.203,-4.862,0,0.0407,107.657,4,0.871
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",La Bicicleta,73,1,229509,0,0.21,0.745,0.944,0.00000145,0,0.333,-3.959,1,0.134,179.991,4,0.951
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Can't Remember to Forget You (feat. Rihanna),72,1,206866,0,0.122,0.694,0.81,0,11,0.141,-3.556,0,0.0661,137.968,4,0.824
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",La Tortura (feat. Alejandro Sanz),72,1,212893,0,0.0297,0.74,0.783,0.000308,0,0.123,-5.367,1,0.0427,100.011,4,0.812
+Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Me Gusta,72,1,190570,0,0.0559,0.775,0.696,0.00184,1,0.157,-5.184,0,0.0681,92.007,4,0.775
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Do I Wanna Know?,84,1,272394,0,0.186,0.548,0.532,0.000263,5,0.217,-7.596,1,0.0323,85.03,4,0.405
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Why'd You Only Call Me When You're High?,82,1,161123,0,0.0483,0.691,0.631,0.0000113,2,0.104,-6.478,1,0.0368,92.004,4,0.8
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",I Wanna Be Yours,79,1,183956,0,0.136,0.464,0.417,0.022,0,0.0974,-9.345,0,0.0256,67.528,4,0.479
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",505,76,1,253586,0,0.00237,0.52,0.852,0.0000579,0,0.0733,-5.866,1,0.0543,140.267,4,0.234
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",R U Mine?,78,1,201726,0,0.00616,0.288,0.758,0,6,0.303,-5.692,0,0.0371,97.094,4,0.619
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Fluorescent Adolescent,67,1,173493,0,0.00178,0.646,0.813,0.0000226,6,0.144,-5.29,0,0.0288,112.115,4,0.821
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Arabella,73,1,207356,0,0.0202,0.579,0.558,0.00000126,2,0.212,-6.986,1,0.0895,179.949,4,0.506
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",When The Sun Goes Down,60,1,202133,1,0.0341,0.348,0.875,0,11,0.117,-4.758,0,0.199,169.152,4,0.407
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",Snap Out Of It,72,1,193030,0,0.249,0.728,0.638,0,5,0.116,-6.455,0,0.0336,130.014,4,0.872
+Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",I Bet You Look Good On The Dancefloor,61,1,173680,0,0.00225,0.535,0.948,0,6,0.376,-4.19,0,0.0356,103.183,4,0.778
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song,83,1,217000,0,0.248,0.66,0.733,0.00000896,0,0.17,-4.619,1,0.0359,119.933,4,0.304
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Scared to Be Lonely,78,1,220883,0,0.0895,0.584,0.54,0,1,0.261,-7.786,0,0.0576,137.972,4,0.195
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),77,1,163804,1,0.179,0.661,0.723,0.0000123,5,0.14,-6.976,0,0.0566,113.778,4,0.316
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",In the Name of Love,77,1,195706,0,0.109,0.501,0.519,0,4,0.454,-5.88,0,0.0409,133.99,4,0.168
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Pressure (feat. Tove Lo),77,1,144391,0,0.659,0.859,0.558,0.324,7,0.124,-8.991,0,0.0902,114.978,4,0.357
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Drown (feat. Clinton Kane),74,1,174062,0,0.212,0.573,0.739,0,9,0.175,-5.455,1,0.0581,120.077,4,0.363
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",High On Life (feat. Bonn),72,1,230761,0,0.0129,0.414,0.486,0,6,0.111,-6.431,0,0.0311,128.038,4,0.368
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Ocean (feat. Khalid),70,1,216419,0,0.584,0.506,0.693,0.0000958,0,0.0891,-7.265,0,0.0412,139.912,4,0.221
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",There for You,69,1,221904,0,0.124,0.611,0.644,0,6,0.124,-7.607,0,0.0553,105.969,4,0.13
+Martin Garrix,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']",Higher Ground (feat. John Martin),69,1,206279,0,0.0841,0.442,0.619,0,1,0.0889,-5.28,1,0.0321,128.318,4,0.382
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Lean On,72,1,176561,0,0.00346,0.723,0.809,0.00123,7,0.565,-3.081,0,0.0625,98.007,4,0.274
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Titans (feat. Sia & Labrinth),60,1,199168,0,0.0999,0.722,0.858,0.000175,7,0.144,-4.892,1,0.0445,93.976,4,0.599
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Light It Up - Remix,66,1,166138,0,0.0375,0.747,0.877,0.000833,9,0.233,-3.782,0,0.0664,107.991,4,0.752
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Cold Water,68,1,185360,0,0.0736,0.608,0.798,0,6,0.156,-5.092,0,0.0432,92.943,4,0.501
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",ALREADY,67,1,222529,0,0.0846,0.647,0.732,0,2,0.597,-5.846,1,0.0891,67.295,3,0.548
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Que Calor (feat. J Balvin & El Alfa),60,1,169997,0,0.0375,0.795,0.885,0.00638,8,0.292,-4.13,1,0.0715,126.037,4,0.46
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",C'est Cuit (feat. Aya Nakamura & Swae Lee),50,1,156817,0,0.00621,0.694,0.626,0,8,0.0682,-5.038,1,0.248,97.773,4,0.513
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Trigger,63,1,171986,0,0.128,0.57,0.585,0.000105,8,0.111,-7.041,1,0.251,97.285,4,0.378
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']",Watch Out For This (Bumaye),59,1,269146,0,0.0196,0.819,0.759,0.00000653,10,0.0613,-4.115,0,0.147,108.026,4,0.88
+Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']","My Love (feat. Major Lazer, WizKid, Dua Lipa)",62,1,228706,0,0.0453,0.728,0.811,0.00000207,7,0.362,-4.278,1,0.0564,114.995,4,0.705
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Still Be Friends (feat. Tory Lanez & Tyga),75,1,213307,1,0.00509,0.803,0.759,0,7,0.0921,-4.692,0,0.0494,104,4,0.284
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']","Me, Myself & I",75,1,251466,1,0.0184,0.756,0.674,0,0,0.158,-6.518,0,0.0959,111.995,4,0.389
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Him & I (with Halsey),74,1,268866,1,0.0534,0.589,0.731,0,2,0.308,-6.343,1,0.0868,87.908,4,0.191
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",No Limit,73,1,245386,1,0.0117,0.838,0.771,0,1,0.0853,-3.791,1,0.244,175.957,4,0.405
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",I Mean It (feat. Remo),71,1,236480,1,0.125,0.712,0.562,0,10,0.136,-6.008,1,0.129,140,4,0.142
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Provide (feat. Chris Brown & Mark Morrison),71,1,186349,1,0.0165,0.652,0.803,0,9,0.307,-4.116,0,0.238,95.025,4,0.661
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",She's Fire,69,1,213221,0,0.014,0.68,0.584,0,6,0.122,-8.672,0,0.143,90.063,4,0.315
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Share That Love (feat. G-Eazy),69,1,172398,1,0.162,0.715,0.658,0,11,0.0742,-4.304,0,0.106,158.024,4,0.795
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Hate The Way (feat. blackbear),68,1,214363,1,0.0673,0.569,0.865,0,4,0.312,-3.844,0,0.266,82.011,4,0.361
+G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Moana,68,1,178216,1,0.0439,0.753,0.502,0.00000154,1,0.128,-6.879,1,0.264,205.895,4,0.349
+Panic! At The Disco,['modern rock'],High Hopes,81,1,190946,0,0.193,0.579,0.904,0,5,0.064,-2.729,1,0.0618,82.014,4,0.681
+Panic! At The Disco,['modern rock'],ME! (feat. Brendon Urie of Panic! At The Disco),77,1,193000,0,0.033,0.61,0.83,0,0,0.118,-4.105,1,0.0571,182.162,4,0.728
+Panic! At The Disco,['modern rock'],House of Memories,74,1,208706,0,0.00272,0.506,0.817,0,11,0.0486,-5.051,0,0.0335,109.952,4,0.506
+Panic! At The Disco,['modern rock'],I Write Sins Not Tragedies,74,1,186634,0,0.0807,0.569,0.83,0,9,0.114,-4.106,0,0.14,170.094,4,0.609
+Panic! At The Disco,['modern rock'],"Hey Look Ma, I Made It",71,1,169666,0,0.0137,0.577,0.833,0,5,0.121,-3.337,1,0.0695,107.936,4,0.58
+Panic! At The Disco,['modern rock'],Death of a Bachelor,70,1,203506,0,0.0137,0.462,0.538,0,0,0.429,-5.527,1,0.059,139.256,4,0.405
+Panic! At The Disco,['modern rock'],Emperor's New Clothes,69,1,158666,0,0.00302,0.562,0.904,0,1,0.0433,-4.947,1,0.0807,94.481,4,0.651
+Panic! At The Disco,['modern rock'],Don't Threaten Me with a Good Time,68,1,213093,0,0.0154,0.559,0.895,0,1,0.175,-4.476,0,0.0832,183.825,4,0.59
+Panic! At The Disco,['modern rock'],Victorious,68,1,178600,0,0.00205,0.57,0.865,0,8,0.404,-4.518,1,0.0472,110.01,4,0.691
+Panic! At The Disco,['modern rock'],Into the Unknown - Panic! At The Disco Version,68,1,189132,0,0.0244,0.456,0.828,0,1,0.21,-6.225,1,0.077,116.719,4,0.313
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",WITHOUT YOU (with Miley Cyrus),81,1,161384,1,0.173,0.655,0.469,0,0,0.0956,-6.257,1,0.0292,92.56,4,0.467
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Prisoner (feat. Dua Lipa),77,1,169333,0,0.0103,0.781,0.67,0,3,0.0761,-3.912,0,0.0452,127.99,4,0.595
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Party In The U.S.A.,74,1,202066,0,0.00112,0.652,0.698,0.000115,10,0.0886,-4.667,0,0.042,96.021,4,0.47
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",We Can't Stop,77,1,231240,0,0.00882,0.613,0.622,0,1,0.37,-5.794,0,0.0334,80.003,4,0.484
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Angels Like You,77,1,196453,0,0.0981,0.672,0.642,0,5,0.1,-4.035,1,0.0313,121.981,4,0.494
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Midnight Sky,73,1,223280,0,0.00161,0.699,0.805,0.00177,4,0.249,-5.535,0,0.0345,109.976,4,0.232
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Wrecking Ball,75,1,221360,0,0.407,0.53,0.422,0,5,0.107,-6.262,1,0.0342,119.964,4,0.349
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Nothing Breaks Like a Heart (feat. Miley Cyrus),63,1,217099,0,0.00987,0.601,0.794,0.00000136,7,0.418,-5.844,0,0.0671,114.066,4,0.244
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Plastic Hearts,74,1,205733,0,0.0511,0.551,0.756,0,2,0.0765,-4.948,1,0.0652,175.984,4,0.618
+Miley Cyrus,"['dance pop', 'pop', 'post-teen pop']",Malibu,74,1,231906,0,0.0767,0.573,0.781,0.0000264,8,0.0813,-6.406,1,0.0555,139.934,4,0.343
+Michael Jackson,"['pop', 'r&b', 'soul']",Billie Jean,83,1,293826,0,0.0236,0.92,0.654,0.0158,11,0.0359,-3.051,0,0.0401,117.046,4,0.847
+Michael Jackson,"['pop', 'r&b', 'soul']",Beat It,78,1,258040,0,0.0491,0.779,0.867,0.00000798,3,0.197,-3.704,0,0.0457,138.858,4,0.915
+Michael Jackson,"['pop', 'r&b', 'soul']",Smooth Criminal - 2012 Remaster,76,1,257760,0,0.247,0.853,0.981,0.468,8,0.306,-3.947,1,0.0751,118.193,4,0.595
+Michael Jackson,"['pop', 'r&b', 'soul']",Don't Stop 'Til You Get Enough,74,1,365466,0,0.126,0.878,0.821,0.0461,11,0.183,-9.875,1,0.089,118.881,4,0.947
+Michael Jackson,"['pop', 'r&b', 'soul']",Rock with You - Single Version,73,1,220626,0,0.179,0.808,0.535,0.0000991,1,0.158,-12.521,1,0.0353,114.031,4,0.848
+Michael Jackson,"['pop', 'r&b', 'soul']",The Way You Make Me Feel - 2012 Remaster,72,1,298120,0,0.0544,0.877,0.854,0.000055,1,0.144,-4.523,1,0.147,114.472,4,0.54
+Michael Jackson,"['pop', 'r&b', 'soul']",Bad - 2012 Remaster,71,1,247360,0,0.00462,0.787,0.889,0.423,8,0.0665,-3.786,1,0.0397,114.091,4,0.394
+Michael Jackson,"['pop', 'r&b', 'soul']",They Don't Care About Us,71,1,284160,0,0.205,0.859,0.905,0.00837,0,0.322,-5.539,0,0.129,89.946,4,0.731
+Michael Jackson,"['pop', 'r&b', 'soul']",P.Y.T. (Pretty Young Thing),70,1,238733,0,0.23,0.888,0.815,0.000424,11,0.127,-4.909,0,0.0404,127.273,4,0.961
+Michael Jackson,"['pop', 'r&b', 'soul']",Don’t Matter To Me (with Michael Jackson),70,1,245786,0,0.493,0.822,0.318,0.0128,10,0.11,-12.391,1,0.0575,102.998,4,0.138
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Run,88,1,169010,0,0.326,0.682,0.72,0,11,0.148,-8.173,0,0.0381,117.003,4,0.673
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Counting Stars,74,1,257839,0,0.0654,0.664,0.705,0,1,0.115,-4.972,0,0.0382,122.017,4,0.477
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Rescue Me,75,1,158899,0,0.156,0.759,0.605,0,7,0.694,-7.737,1,0.0433,121.049,4,0.64
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Lose Somebody,75,1,199549,0,0.344,0.58,0.586,0,1,0.0755,-6.883,1,0.0357,147.988,4,0.507
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Secrets,75,1,224693,0,0.0717,0.516,0.764,0,2,0.115,-6.223,1,0.0366,148.021,4,0.376
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Good Life,72,1,253306,1,0.0771,0.634,0.69,0,6,0.132,-7.804,1,0.052,94.988,4,0.645
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Apologize,69,1,208106,0,0.363,0.593,0.74,0.0000222,8,0.102,-6.12,1,0.0339,118.008,4,0.502
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Better Days,70,1,144530,0,0.235,0.626,0.726,0,5,0.304,-5.015,1,0.0376,89.132,4,0.257
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",I Lived,66,1,234546,0,0.0746,0.599,0.854,0,9,0.278,-5.429,1,0.0436,119.986,4,0.311
+OneRepublic,"['dance pop', 'piano rock', 'pop', 'pop rock']",Bones (feat. OneRepublic),68,1,205792,0,0.00463,0.658,0.804,0,0,0.178,-5.735,1,0.0377,120.047,4,0.508
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Outside (feat. Ellie Goulding),78,1,227266,0,0.213,0.646,0.823,0,2,0.322,-4.123,0,0.0394,128.035,4,0.418
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']","Love Me Like You Do - From ""Fifty Shades Of Grey""",78,1,252534,0,0.247,0.262,0.606,0,8,0.125,-6.646,1,0.0484,189.857,4,0.275
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Hate Me,68,1,188066,0,0.0875,0.64,0.789,0,8,0.147,-4.891,1,0.0644,75.018,4,0.762
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Love Me Like You Do,75,1,253520,0,0.27,0.489,0.597,0,5,0.105,-6.633,0,0.0292,95.012,4,0.324
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",I Need Your Love (feat. Ellie Goulding),71,1,234506,0,0.41,0.695,0.869,0,8,0.237,-5.066,1,0.0483,124.989,4,0.58
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Burn,66,1,231211,0,0.31,0.559,0.777,0,1,0.105,-5.031,1,0.0432,87.016,4,0.329
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",New Love (feat. Ellie Goulding),70,1,190680,0,0.0547,0.786,0.732,0.00000247,7,0.342,-6.664,1,0.0421,123.982,4,0.631
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Close To Me,59,1,182626,1,0.0946,0.572,0.75,0,1,0.378,-5.042,0,0.0604,144.081,4,0.475
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']",Sixteen,59,1,201226,0,0.261,0.677,0.802,0,8,0.0705,-5.539,1,0.139,109.918,4,0.539
+Ellie Goulding,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'post-teen pop', 'uk pop']","Still Falling For You - From ""Bridget Jones's Baby""",67,1,240867,0,0.553,0.473,0.518,0.00000126,1,0.111,-8.1,1,0.0405,96.129,4,0.18
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']","Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",81,1,252306,0,0.191,0.671,0.939,0,8,0.298,-3.206,1,0.161,129.024,4,0.53
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Time of Our Lives,81,1,229360,1,0.0921,0.721,0.802,0,1,0.694,-5.797,1,0.0583,124.022,4,0.724
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Timber (feat. Ke$ha),80,1,204160,0,0.0295,0.581,0.963,0,11,0.139,-4.087,1,0.0981,129.992,4,0.788
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Feel This Moment (feat. Christina Aguilera),77,1,229506,0,0.039,0.673,0.758,0,7,0.341,-3.632,1,0.158,135.956,4,0.542
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",International Love (feat. Chris Brown),75,1,227280,0,0.0124,0.67,0.855,0,0,0.335,-3.035,0,0.0499,120.05,4,0.648
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Hotel Room Service,67,1,237600,0,0.00684,0.85,0.631,0.000406,1,0.0679,-8.401,1,0.227,126.002,4,0.738
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Fireball (feat. John Ryan),71,1,236200,0,0.0908,0.761,0.933,0.0000853,10,0.0607,-5.38,1,0.056,122.959,4,0.836
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",Hey Baby (Drop It to the Floor) (feat. T-Pain),70,1,234453,0,0.0434,0.595,0.912,0,10,0.259,-3.428,0,0.0884,128.024,4,0.762
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",I Know You Want Me (Calle Ocho),67,1,237120,0,0.0152,0.817,0.733,0.0000431,2,0.107,-6.009,1,0.145,127.056,4,0.833
+Pitbull,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']",We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),69,1,222520,0,0.00879,0.592,0.935,0.0154,6,0.132,-4.317,0,0.0581,125.013,4,0.567
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Cheating on You,82,1,196606,0,0.0131,0.749,0.535,0.0000365,4,0.0982,-6.785,1,0.0336,123.042,4,0.601
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",See You Again (feat. Charlie Puth),81,1,229525,0,0.369,0.689,0.481,0.00000103,10,0.0649,-7.503,1,0.0815,80.025,4,0.283
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Attention,80,1,208786,0,0.109,0.775,0.613,0.0000233,3,0.134,-4.586,0,0.0542,100.066,4,0.797
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",We Don't Talk Anymore (feat. Selena Gomez),69,1,217706,0,0.621,0.728,0.563,0,1,0.179,-8.053,0,0.134,100.017,4,0.352
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album,72,1,160289,0,0.262,0.696,0.686,0,5,0.174,-6.113,0,0.0309,115.982,4,0.7
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",How Long,71,1,200853,0,0.211,0.845,0.561,0.00000349,1,0.0383,-5.253,0,0.0778,109.974,4,0.811
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",One Call Away,65,1,194453,0,0.403,0.667,0.613,0,1,0.115,-5.353,1,0.0344,91.024,4,0.47
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Marvin Gaye (feat. Meghan Trainor),54,1,190453,0,0.417,0.795,0.616,0,1,0.349,-5.281,0,0.06,110.015,4,0.815
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Hard On Yourself,67,1,160825,0,0.22,0.824,0.783,0,1,0.234,-4.53,0,0.0507,114.028,4,0.788
+Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",Girlfriend,67,1,177438,0,0.18,0.758,0.583,0.0000512,1,0.107,-6.361,1,0.0421,97.537,4,0.797
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",See You Again (feat. Charlie Puth),81,1,229525,0,0.369,0.689,0.481,0.00000103,10,0.0649,-7.503,1,0.0815,80.025,4,0.283
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",The Thrill,79,1,234333,1,0.277,0.817,0.775,0,10,0.108,-4.767,0,0.108,126.984,4,0.806
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']","Young, Wild & Free (feat. Bruno Mars)",64,1,207346,0,0.0897,0.553,0.652,0,0,0.111,-6.685,1,0.206,94.505,4,0.551
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']","Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",76,1,243490,1,0.255,0.502,0.786,0,9,0.65,-4.378,0,0.317,169.021,4,0.739
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Black and Yellow,74,1,217666,1,0.0646,0.684,0.834,0,2,0.271,-4.524,0,0.0675,164.02,4,0.538
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",cheers (with Wiz Khalifa),70,1,201009,0,0.0509,0.795,0.642,0,9,0.17,-4.431,1,0.0288,97.999,4,0.669
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",We Own It (Fast & Furious),62,1,227893,0,0.0521,0.554,0.899,0,8,0.0568,-4.573,1,0.408,171.966,4,0.552
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hopeless Romantic (feat. Swae Lee),70,1,226742,1,0.307,0.877,0.477,0,9,0.0929,-7.379,0,0.0587,127.023,4,0.552
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']","Girl Next Door (feat. Wiz Khalifa, DVBBS)",69,1,141051,1,0.0102,0.689,0.722,0,1,0.0903,-5.002,1,0.0413,124.979,4,0.49
+Wiz Khalifa,"['dance pop', 'hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",All the Smoke (feat. Gunna & Wiz Khalifa),68,1,211237,1,0.0321,0.712,0.822,0,6,0.239,-3.728,0,0.131,91.011,4,0.469
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",WAP (feat. Megan Thee Stallion),84,1,187541,1,0.0194,0.935,0.454,0,1,0.0824,-7.509,1,0.375,133.073,4,0.357
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Up,78,1,156944,1,0.0012,0.868,0.795,0.0193,11,0.0461,-6.044,1,0.269,166,4,0.819
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",I Like It,80,1,253390,1,0.099,0.816,0.726,0,5,0.372,-3.998,0,0.129,136.048,4,0.65
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Wild Side (feat. Cardi B),80,1,209476,1,0.0249,0.74,0.576,0,6,0.104,-6.744,0,0.146,110.095,4,0.315
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",South of the Border (feat. Camila Cabello & Cardi B),77,1,204466,0,0.148,0.857,0.621,0,9,0.0865,-6.376,0,0.0825,97.989,4,0.668
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Money,75,1,183527,1,0.00534,0.95,0.59,0,8,0.11,-6.508,0,0.29,130.003,4,0.219
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Finesse - Remix; feat. Cardi B,74,1,217288,0,0.0185,0.704,0.859,0,5,0.0215,-4.877,0,0.0996,105.115,4,0.926
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Bodak Yellow,74,1,223712,1,0.0659,0.926,0.703,0,11,0.231,-6.337,0,0.103,125.022,4,0.485
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",Please Me,73,1,200889,1,0.0642,0.747,0.57,0,1,0.0832,-6.711,1,0.081,133.992,4,0.65
+Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']",MotorSport,72,1,303076,1,0.0305,0.904,0.518,0,2,0.325,-5.32,1,0.183,137.996,4,0.188
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",GANG GANG (with Lil Wayne),73,1,178775,1,0.146,0.752,0.563,0,3,0.103,-8.066,0,0.209,145.05,4,0.551
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",HOT WIND BLOWS (feat. Lil Wayne),79,1,155292,1,0.601,0.371,0.75,0,7,0.482,-5.382,0,0.402,173.456,4,0.729
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Seeing Green (with Drake & Lil Wayne),77,1,339506,1,0.0853,0.573,0.867,0,5,0.38,-2.876,0,0.168,74.861,4,0.231
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']","Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",76,1,243490,1,0.255,0.502,0.786,0,9,0.65,-4.378,0,0.317,169.021,4,0.739
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",6 Foot 7 Foot,71,1,248586,1,0.000707,0.365,0.751,0,2,0.318,-5.429,1,0.304,79.119,4,0.604
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Forever,71,1,357706,1,0.249,0.457,0.906,0,5,0.182,-2.278,0,0.342,104.02,5,0.54
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",A Milli,60,1,221813,1,0.0391,0.663,0.688,0.00224,6,0.223,-8.659,0,0.283,151.589,4,0.731
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Love Me,69,1,253440,1,0.0119,0.674,0.608,0,8,0.103,-6.628,0,0.0334,124.952,4,0.464
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Lollipop,58,1,299333,1,0.0606,0.832,0.43,0.00323,0,0.124,-9.39,1,0.0826,148.074,4,0.462
+Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Uproar,69,1,194184,1,0.0595,0.743,0.87,0,1,0.299,-2.188,1,0.212,99.079,4,0.884
+Harry Styles,"['pop', 'post-teen pop']",Watermelon Sugar,90,1,174000,0,0.122,0.548,0.816,0,0,0.335,-4.209,1,0.0465,95.39,4,0.557
+Harry Styles,"['pop', 'post-teen pop']",Adore You,84,1,207133,0,0.0237,0.676,0.771,0.000007,8,0.102,-3.675,1,0.0483,99.048,4,0.569
+Harry Styles,"['pop', 'post-teen pop']",Golden,83,1,208906,0,0.21,0.448,0.838,0.000131,4,0.131,-5.257,0,0.0557,139.863,4,0.254
+Harry Styles,"['pop', 'post-teen pop']",Falling,83,1,240133,0,0.839,0.567,0.267,0.00000146,4,0.089,-6.502,1,0.0299,110.011,4,0.0592
+Harry Styles,"['pop', 'post-teen pop']",Sign of the Times,80,1,340706,0,0.0275,0.516,0.595,0,5,0.109,-4.63,1,0.0313,119.972,4,0.222
+Harry Styles,"['pop', 'post-teen pop']",Kiwi,77,1,176386,0,0.00064,0.375,0.93,0,2,0.318,-2.631,1,0.0561,147.124,4,0.491
+Harry Styles,"['pop', 'post-teen pop']",Lights Up,76,1,172213,0,0.0392,0.575,0.621,0.0045,10,0.141,-8.165,0,0.032,101.987,4,0.27
+Harry Styles,"['pop', 'post-teen pop']",Fine Line,75,1,377960,0,0.172,0.306,0.347,0.00013,2,0.0485,-8.5,1,0.0334,120.996,4,0.0511
+Harry Styles,"['pop', 'post-teen pop']",Sweet Creature,75,1,224866,0,0.746,0.427,0.262,0,7,0.068,-8.541,1,0.0276,104.085,4,0.228
+Harry Styles,"['pop', 'post-teen pop']",She,75,1,362653,0,0.000532,0.535,0.521,0.371,0,0.19,-5.942,1,0.0272,140.026,3,0.457
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",1-800-273-8255,77,1,250173,1,0.569,0.62,0.574,0,5,0.19,-7.788,0,0.0479,100.023,4,0.357
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Homicide (feat. Eminem),72,1,245386,1,0.137,0.694,0.759,0,10,0.167,-5.667,0,0.398,140.055,4,0.77
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Everyday,71,1,204746,1,0.0425,0.667,0.741,0,1,0.0761,-4.099,1,0.0378,149.908,4,0.422
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Ballin,71,1,166080,1,0.0475,0.737,0.854,0,3,0.0905,-6.414,0,0.221,150.621,4,0.65
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Vaccine,70,1,121650,1,0.037,0.774,0.617,0,5,0.107,-4.058,1,0.0473,149.896,4,0.602
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Perfect,69,1,100291,1,0.00948,0.769,0.829,0.0000665,0,0.301,-5.228,1,0.0661,159.943,4,0.648
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Keanu Reeves,68,1,225920,1,0.0557,0.712,0.891,0,2,0.134,-6.457,1,0.24,170.13,4,0.799
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",44 More,67,1,188600,1,0.0718,0.824,0.584,0,10,0.106,-7.098,0,0.221,139.965,4,0.219
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",5 A.M.,67,1,220516,1,0.205,0.72,0.677,0,5,0.0966,-4.592,1,0.162,174.072,4,0.389
+Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']",Get Up,67,1,213379,1,0.294,0.69,0.616,0.00387,0,0.11,-9.109,0,0.0342,153.13,4,0.668
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",Centuries,80,1,228360,0,0.00359,0.393,0.858,0,4,0.102,-2.868,0,0.0729,176.042,4,0.56
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']","Sugar, We're Goin Down",77,1,229093,0,0.00579,0.494,0.842,0,7,0.122,-4.784,1,0.0843,162.011,4,0.574
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),77,1,163804,1,0.179,0.661,0.723,0.0000123,5,0.14,-6.976,0,0.0566,113.778,4,0.316
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",Thnks fr th Mmrs,76,1,203506,0,0.00511,0.459,0.891,0,10,0.106,-5.057,0,0.0623,154.837,4,0.588
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']","Dance, Dance",75,1,180266,0,0.00523,0.622,0.961,0,11,0.0854,-3.198,0,0.154,114.452,4,0.449
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",Immortals,73,1,189386,0,0.00131,0.616,0.868,0.00000154,2,0.671,-3.606,1,0.0699,108.016,4,0.475
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",My Songs Know What You Did In The Dark (Light Em Up),71,1,186826,0,0.0271,0.558,0.924,0.00000332,9,0.537,-4.341,0,0.064,151.99,4,0.567
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy),69,1,233613,1,0.15,0.741,0.845,0,5,0.174,-3.568,0,0.0381,129.939,4,0.926
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",Uma Thurman,68,1,211573,0,0.103,0.623,0.962,0.000174,4,0.264,-2.616,0,0.0895,149.963,4,0.676
+Fall Out Boy,"['emo', 'modern rock', 'pop punk']",The Phoenix,68,1,244960,0,0.000539,0.562,0.964,0.00000157,4,0.579,-2.991,0,0.072,138.063,4,0.41
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Having Our Way (feat. Drake),81,1,278191,1,0.0312,0.927,0.538,0,1,0.0945,-3.917,1,0.116,125.983,4,0.221
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Straightenin,72,1,255023,1,0.0319,0.848,0.625,0,9,0.101,-5.776,1,0.11,135.957,4,0.106
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Modern Day,78,1,241790,1,0.173,0.87,0.629,0,11,0.101,-7.598,0,0.279,134.944,4,0.512
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Pure Water (with Migos),76,1,192470,1,0.174,0.682,0.559,0,0,0.344,-5.545,1,0.127,202.015,4,0.137
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Walk It Talk It,75,1,276147,1,0.0876,0.907,0.633,0.0000026,2,0.106,-5.145,1,0.184,145.914,4,0.395
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Bad and Boujee (feat. Lil Uzi Vert),74,1,343150,1,0.061,0.927,0.665,0,11,0.123,-5.313,1,0.244,127.076,4,0.175
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Narcos,73,1,255378,1,0.0142,0.936,0.585,0,0,0.132,-6.914,1,0.125,124.991,4,0.242
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Malibu (feat. Polo G),73,1,248651,1,0.514,0.831,0.719,0,10,0.0675,-6.836,1,0.235,155.038,4,0.859
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",Avalanche,73,1,206271,1,0.0985,0.917,0.623,0,1,0.0833,-8.231,1,0.135,126.063,4,0.687
+Migos,"['atl hip hop', 'pop rap', 'rap', 'trap']",MotorSport,72,1,303076,1,0.0305,0.904,0.518,0,2,0.325,-5.32,1,0.183,137.996,4,0.188
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Pareja Del Año,92,1,195053,0,0.163,0.715,0.622,0,4,0.0948,-5.102,0,0.046,80.015,4,0.808
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Chica Ideal,81,1,183240,0,0.0847,0.574,0.891,0,0,0.16,-3.665,0,0.157,100.978,4,0.707
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",3 de La Mañana,77,1,220773,0,0.00851,0.705,0.896,0,11,0.118,-2.647,1,0.0606,76.024,4,0.84
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Robarte un Beso,73,1,194742,0,0.0824,0.742,0.859,0,10,0.359,-4.942,1,0.0482,95.046,4,0.652
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",No Hay Nadie Más,73,1,199733,0,0.861,0.695,0.379,0,6,0.106,-9.096,1,0.0339,105.108,4,0.808
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Bajo La Mesa,60,1,157493,0,0.231,0.713,0.621,0,6,0.0838,-5.508,0,0.0711,91.046,4,0.821
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",No Llores Más,71,1,169806,0,0.0895,0.687,0.817,0,8,0.0912,-4.566,0,0.0627,95.026,4,0.365
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",No Bailes Sola,65,1,182813,0,0.203,0.585,0.75,0,10,0.3,-3.974,1,0.145,179.881,4,0.619
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Traicionera,71,1,229386,0,0.147,0.775,0.679,0,11,0.155,-4.985,1,0.0465,91,4,0.674
+Sebastian Yatra,"['colombian pop', 'latin', 'reggaeton', 'reggaeton colombiano']",Un Año,66,1,163813,0,0.14,0.773,0.378,0,1,0.133,-7.062,0,0.0531,94.946,4,0.513
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",Poblado - Remix,89,1,393280,0,0.102,0.813,0.809,0.00000137,3,0.377,-5.382,0,0.0846,93.005,4,0.646
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",EL MAKINON,88,1,209160,0,0.256,0.635,0.706,0,5,0.108,-3.224,0,0.125,88.863,4,0.443
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",BICHOTA,73,1,178693,1,0.204,0.864,0.658,0.000626,1,0.105,-4.105,0,0.154,163.922,4,0.865
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",Tusa,69,1,201920,0,0.309,0.799,0.701,0.0000736,2,0.0514,-3.272,1,0.282,100.946,4,0.607
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",China,68,1,301714,0,0.0846,0.786,0.808,0.000289,7,0.0822,-3.702,1,0.0881,105.029,4,0.608
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']","Ay, DiOs Mío!",65,1,189413,0,0.511,0.717,0.708,0.00101,11,0.106,-4.395,1,0.19,180.001,4,0.518
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",LOCATION,71,1,263013,1,0.0487,0.771,0.765,0,1,0.313,-3.887,0,0.0508,115.984,4,0.66
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",CONTIGO VOY A MUERTE,77,1,219960,0,0.2,0.77,0.853,0.00000385,11,0.0627,-2.593,1,0.0484,82.994,4,0.781
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",LEYENDAS,76,1,352093,0,0.0607,0.554,0.784,0,1,0.301,-5.459,1,0.113,96.699,4,0.61
+KAROL G,"['latin', 'reggaeton', 'reggaeton colombiano', 'trap latino']",200 COPAS,75,1,217213,0,0.767,0.515,0.704,0,9,0.415,-5.25,0,0.206,91.246,3,0.885
+21 Savage,"['atl hip hop', 'rap', 'trap']",m y . l i f e (with 21 Savage & Morray),83,1,218801,1,0.0622,0.597,0.587,0,7,0.214,-7.026,0,0.137,140.021,4,0.0753
+21 Savage,"['atl hip hop', 'rap', 'trap']",Runnin,78,1,195906,1,0.00748,0.819,0.626,0.101,10,0.167,-4.574,0,0.202,143.01,4,0.415
+21 Savage,"['atl hip hop', 'rap', 'trap']",Bank Account,77,1,220306,1,0.0151,0.884,0.346,0.00000704,8,0.0871,-8.228,0,0.351,75.016,4,0.376
+21 Savage,"['atl hip hop', 'rap', 'trap']",a lot,77,1,288624,1,0.0395,0.837,0.636,0.00125,1,0.342,-7.643,1,0.086,145.972,4,0.274
+21 Savage,"['atl hip hop', 'rap', 'trap']",LET IT GO (feat. Justin Bieber & 21 Savage),76,1,165526,1,0.24,0.877,0.444,0,8,0.169,-7.547,1,0.172,129.06,4,0.658
+21 Savage,"['atl hip hop', 'rap', 'trap']",Mr. Right Now (feat. Drake),75,1,193838,1,0.231,0.647,0.667,0,5,0.133,-5.563,1,0.304,172.08,4,0.704
+21 Savage,"['atl hip hop', 'rap', 'trap']",Number 2 (feat. Future & 21 Savage),74,1,173986,1,0.0287,0.727,0.637,0.000013,1,0.0928,-5.433,1,0.187,159.848,4,0.421
+21 Savage,"['atl hip hop', 'rap', 'trap']",ball w/o you,74,1,195046,1,0.0467,0.892,0.633,0.000189,8,0.139,-7.471,1,0.0902,137.994,4,0.459
+21 Savage,"['atl hip hop', 'rap', 'trap']",Rich Nigga Shit (feat. Young Thug),73,1,190331,1,0.349,0.825,0.733,0,1,0.112,-5.625,0,0.0969,97.974,4,0.62
+21 Savage,"['atl hip hop', 'rap', 'trap']",Opp Stoppa (feat. 21 Savage),63,1,135417,0,0.00424,0.838,0.311,0,0,0.169,-5.221,1,0.132,78.015,4,0.303
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']","Genius (feat. Sia, Diplo, and Labrinth)",74,1,213706,0,0.0799,0.603,0.615,0.0000672,11,0.117,-4.931,0,0.165,158.657,4,0.561
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Electricity (with Dua Lipa),74,1,238173,0,0.0104,0.588,0.67,0.00000333,0,0.338,-6.439,1,0.0473,118.159,4,0.505
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Where Are Ü Now (with Justin Bieber),74,1,250285,0,0.041,0.432,0.781,0.00000421,4,0.0789,-4.038,0,0.0567,139.432,4,0.197
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Heartless (feat. Morgan Wallen),73,1,169226,1,0.275,0.765,0.556,0,11,0.0824,-6.417,1,0.0512,111.033,4,0.274
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']","Thunderclouds (feat. Sia, Diplo, and Labrinth)",72,1,187026,0,0.0077,0.69,0.714,0.0000723,7,0.191,-5.948,1,0.0338,112.009,4,0.489
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Daylight,72,1,163905,1,0.00488,0.528,0.749,0.000096,7,0.0949,-7.571,1,0.0479,163.944,4,0.729
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Dance with Me (feat. Thomas Rhett & Young Thug),72,1,170157,0,0.0264,0.73,0.792,0,6,0.101,-5.33,0,0.13,99.039,4,0.745
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",On My Mind,71,1,189268,0,0.00161,0.771,0.729,0.672,7,0.217,-6.577,1,0.0408,123.027,4,0.63
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Looking For Me,66,1,211452,0,0.00441,0.641,0.529,0.000862,6,0.0809,-11.536,1,0.0288,121.027,4,0.449
+Diplo,"['bmore', 'dance pop', 'edm', 'electro house', 'house', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']",Blastoff (feat. Juice Wrld & Trippie Redd),67,1,174729,1,0.114,0.761,0.517,0,5,0.157,-6.916,1,0.0927,147.912,4,0.46
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Solid (feat. Drake),83,1,215693,1,0.0392,0.887,0.485,0,11,0.141,-9.358,0,0.2,125.987,4,0.328
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Go Crazy,81,1,176960,1,0.316,0.755,0.578,0,0,0.25,-8.932,0,0.145,94.148,4,0.581
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Better Believe,79,1,206629,1,0.159,0.797,0.573,0,0,0.144,-7.85,1,0.319,124.995,4,0.445
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Ski,78,1,152333,1,0.017,0.953,0.621,0,8,0.0398,-7.638,0,0.221,123.016,4,0.883
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Bad Boy (with Young Thug),77,1,157355,1,0.00215,0.697,0.674,0,1,0.138,-6.326,1,0.0533,81.535,4,0.198
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",FRANCHISE (feat. Young Thug & M.I.A.),74,1,202794,1,0.00671,0.835,0.699,0,8,0.195,-5.405,0,0.277,154.981,4,0.547
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Hot (feat. Gunna),73,1,193026,1,0.063,0.855,0.651,0,0,0.0772,-8.044,0,0.235,111.997,4,0.559
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Relationship (feat. Future),72,1,215306,1,0.00252,0.842,0.597,0,2,0.124,-6.336,1,0.0627,145.992,4,0.298
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",Dance with Me (feat. Thomas Rhett & Young Thug),72,1,170157,0,0.0264,0.73,0.792,0,6,0.101,-5.33,0,0.13,99.039,4,0.745
+Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']",The London (feat. J. Cole & Travis Scott),56,1,200186,0,0.0312,0.815,0.45,0.00000285,4,0.131,-11.048,0,0.228,97.992,4,0.221
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Chosen (feat. Ty Dolla $ign),82,1,161684,1,0.336,0.571,0.767,0,2,0.0809,-5.16,1,0.287,93.421,4,0.605
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Loco Contigo (feat. J. Balvin & Tyga),77,1,185194,0,0.278,0.694,0.758,0.00000134,11,0.102,-2.986,1,0.218,192.091,4,0.371
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Taste (feat. Offset),73,1,229210,1,0.0293,0.866,0.613,0,0,0.104,-6.385,1,0.151,98.001,4,0.359
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Still Be Friends (feat. Tory Lanez & Tyga),75,1,213307,1,0.00509,0.803,0.759,0,7,0.0921,-4.692,0,0.0494,104,4,0.284
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Ayy Macarena,74,1,131606,1,0.133,0.816,0.629,0,2,0.0692,-5.568,1,0.226,96.493,4,0.714
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Juicy,73,1,203093,1,0.102,0.786,0.652,0,0,0.0697,-2.607,1,0.0669,170.031,4,0.483
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Splash (feat. Moneybagg Yo),72,1,173161,1,0.0363,0.794,0.613,0,1,0.742,-6.336,0,0.145,135.984,4,0.412
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Ayo,71,1,225226,1,0.0399,0.823,0.563,0,6,0.0851,-5.095,1,0.0443,98.031,4,0.682
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Desce Pro Play (PA PA PA),69,1,168507,0,0.0769,0.935,0.71,0.00000192,11,0.173,-5.085,0,0.158,100.009,4,0.635
+Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Like It Is,62,1,183067,0,0.123,0.789,0.727,0.00000959,1,0.222,-6.772,1,0.126,104.947,4,0.343
+Alan Walker,['electro house'],Sweet Dreams,81,1,138819,0,0.0239,0.766,0.817,0.00000249,7,0.159,-4.253,1,0.035,125.033,4,0.43
+Alan Walker,['electro house'],Faded,78,1,212106,0,0.0281,0.468,0.627,0.00000797,6,0.11,-5.085,1,0.0476,179.642,4,0.159
+Alan Walker,['electro house'],"Alone, Pt. II",77,1,179052,0,0.536,0.67,0.668,0,3,0.133,-4.306,0,0.0422,88.033,4,0.608
+Alan Walker,['electro house'],On My Way,75,1,193797,0,0.0209,0.509,0.689,0,1,0.301,-4.929,0,0.102,170.087,4,0.297
+Alan Walker,['electro house'],Lily,74,1,195840,0,0.196,0.423,0.634,0,6,0.189,-5.877,0,0.0578,150.978,4,0.467
+Alan Walker,['electro house'],Darkside,73,1,211680,0,0.131,0.43,0.606,0,4,0.173,-5.115,0,0.0431,169.988,4,0.123
+Alan Walker,['electro house'],Believers,72,1,159077,0,0.0247,0.649,0.69,0,8,0.161,-5.384,0,0.0296,104.04,4,0.593
+Alan Walker,['electro house'],Alone,72,1,160426,0,0.229,0.673,0.914,0.000478,10,0.186,-3.962,1,0.0496,97.021,4,0.183
+Alan Walker,['electro house'],Space Melody (Edward Artemyev) (feat. Leony),72,1,180151,0,0.227,0.898,0.759,0.00102,7,0.104,-4.942,1,0.114,127.966,4,0.24
+Alan Walker,['electro house'],Ignite,72,1,210288,0,0.0208,0.681,0.864,0.00000398,8,0.192,-4.3,0,0.116,90.008,4,0.479
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Last Train Home,74,1,187306,0,0.235,0.591,0.831,0.00142,4,0.0571,-6.612,1,0.0355,93.007,4,0.678
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Shot in the Dark,76,1,249080,0,0.0629,0.741,0.556,0.041,2,0.103,-9.184,1,0.0266,122.008,4,0.587
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",New Light,75,1,217426,0,0.316,0.826,0.694,0.0285,7,0.074,-7.862,1,0.0315,123.932,4,0.852
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Your Body Is a Wonderland,75,1,249626,0,0.0206,0.647,0.729,0.0489,5,0.134,-6.251,1,0.0236,94.01,4,0.687
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Slow Dancing in a Burning Room,74,1,242000,0,0.575,0.667,0.361,0.00506,1,0.0805,-8.69,0,0.0273,134.018,5,0.29
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Wild Blue,74,1,252413,0,0.557,0.816,0.596,0.812,0,0.0842,-8.989,1,0.0294,123.027,4,0.876
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Shouldn't Matter but It Does,73,1,236733,1,0.457,0.549,0.324,0.0000022,4,0.133,-11.769,1,0.0285,80.888,4,0.268
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Waiting On the World to Change,73,1,201173,0,0.157,0.578,0.756,0.000232,2,0.249,-5.82,1,0.115,176.739,4,0.663
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Why You No Love Me,72,1,255213,0,0.387,0.635,0.562,0.000366,9,0.113,-7.315,1,0.0223,97.988,4,0.501
+John Mayer,"['neo mellow', 'pop rock', 'singer-songwriter']",Gravity,72,1,245826,0,0.731,0.753,0.326,0.00131,7,0.24,-9.883,1,0.0342,123.799,3,0.237
+DaBaby,"['north carolina hip hop', 'rap']",Levitating (feat. DaBaby),90,1,203064,0,0.00883,0.702,0.825,0,6,0.0674,-3.787,0,0.0601,102.977,4,0.915
+DaBaby,"['north carolina hip hop', 'rap']",ROCKSTAR (feat. Roddy Ricch),86,1,181733,1,0.247,0.746,0.69,0,11,0.101,-7.956,1,0.164,89.977,4,0.497
+DaBaby,"['north carolina hip hop', 'rap']",Red Light Green Light,84,1,159082,1,0.129,0.933,0.656,0,2,0.161,-5.85,1,0.322,119.987,4,0.934
+DaBaby,"['north carolina hip hop', 'rap']",Ball If I Want To,84,1,112546,1,0.161,0.902,0.669,0,1,0.0728,-5.049,1,0.457,139.949,4,0.628
+DaBaby,"['north carolina hip hop', 'rap']",BOP,81,1,159714,1,0.189,0.769,0.787,0,11,0.129,-3.909,1,0.367,126.77,4,0.836
+DaBaby,"['north carolina hip hop', 'rap']",Masterpiece,78,1,181714,1,0.0299,0.781,0.726,0,0,0.093,-4.213,1,0.0836,139.988,4,0.436
+DaBaby,"['north carolina hip hop', 'rap']",Suge,76,1,163320,1,0.0608,0.876,0.662,0,2,0.127,-6.482,0,0.426,75.445,4,0.844
+DaBaby,"['north carolina hip hop', 'rap']","I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",76,1,165366,1,0.00196,0.757,0.721,0,4,0.647,-2.906,0,0.0691,124.036,4,0.364
+DaBaby,"['north carolina hip hop', 'rap']",Party Lyfe (with DaBaby),75,1,171231,1,0.0632,0.861,0.487,0,6,0.144,-8.533,1,0.131,92.998,4,0.707
+DaBaby,"['north carolina hip hop', 'rap']",VIBEZ,75,1,144935,1,0.113,0.768,0.652,0,1,0.107,-2.708,0,0.307,154.187,4,0.777
+Macklemore,"['pop rap', 'seattle hip hop']",Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),77,1,163804,1,0.179,0.661,0.723,0.0000123,5,0.14,-6.976,0,0.0566,113.778,4,0.316
+Macklemore,"['pop rap', 'seattle hip hop']",Thrift Shop (feat. Wanz),76,1,235613,1,0.0633,0.781,0.526,0,6,0.0457,-6.986,0,0.293,94.993,4,0.665
+Macklemore,"['pop rap', 'seattle hip hop']",Glorious (feat. Skylar Grey),75,1,220454,1,0.0323,0.731,0.794,0.0000259,0,0.112,-5.126,0,0.0522,139.994,4,0.356
+Macklemore,"['pop rap', 'seattle hip hop']","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",57,1,211760,0,0.188,0.654,0.798,0,0,0.15,-4.084,1,0.0451,92.207,4,0.574
+Macklemore,"['pop rap', 'seattle hip hop']",Good Old Days (feat. Kesha),70,1,240506,0,0.446,0.712,0.51,0.0000246,8,0.112,-8.162,1,0.0633,122.964,4,0.268
+Macklemore,"['pop rap', 'seattle hip hop']",Can't Hold Us (feat. Ray Dalton),69,1,258431,0,0.0267,0.633,0.927,0,2,0.0986,-4.468,1,0.0839,146.097,4,0.88
+Macklemore,"['pop rap', 'seattle hip hop']",White Walls (feat. ScHoolboy Q & Hollis),68,1,220319,1,0.0545,0.768,0.782,0,7,0.338,-5.545,1,0.141,116.492,4,0.842
+Macklemore,"['pop rap', 'seattle hip hop']","Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",67,1,292593,1,0.0916,0.828,0.609,0.00000121,1,0.291,-4.402,1,0.0694,109.725,4,0.707
+Macklemore,"['pop rap', 'seattle hip hop']",And We Danced (feat. Ziggy Stardust),65,1,246213,0,0.458,0.758,0.676,0,5,0.0954,-6.598,1,0.0792,124.998,4,0.712
+Macklemore,"['pop rap', 'seattle hip hop']",Marmalade (feat. Lil Yachty),63,1,261614,1,0.0098,0.922,0.583,0,5,0.0962,-4.982,1,0.0753,136.043,4,0.494
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Enter Sandman,74,1,331573,0,0.00206,0.579,0.824,0.00903,6,0.059,-8.71,0,0.03,123.331,4,0.635
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Nothing Else Matters,69,1,388733,0,0.0505,0.558,0.364,0.00000502,4,0.0753,-11.258,0,0.0265,142.171,3,0.17
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Master of Puppets (Remastered),67,1,515386,0,0.00067,0.539,0.828,0.421,4,0.154,-9.108,0,0.035,105.25,4,0.562
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",The Unforgiven,65,1,387133,0,0.0108,0.539,0.597,0.00552,7,0.134,-9.581,1,0.0258,139.444,4,0.251
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Whiskey In The Jar,63,1,304893,0,0.00000536,0.511,0.972,0.00101,10,0.19,-3.751,1,0.0413,132.97,4,0.532
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",One (Remastered),67,1,446145,0,0.000668,0.438,0.687,0.0801,7,0.42,-9.15,1,0.0619,103.01,3,0.426
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Sad But True,64,1,324560,0,0.000773,0.632,0.845,0.00152,7,0.0618,-6.336,1,0.0333,89.232,4,0.433
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",For Whom The Bell Tolls (Remastered),66,1,309973,0,0.00631,0.512,0.86,0.00528,0,0.0652,-6.145,1,0.0703,117.909,4,0.258
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Fuel,61,1,269733,0,0.000023,0.491,0.951,0.00354,1,0.0424,-3.775,1,0.0465,106.948,4,0.555
+Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Fade To Black (Remastered),62,1,417226,0,0.00311,0.256,0.929,0.201,7,0.11,-6.667,1,0.113,113.47,4,0.278
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Dusk Till Dawn (feat. Sia) - Radio Edit,74,1,239000,0,0.102,0.259,0.437,0.00000132,11,0.106,-6.589,0,0.0386,180.042,4,0.0951
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",I Don’t Wanna Live Forever (Fifty Shades Darker),77,1,247160,0,0.0586,0.731,0.445,0.0000196,0,0.14,-8.418,1,0.0533,117.97,4,0.106
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",PILLOWTALK,77,1,202746,1,0.117,0.584,0.7,0,11,0.0939,-4.275,1,0.0456,124.944,4,0.438
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Trampoline (with ZAYN),67,1,184280,0,0.56,0.619,0.459,0,7,0.137,-5.782,0,0.0334,126.803,4,0.498
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Vibez,67,1,163346,0,0.241,0.643,0.671,0.0178,7,0.12,-7.45,1,0.0842,96.924,4,0.297
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Better,65,1,174520,0,0.354,0.696,0.409,0,2,0.132,-7.135,1,0.235,84.652,4,0.0962
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",fOoL fOr YoU,68,1,202213,0,0.281,0.52,0.513,0,7,0.0976,-7.208,1,0.0256,77.903,4,0.17
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']","A Whole New World (End Title) - From ""Aladdin""",67,1,242956,0,0.0575,0.302,0.414,0,2,0.0861,-8.16,1,0.0319,110.508,4,0.105
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",Let Me,67,1,185373,0,0.239,0.46,0.566,0.00000596,9,0.0967,-5.637,1,0.0502,168.408,4,0.189
+ZAYN,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",There You Are,65,1,199600,0,0.0263,0.452,0.688,0,0,0.11,-4.84,0,0.0385,76.99,4,0.313
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",The Middle,81,1,184732,0,0.171,0.753,0.657,0,7,0.112,-3.061,1,0.0449,107.01,4,0.437
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Stay,75,1,210090,0,0.253,0.69,0.622,0,5,0.116,-5.025,0,0.0622,102.04,4,0.544
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Clarity,74,1,271426,0,0.0398,0.509,0.781,0,8,0.0749,-3.48,1,0.072,128,4,0.176
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Funny,71,1,221465,0,0.512,0.664,0.66,0,5,0.26,-4.646,1,0.0243,99.946,4,0.355
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Happy Now,71,1,207029,0,0.579,0.503,0.741,0.00000149,4,0.0712,-5.128,1,0.047,88.335,3,0.458
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Good Thing (with Kehlani),70,1,210901,1,0.399,0.693,0.564,0,1,0.0409,-3.857,0,0.0378,185.913,3,0.574
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Beautiful Now,70,1,218293,0,0.0079,0.628,0.833,0.0000148,11,0.074,-4.126,0,0.0282,128.003,4,0.56
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",365,67,1,181899,0,0.339,0.745,0.693,0,2,0.123,-5.479,0,0.034,98.039,4,0.248
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",I Want You To Know,66,1,240000,0,0.00537,0.58,0.846,0.00000662,9,0.145,-2.876,0,0.0573,129.998,4,0.366
+Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",Inside Out (feat. Griff),66,1,186245,0,0.169,0.64,0.683,0,2,0.109,-4.309,1,0.0434,146.058,4,0.4
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",I Like Me Better,82,1,197436,0,0.535,0.752,0.505,0.00000255,9,0.104,-7.621,1,0.253,91.97,4,0.419
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",i'm so tired...,77,1,162586,0,0.176,0.599,0.733,0,11,0.242,-7.058,1,0.203,102.211,4,0.534
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Who (feat. BTS),74,1,180413,0,0.551,0.632,0.345,0,11,0.104,-8,0,0.0349,141.641,3,0.0818
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']","fuck, i'm lonely (with Anne-Marie)",74,1,198973,1,0.482,0.806,0.558,0,9,0.0618,-6.46,1,0.0683,95.016,4,0.678
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Fake,73,1,146375,1,0.139,0.703,0.657,0,4,0.093,-5.363,1,0.0783,82.96,4,0.455
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Never Not,72,1,208000,0,0.693,0.47,0.221,0,5,0.104,-9.243,1,0.0371,133.714,4,0.264
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Make It Right (feat. Lauv),72,1,226321,0,0.0304,0.584,0.685,0,7,0.189,-7.811,1,0.425,97.551,4,0.345
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Mean It,72,1,232853,0,0.0407,0.746,0.45,0,7,0.172,-8.543,1,0.0872,95.998,4,0.336
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Feelings,71,1,189906,0,0.0934,0.694,0.466,0,9,0.098,-6.758,1,0.0384,103.018,4,0.246
+Lauv,"['dance pop', 'electropop', 'pop', 'post-teen pop']",Paris in the Rain,70,1,204712,0,0.771,0.426,0.408,0.00000788,3,0.394,-9.419,1,0.0524,76.309,4,0.528
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Let Me Love You,81,1,205946,0,0.0863,0.649,0.716,0.0000263,8,0.135,-5.371,1,0.0349,99.988,4,0.163
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Loco Contigo (feat. J. Balvin & Tyga),77,1,185194,0,0.278,0.694,0.758,0.00000134,11,0.102,-2.986,1,0.218,192.091,4,0.371
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']","Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",71,1,212500,1,0.157,0.842,0.801,0.00000482,8,0.0642,-4.167,0,0.228,95.881,4,0.617
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Middle,77,1,220573,0,0.0141,0.583,0.695,0,9,0.0527,-5.336,1,0.0423,104.879,4,0.224
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Selfish Love (with Selena Gomez),75,1,168648,0,0.0206,0.723,0.646,0.352,5,0.0994,-7.973,0,0.102,110.971,4,0.443
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Lean On,72,1,176561,0,0.00346,0.723,0.809,0.00123,7,0.565,-3.081,0,0.0625,98.007,4,0.274
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Turn Down for What,72,1,213733,0,0.00107,0.818,0.799,0.128,1,0.057,-4.1,0,0.156,100.014,4,0.0815
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",You Know You Like It,71,1,247266,0,0.0141,0.407,0.725,0.00000246,5,0.306,-5.346,0,0.188,196.093,4,0.247
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan),67,1,167058,0,0.00159,0.815,0.688,0.00000411,0,0.111,-6.101,1,0.0659,101.968,4,0.641
+DJ Snake,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",A Different Way (with Lauv),65,1,198285,0,0.495,0.784,0.757,0.00000118,8,0.142,-3.912,1,0.0384,104.996,4,0.587
+P!nk,"['dance pop', 'pop', 'post-teen pop']",Cover Me In Sunshine,73,1,138573,0,0.0528,0.473,0.592,0,5,0.131,-6.859,1,0.138,159.7,4,0.292
+P!nk,"['dance pop', 'pop', 'post-teen pop']",Just Give Me a Reason (feat. Nate Ruess),80,1,242733,0,0.346,0.778,0.547,0.000302,2,0.132,-7.273,1,0.0489,95.002,4,0.441
+P!nk,"['dance pop', 'pop', 'post-teen pop']",All I Know So Far,66,1,277413,1,0.0586,0.578,0.639,0,4,0.0944,-5.749,1,0.0374,108.045,4,0.296
+P!nk,"['dance pop', 'pop', 'post-teen pop']",Raise Your Glass,77,1,202960,1,0.0048,0.7,0.709,0,7,0.029,-5.006,1,0.0838,122.019,4,0.624
+P!nk,"['dance pop', 'pop', 'post-teen pop']",So What,76,1,215160,1,0.000334,0.534,0.87,0,11,0.241,-3.078,0,0.0425,126.019,4,0.462
+P!nk,"['dance pop', 'pop', 'post-teen pop']",Try,75,1,247906,0,0.00144,0.674,0.628,0,2,0.0944,-7.079,1,0.03,103.998,4,0.552
+P!nk,"['dance pop', 'pop', 'post-teen pop']",What About Us,73,1,269600,0,0.0281,0.491,0.588,0.00000201,1,0.0906,-6.177,1,0.0506,113.608,4,0.193
+P!nk,"['dance pop', 'pop', 'post-teen pop']",One Too Many,68,1,203893,0,0.247,0.697,0.535,0,4,0.569,-6.504,1,0.068,82.959,4,0.594
+P!nk,"['dance pop', 'pop', 'post-teen pop']",Anywhere Away from Here (Rag’n’Bone Man & P!nk),71,1,238639,0,0.656,0.395,0.288,0,11,0.116,-10.465,1,0.0345,130.571,4,0.189
+P!nk,"['dance pop', 'pop', 'post-teen pop']","Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",69,1,215413,0,0.0114,0.632,0.702,0,7,0.108,-5.92,1,0.148,162.958,4,0.523
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Todo De Ti,84,1,199604,1,0.302,0.78,0.719,0.000196,3,0.0931,-3.613,0,0.0506,127.962,4,0.336
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",2/Catorce,78,1,205714,1,0.709,0.768,0.56,0.000791,3,0.115,-3.497,1,0.0859,112.084,3,0.372
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Tiroteo - Remix,87,1,321555,0,0.282,0.75,0.522,0,9,0.0743,-7.018,1,0.0293,110.427,4,0.601
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Baila Conmigo (with Rauw Alejandro),85,1,186087,0,0.0215,0.823,0.544,0.00315,5,0.0966,-7.132,1,0.0715,149.903,4,0.664
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Aloha,84,1,241659,0,0.532,0.807,0.712,0.0000237,1,0.163,-5.757,1,0.1,100.004,4,0.792
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Me Fije,83,1,202306,1,0.396,0.76,0.674,0.0000354,7,0.0977,-4.039,0,0.0636,172.024,4,0.735
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Sexo Virtual,82,1,208291,1,0.328,0.704,0.739,0.0000193,8,0.0856,-3.286,1,0.112,179.879,4,0.425
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Cúrame,80,1,164705,1,0.584,0.765,0.625,0.00111,9,0.112,-3.599,0,0.0548,102.101,4,0.262
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",Reloj,77,1,231594,1,0.176,0.823,0.537,0.00000375,8,0.124,-2.627,1,0.211,175.965,4,0.608
+Rauw Alejandro,"['puerto rican pop', 'trap latino']",La Nota,71,1,216107,0,0.18,0.736,0.632,0,11,0.349,-4.939,0,0.0648,92.03,4,0.503
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Wants and Needs (feat. Lil Baby),88,1,192956,1,0.0618,0.578,0.449,0.00000217,1,0.119,-6.349,1,0.286,136.006,4,0.1
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",p r i d e . i s . t h e . d e v i l (with Lil Baby),83,1,218210,1,0.104,0.861,0.656,0,4,0.0986,-7.867,0,0.425,88.967,4,0.331
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Ramen & OJ,82,1,218447,1,0.492,0.597,0.571,0,1,0.093,-6.205,0,0.293,106.196,3,0.165
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hats Off (feat. Travis Scott),81,1,257428,1,0.138,0.596,0.65,0,9,0.14,-5.167,1,0.337,133.997,4,0.188
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Drip Too Hard (Lil Baby & Gunna),80,1,145542,1,0.0852,0.897,0.662,0,1,0.534,-6.903,0,0.292,112.511,4,0.389
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",On Me,78,1,135959,1,0.00327,0.856,0.564,0,6,0.134,-6.295,0,0.392,77.972,4,0.483
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Yes Indeed,78,1,142273,1,0.0355,0.963,0.346,0,5,0.108,-9.309,0,0.53,119.957,4,0.562
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",We Paid (feat. 42 Dugg),76,1,181929,1,0.135,0.926,0.542,0,1,0.0877,-5.064,1,0.293,135.14,4,0.564
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Real As It Gets (feat. EST Gee),74,1,192804,1,0.00471,0.779,0.705,0,6,0.0971,-5.891,0,0.163,140.005,4,0.196
+Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Still Runnin (feat. Meek Mill),73,1,173419,1,0.013,0.856,0.727,0,2,0.117,-5.616,1,0.277,146.044,4,0.286
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Volando - Remix,90,1,273474,1,0.207,0.659,0.688,0,6,0.113,-4.649,1,0.0673,153.979,4,0.632
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Sal y Perrea,87,1,216510,0,0.192,0.786,0.899,0.000189,10,0.299,-0.515,1,0.127,90.025,4,0.813
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",911 - Remix,86,1,208631,1,0.165,0.816,0.71,0,7,0.292,-3.728,1,0.0398,93.02,4,0.784
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",911,76,1,215891,1,0.076,0.795,0.655,0.00000176,7,0.296,-3.815,1,0.0422,93.029,4,0.744
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Relación - Remix,81,1,247308,0,0.0337,0.793,0.771,0.00000151,5,0.284,-3.417,1,0.0959,171.943,4,0.835
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Wao,78,1,178266,0,0.653,0.709,0.595,0.000253,0,0.134,-3.349,1,0.099,174.004,4,0.747
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",PSL,77,1,175903,1,0.176,0.816,0.582,0.0000274,5,0.176,-4.64,0,0.0579,89.977,4,0.873
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Sigues Con El,75,1,226532,0,0.11,0.883,0.668,0.000529,9,0.0734,-2.957,1,0.113,87.972,4,0.676
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Relación,74,1,184254,0,0.125,0.805,0.562,0.00000496,7,0.148,-3.117,0,0.105,172.094,4,0.767
+Sech,"['latin', 'panamanian pop', 'reggaeton', 'trap latino']",Ignorantes,72,1,210606,1,0.267,0.85,0.536,0.0000389,1,0.0996,-5.161,1,0.0599,96.029,4,0.505
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Say You Won't Let Go,84,1,211466,0,0.695,0.358,0.557,0,10,0.0902,-7.398,1,0.059,85.043,4,0.494
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Train Wreck,82,1,208826,0,0.701,0.311,0.485,0,6,0.0726,-5.726,0,0.0365,77.355,4,0.225
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Lasting Lover,79,1,218358,0,0.197,0.676,0.786,0,1,0.0943,-4.529,1,0.0478,125.983,4,0.483
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",September,61,1,220891,0,0.147,0.641,0.551,0,9,0.12,-6.165,1,0.0532,102.912,4,0.417
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Impossible,76,1,209440,0,0.135,0.376,0.695,0,0,0.11,-4.782,0,0.0933,169.533,4,0.302
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Can I Be Him,75,1,246880,0,0.308,0.696,0.543,0,11,0.0939,-6.164,1,0.0489,107.969,4,0.479
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Falling Like The Stars,71,1,211653,0,0.79,0.3,0.347,0.00000214,6,0.111,-9.542,1,0.0364,169.361,3,0.164
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Rewrite The Stars (with James Arthur & Anne-Marie),72,1,218293,0,0.237,0.67,0.743,0,10,0.465,-4.993,1,0.0393,125.944,4,0.571
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Naked,67,1,233400,0,0.084,0.527,0.61,0,6,0.0572,-6.793,1,0.0405,102.012,4,0.294
+James Arthur,"['pop', 'post-teen pop', 'talent show', 'uk pop']",Medicine,60,1,208906,0,0.232,0.306,0.74,0,10,0.0892,-4.521,1,0.0532,98.3,5,0.314
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",The Spins,80,1,195873,1,0.0135,0.794,0.766,0,9,0.0785,-3.894,0,0.0377,127.007,4,0.55
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Self Care,78,1,345133,1,0.367,0.52,0.538,0.00187,1,0.119,-8.109,1,0.206,141.894,4,0.177
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Weekend (feat. Miguel),75,1,208080,1,0.47,0.843,0.435,0,8,0.147,-8.442,1,0.178,120.058,4,0.19
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Good News,75,1,342040,0,0.853,0.794,0.32,0.134,1,0.112,-12.92,0,0.173,174.088,4,0.241
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Blue World,75,1,209440,1,0.389,0.742,0.553,0,8,0.0694,-8.98,1,0.419,84.931,4,0.508
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Dang! (feat. Anderson .Paak),73,1,305350,1,0.00826,0.836,0.67,0.000355,5,0.0837,-6.907,0,0.23,107.018,4,0.556
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",I Believed It (feat. Mac Miller),72,1,246609,1,0.303,0.524,0.699,0,1,0.769,-5.559,0,0.0462,145.191,4,0.703
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Come Back to Earth,71,1,161840,0,0.89,0.272,0.238,0.00925,2,0.275,-12.148,0,0.0349,83.507,4,0.119
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",My Favorite Part,71,1,216000,0,0.627,0.861,0.33,0.00000193,6,0.14,-7.194,1,0.0526,95.016,4,0.718
+Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",Ladders,71,1,287040,1,0.236,0.802,0.463,0.00531,8,0.105,-8.379,1,0.162,103.961,4,0.291
