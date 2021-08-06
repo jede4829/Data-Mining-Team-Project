@@ -22,8 +22,8 @@ class artist:
         self.popularity = 0
         self.href = ''
         self.images = ''
-        self.cid = '9cab75c094f941978bff0389a9d5dfa4'                       # Client ID
-        self.secret = '20b6077267ae4241af1756d4544b5069'                    # Secret
+        self.cid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'                       # Client ID
+        self.secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'                    # Secret
 
     def Artist_Profile(self, tp_art):
         self.external_urls = tp_art['external_urls']
