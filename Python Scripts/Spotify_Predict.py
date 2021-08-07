@@ -12,7 +12,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score
+from sklearn.metrics import confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 norm = MinMaxScaler()
 
@@ -210,6 +211,11 @@ if predict:
 
     new_line()
     print('Accuracy: ', accuracy_score(y_test, y_pred))
+    print('Precision: ', precision_score(y_test, y_pred))
+    print('Recall: ', recall_score(y_test, y_pred))
+    cm = confusion_matrix(y_test, y_pred)
+    print('Confusion Matrix:')
+    print(cm)
 
 # ----------------------------------------------------------------#
 # Predict which songs will be hits
