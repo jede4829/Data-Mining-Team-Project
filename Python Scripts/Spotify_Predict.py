@@ -84,8 +84,8 @@ def linear_reg_plot(set, xaxis, yaxis, scatter_color, line_color, scatter_weight
 
 def genres(set):
     genres = []
-    cid = '9cab75c094f941978bff0389a9d5dfa4'
-    secret = '20b6077267ae4241af1756d4544b5069'
+    cid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     client = SpotifyClientCredentials(client_id = cid, client_secret = secret)
     sp = spotipy.Spotify(client_credentials_manager = client)
     temp = list(set.loc[:,'name'])
@@ -127,7 +127,7 @@ print('Number of Songs: ' + str(len(dataset)))
 if mode == 1 and heatmap:
     heatmap_plot(dataset.drop(['Hit?', 'Artist', 'Song', 'Artist Genre', 'Popularity'], axis = 1), 'Greens')
 if mode == 2 and heatmap:
-    heatmap_plot(dataset.drop(['id', 'name', 'Hit?', 'popularity', 'artists', 'id_artists', 'release_date'], axis = 1), 'Greens')
+    heatmap_plot(dataset.drop(['id', 'name', 'hit', 'popularity', 'artists', 'id_artists', 'release_date'], axis = 1), 'Greens')
 if mode == 1 and linear:
     linear_reg_plot(dataset, 'Energy', 'Loudness', 'blue', 'red', 0.1)
 if mode == 2 and linear:
