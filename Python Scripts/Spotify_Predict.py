@@ -84,8 +84,8 @@ def linear_reg_plot(set, xaxis, yaxis, scatter_color, line_color, scatter_weight
 
 def genres(set):
     genres = []
-    cid = '9cab75c094f941978bff0389a9d5dfa4'
-    secret = '20b6077267ae4241af1756d4544b5069'
+    cid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     client = SpotifyClientCredentials(client_id = cid, client_secret = secret)
     sp = spotipy.Spotify(client_credentials_manager = client)
     temp = list(set.loc[:,'name'])
