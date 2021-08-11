@@ -58,3 +58,5 @@ https://www.youtube.com/watch?v=h6q-i5q6tcM
 ## Link to your final project paper
 
 -----
+
+https://github.com/jede4829/Data-Mining-Team-Project/blob/master/Group1_MusicPopularityPredictor_Part4.pdf
