@@ -50,7 +50,9 @@ We have created models that provide song recommendations and that predicate arti
 ## Link to the video demonstration
 
 -----
+
 https://www.youtube.com/watch?v=h6q-i5q6tcM 
+
 -----
 
 ## Link to your final project paper
