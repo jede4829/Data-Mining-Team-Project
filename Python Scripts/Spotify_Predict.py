@@ -32,7 +32,7 @@ def read_file(csv_file): return pd.read_csv(csv_file)
 
 def Read_Training_Data(mode):
     if mode == 1: 
-        set = read_file('rock.csv')
+        set = read_file('top100.csv')
     elif mode == 2:
         set = read_file('tracks.csv')
         hit, popularity = [], set['popularity']
@@ -84,8 +84,8 @@ def linear_reg_plot(set, xaxis, yaxis, scatter_color, line_color, scatter_weight
 
 def genres(set):
     genres = []
-    cid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-    secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    cid = '9cab75c094f941978bff0389a9d5dfa4'
+    secret = '20b6077267ae4241af1756d4544b5069'
     client = SpotifyClientCredentials(client_id = cid, client_secret = secret)
     sp = spotipy.Spotify(client_credentials_manager = client)
     temp = list(set.loc[:,'name'])
@@ -124,14 +124,10 @@ if mode == 2:
 new_line()
 print('Number of Songs: ' + str(len(dataset)))
 
-if mode == 1 and heatmap:
-    heatmap_plot(dataset.drop(['Hit?', 'Artist', 'Song', 'Artist Genre', 'Popularity'], axis = 1), 'Greens')
-if mode == 2 and heatmap:
-    heatmap_plot(dataset.drop(['id', 'name', 'hit', 'popularity', 'artists', 'id_artists', 'release_date'], axis = 1), 'Greens')
-if mode == 1 and linear:
-    linear_reg_plot(dataset, 'Energy', 'Loudness', 'blue', 'red', 0.1)
-if mode == 2 and linear:
-    linear_reg_plot(dataset, 'energy', 'loudness', 'blue', 'red', 0.1)
+if mode == 1 and heatmap: heatmap_plot(dataset.drop(['Hit?', 'Artist', 'Song', 'Artist Genre', 'Popularity'], axis = 1), 'Oranges')
+if mode == 2 and heatmap: heatmap_plot(dataset.drop(['name', 'hit', 'popularity', 'release_date'], axis = 1), 'Oranges')
+if mode == 1 and linear: linear_reg_plot(dataset, 'Energy', 'Loudness', 'blue', 'red', 0.1)
+if mode == 2 and linear: linear_reg_plot(dataset, 'explicit', 'speechiness', 'brown', 'yellow', 0.1)
 
 # ----------------------------------------------------------------#
 # Create Machine Learning Model
@@ -139,10 +135,9 @@ if mode == 2 and linear:
 
 if predict:
     if mode == 2:
-        X = dataset[['explicit','danceability','energy','key','loudness','speechiness','acousticness','instrumentalness','liveness','valence','tempo']].values
-        y = dataset[['hit']].values
+        X, y = dataset[['explicit','danceability','energy','key','loudness','speechiness','acousticness','instrumentalness','liveness','valence','tempo']].values, dataset[['hit']].values
         x_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state = 4)
-    predict_mode = 3    # 1 for logistic regression, 2 for random forest, 3 for KNN
+    predict_mode = 1    # 1 for logistic regression, 2 for random forest, 3 for KNN
     if predict_mode == 1:
         lg_model = LogisticRegression()
         lg_model.fit(x_train, y_train.ravel())
@@ -152,7 +147,7 @@ if predict:
         rf_model.fit(x_train, y_train.ravel())
         y_pred = rf_model.predict(x_test)
     elif predict_mode == 3:
-        knn = KNeighborsClassifier(n_neighbors = 27, p = 2, algorithm = 'auto', metric = 'minkowski', weights = 'distance')
+        knn = KNeighborsClassifier(n_neighbors = 17, p = 2, algorithm = 'auto', metric = 'minkowski', weights = 'distance')
         knn.fit(x_train, y_train.ravel())
         y_pred = knn.predict(x_test)
 

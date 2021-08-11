@@ -161,18 +161,18 @@ def create_song_list(set):
 mode = 1    # 1 for artists, 2 for songs
 all_artists_rules_print = False
 artist_rules_print = False
-artist_rules_plot = False
+artist_rules_plot = True
 artist_all_results = True
-song_all_results = False
+song_all_results = True
 
-artist_name = 'Dua Lipa'
+artist_name = 'The Eagles'
 artist_stats = Spotify_Class.artist(artist_name)
 client = SpotifyClientCredentials(client_id = artist_stats.cid, client_secret = artist_stats.secret)
 sp = spotipy.Spotify(client_credentials_manager = client)
 artist_stats.Get_Artist()
 
 if mode == 1:
-    num_recommendations, min_supp, rec_limit  = 13, 0.3, 11 # ARTISTS -> 10 recs, limit 10, min_supp of 0.2
+    num_recommendations, min_supp, rec_limit  = 18, 0.1, 18 # ARTISTS -> # of rec sets, min_support, # of rec artists per rec
     class_rec, df_rec, artist_list, song_list, popularity_list, track_number_list, uri_list = song_recommendations(artist_stats, num_recommendations, rec_limit)
     frequent_itemsets_artist = Apriori(artist_list, min_supp)
     rules_for_artists = association_rules(frequent_itemsets_artist, metric = 'lift', min_threshold = 1)
@@ -187,10 +187,9 @@ if mode == 1:
         plot_scatter(rules_for_artists, 'support', 'lift')
         plot_scatter(rules_for_artists, 'support', 'confidence')
         plot_scatter(rules_for_artists, 'lift', 'confidence')
-        plot_scatter(rules_for_artists, 'leverage', 'conviction')
     if artist_all_results:
         new_line()
-        print(new_rules_artists)
+        print(new_rules_artists.iloc[:,1:3])
         artist_set = obj_to_list(all_artists)
         recommended_artists = artist_set[:5]
         artists_of_interest = artist_set[5:]
